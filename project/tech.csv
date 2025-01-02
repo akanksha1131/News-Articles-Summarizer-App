@@ -1,151 +1,378 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-"NPCI ends 2024 with one of the year's 'biggest good news' for Google, PhonePe and WhatsApp in India",https://timesofindia.indiatimes.com/technology/tech-news/npci-ends-2024-with-one-of-the-years-biggest-good-news-for-google-phonepe-and-whatsapp-in-india/articleshow/116834609.cms,"Poll How often do you use online payments? Occasionally for specific needs Daily for most purchases
+"""Cock and Bull story"": SEBI fines this stock investment advisory company that promised 95% returns",https://timesofindia.indiatimes.com/technology/tech-news/cock-and-bull-story-sebi-fines-this-stock-investment-advisory-company-that-promised-95-returns/articleshow/116864043.cms,"Cock and Bull story
 
-What it means for PhonePe and Google Pay
+Securities and Exchange Board of India ( SEBI ), the capital markets regulator, has levied a penalty of Rs 19 lakh on Sai Proficient Research Investment Advisory and its proprietor for a series of regulatory breaches, including deceiving investors with unrealistic promises of returns.As per SEBI notice, the stock market regulator found that Sai Proficient made false promises of returns as high as 95%, a practice strictly prohibited under its regulations. Such exaggerated assurances, designed to entice unsuspecting investors, were classified by Sebi as fraudulent and unfair trade practices, significantly eroding investor confidence in the securities market. The ₹19 lakh fine reflects Sebi's determination to penalize such deceptive practices and protect the integrity of the market.Dismissing the investment advisory firm's defense as a fabricated ""cock and bull story"" and a mere ""afterthought"" to escape accountability, Sebi's investigation revealed a pattern of misconduct, including non-cooperation with the inquiry and collusion with an unregistered entity to defraud the public. ""Noticee submitted that she was pregnant and was in the last months of her pregnancy suffering from complications and thus, could not attend the office regularly and could not cooperate with investigation,"" as per SEBI's circular.The Sebi order details Sai Proficient's involvement with Shree Sai Proficient Financial Services (SSPFS), an unregistered entity operating illegally as an investment advisory service. The regulator's investigation found compelling evidence that SSPFS served as a front for Sai Proficient Research, facilitating the collection of investor funds. Transactions exceeding ₹4 crore were traced across accounts linked to both entities, exposing a deliberate and coordinated scheme to attract and mislead investors. Sebi explicitly stated that Sai Proficient acted ""in connivance with SSPFS, using it as a camouflage to lure people into its net.""Adding to the severity of the violations, Sai Proficient failed to provide crucial documentation to Sebi during the investigation. This included essential records such as Know Your Customer (KYC) details, risk profiling forms, and client agreements. Despite repeated notices from the regulator, the firm's non-compliance further exacerbated its regulatory breaches.","Sai Proficient Research Investment Advisory and its proprietor have been fined Rs 19 lakh. Probe revealed a pattern of misconduct, including non-cooperation with the inquiry and collusion with an unregistered entity to defraud the public. Sai Proficient failed to provide crucial documentation to Sebi during the investigation.","https://static.toiimg.com/thumb/msid-116864021,imgsize-1226936,width-400,resizemode-4/116864021.jpg"
+Looking back at AI in 2024 and the way forward: CXO Speak,https://timesofindia.indiatimes.com/technology/tech-news/looking-back-at-ai-in-2024-and-the-way-forward-cxo-speak/articleshow/116863786.cms,"Atul Rai, CEO and Co-Founder, Staqu Technologies
 
-Good news for WhatsApp
+Dr Tridib Mukherjee, Chief Data Science and AI Officer, Games24x7
 
-The National Payments Corporation of India ( NPCI ) has a good news for Google Pay and PhonePe as it has again delayed the implementation of its 30% market share cap for Unified Payments Interface ( UPI ) apps.The deadline, initially set for December 31, 2024, has now been pushed to December 31, 2026. This marks the second time the NPCI has extended the deadline, having previously postponed it in 2022.According to a report by The Economic Times, this decision comes after discussions with industry players“There were multiple conversations that happened with the industry participants and we believe that bringing the market cap at this point could slow down adoption of UPI…there is potential for the payment system to grow by another 10 times,” ET quoted a senior banker in the know.The delay primarily benefits PhonePe and Google Pay, the two dominant players in the UPI market, which together control roughly 90% of transactions. In November 2024, PhonePe processed 7.4 billion UPI payments, while Google Pay handled 5.7 billion, out of a total of 15.4 billion UPI transactions.By extending the deadline, the NPCI aims to foster continued growth and adoption of UPI while allowing major players like PhonePe and Google Pay more time to comply with the market share restrictions. After PhonePe and Google Pay, there is Paytm followed by Navi, Cred and others.The NPCI has also lifted all user restrictions on WhatsApp Pay, allowing the popular messaging app to onboard its entire user base of over 500 million onto the UPI platform. NPCI initially imposed a cap of one million users on WhatsApp Pay in 2020. The cap was gradually increased to 100 million in 2022 and has now been completely removed.The initial restrictions were intended to ensure a gradual rollout of the service and prevent strain on the banking infrastructure. However, with the UPI ecosystem now more robust, the NPCI has given WhatsApp Pay the green light to expand its reach.","The National Payments Corporation of India has again delayed the implementation of its 30% market share cap for Unified Payments Interface ( UPI ) apps. The deadline has now been pushed to December 31, 2026. This marks the second time the NPCI has extended the deadline, having previously postponed it in 2022. The decision comes after discussions with industry players.","https://static.toiimg.com/thumb/msid-116834617,imgsize-10856,width-400,resizemode-4/116834617.jpg"
-'You First': Mark Cuban’s response to Elon Musk’s appeal for positivity content on X goes viral,https://timesofindia.indiatimes.com/technology/tech-news/you-first-mark-cubans-response-to-elon-musks-appeal-for-positivity-content-on-x-goes-viral/articleshow/116832703.cms,"Poll What type of content do you engage with most on X? Humor, memes, and viral content Trending news and discussions
+Niraj Kumar, CTO, Onix
 
-Mark Cuban’s reply to Elon Musk’s positivity call: ‘You First’ goes viral
+Jeevaraj Pillai, Director, UFlex Limited
 
+Nipun Kalra, India Leader, BCG X
 
+Artificial Intelligence (AI) is no longer a futuristic concept but a transformative force reshaping industries and influencing our lives directly or indirectly. Across sectors, businesses are embracing AI not only to enhance customer experiences and streamline operations but also to ease employee workloads and promote better work-life balance. Industry leaders share insights on how AI impacted their domains in the year 20242024 has been a watershed year for retail, with AI transforming brick-and-mortar stores into high-tech hubs that offer immersive experiences and hyper-localized offerings. Technologies like AI-powered video and audio analytics, coupled with smart CCTV systems, have amplified the customer experience while reducing CAPEX and OPEX by over 20% in many cases. According to a survey done by EY, Retail investments in AI are expected to soar to US$31 billion by 2028, reflecting the growing importance of these technologies. These advancements are driving significant cost reductions, enhanced operational efficiency, and improved productivity, while also reducing issues like shoplifting. Moreover, the potential of Gen AI in the retail sector could elevate profitability by 20% by 2025, further accelerating growth and success as per the same report.AI has become a cornerstone in shaping the online gaming experience, enabling deeper insights into player behavior and enhancing personalization. While responsible gaming is already a key focus, the next phase of AI’s evolution aims on making these efforts more interpretable, actionable, and equitable. By leveraging predictive analytics and advanced AI models, platforms can analyze vast amounts of data to uncover trends, anticipate player needs, and deliver tailored experiences. These insights help navigate the complexities of dynamic user behaviors, ensuring gaming environments are both engaging and fair.From the technology standpoint, AI-related skills will be critical in the coming years, requiring more than surface-level knowledge like prompt engineering. The job seekers must develop a solid understanding of AI systems - diving deep into neural networks, transformer models, and optimization techniques. The key engineering skill lies in combining technical expertise with human creativity and critical thinking. While AI will be a powerful tool for innovation, it’s ultimately the human mindset and ingenuity that will drive it to create a meaningful impact. AI-driven jobs will gradually grow across all sectors, including predominantly human-centric fields like healthcare and BFSI. In the healthcare sector, AI will bring advancements in areas like diagnostics, medical imaging, and personalized treatments tailored to individuals.AI is revolutionizing the flexible packaging industry by driving sustainability, efficiency, and innovation across the value chain. In the production phase, AI can optimise manufacturing processes by analysing vast amounts of data, thereby improving efficiency, reducing waste, and enhancing product quality. At the end of the life cycle, AI is crucial for waste management and recycling processes. Advanced technologies, such as artificial intelligence and machine learning are transforming recyclability by enabling sorting systems to differentiate between plastic packaging and non-plastic packaging, food-grade and non-food-grade plastics. This breakthrough is significantly increasing recycling rates and supporting a circular economy by recovering high-value materials at scale.In 2024, organizations recognized that consuming LLMs was merely the tip of the iceberg. The true challenge—and opportunity—lay in addressing foundational elements such as ensuring data quality, building robust digital assets, and fostering widespread user adoption to fully realize AI's potential in enterprise settings. It was common to see organizations launch GenAI pilots with initial positive response, stemming from excitement around the technology. Although, the journey to delivering impact at scale requires dedicated efforts. The science behind AI will keep evolving in 2025. But here’s the catch - the winners won’t just master the technology; they’ll master the art of integrating it into their own contexts, empowering their teams, and creating a culture of innovation. Looking ahead, Agentic AI will be integral to Gen AI efforts for 2025. Organizations will build Digital Workers — AI agents will take on both employee and customer-facing roles, reshaping how work gets done.","Artificial Intelligence (AI) is no longer a futuristic concept but a transformative force reshaping industries and influencing our lives directly or indirectly. Across sectors, businesses are embracing AI not only to enhance customer experiences and streamline operations but also to ease employee workloads. Industry leaders share insights on how AI impacted their domains in the year 2024.","https://static.toiimg.com/thumb/msid-116863859,imgsize-1330184,width-400,resizemode-4/116863859.jpg"
+Apple TV+ is available for free this weekend: Here's how to watch,https://timesofindia.indiatimes.com/technology/tech-news/apple-tv-is-available-for-free-this-weekend-heres-how-to-watch/articleshow/116860214.cms,"Apple provides free access to its entire streaming catalog worldwide from January 3-5, 2025, with only an Apple ID needed. New seasons of popular series and upcoming releases are included. The offer aims to attract new subscribers, with the regular monthly cost being ₹99 in India.","The offer aims to attract new subscribers, with the regular monthly cost being ₹99 in India. Apple provides free access to its entire streaming catalog worldwide from January 3-5, 2025. New seasons of popular series and upcoming releases are included.","https://static.toiimg.com/thumb/msid-116860211,imgsize-322722,width-400,resizemode-4/116860211.jpg"
+Happy New Year 2025: Here are 20 passwords you should stop using right now,https://timesofindia.indiatimes.com/technology/tech-news/happy-new-year-2025-here-are-20-passwords-you-should-stop-using-right-now/articleshow/116852477.cms,"Poll What's the two most common passwords? password 123456
 
-Support for Mark Cuban: A call for transparency
 
 
+20 most common passwords used in India
 
-Elon Musk’s supporters defend him
+Rank
 
+Password
 
+Time to Crack It
 
-Cuban vs. Musk: A history of tensions
+Count
 
+1
 
 
-Also read |
 
-|
+123456
 
-|
 
-In a recent exchange on social media, Tesla and SpaceX CEO Elon Musk , now the owner of platform X (formerly Twitter), urged users to contribute more positive, beautiful, or informative content. Musk’s call for more uplifting posts was met with a sharp and witty response from billionaire entrepreneur Mark Cuban , who quickly tweeted, “You first.” This playful retort sparked a viral moment on the platform, with many users joining in the conversation, some in support of Cuban’s bold comment, while others rallied behind Musk.The online exchange not only showcased the ongoing rivalry between the two tech moguls but also sparked wider discussions about leadership styles, transparency, and the role of influential figures on social media.Musk's initial tweet appeared on December 29, 2024, and reflected his desire to reshape the atmosphere on X. Musk, known for his sometimes controversial social media presence, suggested that more people should post content that is uplifting and informative. His request came as part of his broader efforts to improve the platform's image, after several months of intense debate over the direction of X under his leadership.“Please post a bit more positive, beautiful or informative content on this platform,” Musk tweeted, aiming to encourage a more constructive environment. Musk’s call for more positivity resonated with many, but it also seemed to trigger some skepticism, leading to the viral reply from Cuban.Cuban’s response was succinct and playful. As the owner of the Dallas Mavericks and a prominent figure in the tech and business world, Cuban is no stranger to public debates. In his tweet, Cuban humorously flipped Musk’s request back on him by stating, “You first,” thereby challenging Musk to lead by example.Cuban’s response quickly gained traction, with many users applauding his cheekiness and calling for more transparency from influential public figures, including Musk. Some supporters of Cuban highlighted his direct communication style as a key factor in his leadership, praising his ability to engage with critics openly.Cuban’s comment was met with widespread admiration from users who appreciated his straightforward approach. One Twitter user expressed that Cuban’s transparency and creative thinking would have made him a better fit to lead DOGE (Department of Government Efficiency), a newly proposed initiative by President-elect Donald Trump’s administration, aimed at reducing bureaucracy. Others chimed in, lauding Cuban’s direct engagement with critics as an essential trait for modern business leaders in the digital age.Not everyone sided with Cuban, however. Musk’s supporters were quick to defend him, citing his consistent updates on positive initiatives such as Starlink, his satellite internet project. Some users highlighted Musk’s contributions to global communication as an example of the positive and beautiful content he regularly shares on social media.One Musk supporter pointed out that Musk often posts updates about Starlink, implying that his content has been both positive and meaningful. Others questioned Cuban’s critique, asking why he would target Musk, given the billionaire’s track record of public achievements.This exchange is not the first time Mark Cuban has publicly disagreed with Elon Musk. In a prior incident, Cuban took issue with Musk’s controversial comments regarding Germany's Alternative for Germany (AfD) party. Musk had compared the policies of the AfD to those of the US Democratic Party under President Barack Obama, sparking backlash from critics. Cuban responded to Musk’s endorsement by using Musk’s own AI chatbot, Grok, to challenge Musk’s stance. The chatbot ironically identified the Republican Party, which has been Musk’s preferred political affiliation in recent years, as the group most aligned with the AfD.","Elon Musk urged X users to post more positive, beautiful, or informative content. Tesla and SpaceX CEO was met with sharp and witty response from billionaire entrepreneur Mark Cuban. This playful retort sparked a viral moment on the platform, with many users joining in the conversation.","https://static.toiimg.com/thumb/msid-116832710,imgsize-18298,width-400,resizemode-4/116832710.jpg"
-NPCI has ‘UPI New Year gift’ for WhatsApp,https://timesofindia.indiatimes.com/technology/tech-news/npci-has-upi-new-year-gift-for-whatsapp/articleshow/116832478.cms,"Poll Which is your biggest concern when making online payments? Unexpected delays or transaction failures Hidden charges or fees
 
-Read the notification issued by NPCI
+< 1 second
 
-The National Payments Corporation of India ( NPCI ) has lifted the user cap on WhatsApp Pay , allowing the popular messaging platform to onboard its entire user base of over 500 million onto the Unified Payments Interface ( UPI ).In a release issued on the decision, the retail payments and settlement systems operator’s said that the 100-million-users cap on WhatsApp Pay has been removed.This decision comes after a gradual relaxation of restrictions on WhatsApp Pay since its first launch in 2020.Initially limited to one million users, the cap was increased to 100 million in 2022 and has now been completely removed.National Payments Corporation of India (NPCI) has removed the UPI user onboarding limit for WhatsApp Pay (Third Party App Provider), with immediate effect.With this development, WhatsApp Pay can now extend UPI services to its entire user base inIndia.Previously, NPCI had permitted WhatsApp Pay to expand its UPI user base in a phased manner. With this notification, NPCI is removing the limit restrictions on user onboarding on WhatsApp Pay. WhatsApp Pay shall continue to comply with all existing UPI guidelines and circulars applicable to existing TPAPs.WhatsApp Pay has struggled to gain traction in the competitive UPI market, processing 51 million transactions in November compared to the combined 12 billion transactions of Google Pay and PhonePe . In November 2023, WhatsApp Pay had processed around 22 million transactions.Meanwhile, NPPCI has delayed the implementation of market share caps for a popular digital payments method by two years. The move will benefit Google Pay and PhonePe . The mandate, which was to take effect from the end of 2024, will now kick in at the end of December 2026, according to NPCI.According to the first proposal, made in November 2020, digital payment firms are not be allowed to hold more than 30% share of the volume of transactions processed via UPI.","National Payments Corporation of India (NPCI) has removed the UPI user onboarding limit for WhatsApp Pay (Third Party App Provider), with immediate effect. With this development, WhatsApp Pay can now extend UPI services to its entire user base inIndia.","https://static.toiimg.com/thumb/msid-116832467,imgsize-72334,width-400,resizemode-4/116832467.jpg"
-"It’s your first time on Shark Tank, right ...: Aman Gupta takes a jab at Kunal Bahl in Shark Tank India Season 4",https://timesofindia.indiatimes.com/technology/tech-news/its-your-first-time-on-shark-tank-right-aman-gupta-takes-a-jab-at-kunal-bahl-in-shark-tank-india-season-4/articleshow/116826283.cms,"(Image source: Instagram/sharktank.india)
 
-Poll What type of businesses should get more attention on Shark Tank? Sustainable and eco-friendly businesses Tech startups and innovative products
 
-Shark Tank India Season 4 promo promises explosive rivalries
+8,526
 
 
 
-Kunal Bahl vs. Aman Gupta: Shark Tank's war of words over deals
+2
 
 
 
-Shark Tank Season 4: High-stakes moments
+password
 
 
 
-Shark Tank Season 4: What’s new in this season?
+< 1 second
 
-A new shark in the tank : Kunal Bahl’s entry brings fresh energy and a new dynamic to the panel.
 
-: Kunal Bahl’s entry brings fresh energy and a new dynamic to the panel. Bigger investments : With offers already crossing Rs 4 crore in the promo, this season may see record-breaking deals.
 
-: With offers already crossing Rs 4 crore in the promo, this season may see record-breaking deals. Dramatic exchanges: The sharks are more competitive than ever, and their debates promise to keep audiences hooked.
+2,587
 
-Also read |
 
-|
 
-|
+3
 
-As the countdown begins for the fourth season of Shark Tank India , excitement is brewing among fans of the hit business reality series. Known for its gripping entrepreneurial pitches and fierce competition among its panel of ‘sharks,’ the show has become a staple for aspiring business minds and entertainment enthusiasts alike. The latest promo promises an even more intense season, packed with high-stakes investments, razor-sharp critiques, and simmering rivalries between the sharks.This season, the panel welcomes a new face—Kunal Bahl, the CEO and co-founder of Snapdeal.His debut is already making waves, signaling a season filled with calculated risks and unexpected moves. As the promo reveals, the sharks are not just hungry; they’re ravenous.The promo opens with an explosive pitch from The Naturik Co., a company vying for investment. Kunal Bahl , in his first major move as a shark, pledges an investment of Rs 4 crore, leaving the panel and viewers stunned. Not to be outdone, Anupam Mittal, the CEO of People Group and Shaadi.com, quickly matches the offer. This moment sets the tone for what is shaping up to be a fiercely competitive season.While Peyush Bansal (CEO of Lenskart) and Namita Thapar (Executive Director of Emcure Pharmaceuticals) make strategic offers for other pitches, the spotlight often shifts back to Bahl and Mittal. Both sharks demonstrate a relentless drive to outbid and outwit each other. Bahl, critiquing the use of royalties in deals, labels it a tactic to exploit entrepreneurs, sparking debates within the panel.The competition between sharks isn’t limited to securing the best deals—it’s personal. In one of the promo’s most talked-about moments, Aman Gupta, co-founder of boAt Lifestyle, challenges Kunal Bahl’s approach to deal-making. “You can’t go into this individually,” Gupta asserts. Bahl, unfazed, counters with a confident retort: “I know how to make deals.”The exchange escalates when Gupta quips, “It’s your first time on Shark Tank, right?” Bahl, without missing a beat, fires back, “But I’ve done many deals, far more than you.” This moment encapsulates the tension and camaraderie that have become hallmarks of the show, ensuring viewers are in for a dramatic ride.The stakes aren’t just high for the entrepreneurs but for the sharks themselves. In another dramatic scene, Anupam Mittal challenges a contestant’s commitment. Waving a cheque dramatically, he asks, “Shall I tear it away then?” This theatrical gesture highlights the pressure-cooker environment of the show, where every decision carries significant weight.As investments soar and rivalries intensify, the show promises to be a platform where innovation meets ambition. The sharks, representing diverse industries, bring their expertise and unique perspectives to the table, ensuring that no pitch is overlooked.","Kunal Bahl, the CEO and co-founder of Snapdeal, makes his debut on the show. Promo promises an even more intense season, packed with high-stakes investments, razor-sharp critiques, and simmering rivalries between the sharks.","https://static.toiimg.com/thumb/msid-116831225,imgsize-67448,width-400,resizemode-4/116831225.jpg"
-"Elon Musk paying $2,000 per night to stay close to Donald Trump?",https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-paying-2000-per-night-to-stay-close-to-donald-trump/articleshow/116830108.cms,"Elon Musk’s Mar-a-Lago access: How $2,000 nights bring him closer to Donald Trump
 
 
+lemonfish
 
-Elon Musk’s lifestyle at Mar-a-Lago
 
 
+8 minutes
 
-What lies ahead for Elon Musk?
 
-Also read |
 
-|
+1,408
 
-|
 
-Tesla and SpaceX CEO Elon Musk is likely to wield unprecedented influence in the new US government. His relationship with President-elect Donald J. Trump showcases a unique intertwining of business, politics, and personal connections. Reports reveal that Musk has not only emerged as Trump’s largest donor but also serves as a key advisor, shaping policy, personnel, and strategy decisions during the transition period.Musk has also reportedly been residing in a luxurious Mar-a-Lago cottage, a move that highlights access and influence.According to a report in the New York Times, since the US election day, Elon Musk has made Mar-a-Lago, Trump’s exclusive members-only club in Palm Beach, Florida, almost his temporary home. Nestled in the ""Banyan"" cottage, located just a few hundred feet from Trump’s main residence, Musk’s presence is reportedly said to enable him to join impromptu dinners, participate in critical policy discussions, and even sit in on calls with foreign leaders.The Banyan cottage, which typically rents for over $2,000 per night, has become Musk’s command center, as reported by the New York Times. Although details of Musk’s financial arrangements are not clear, speculation abounds regarding whether he pays the standard rate or receives special treatment. The Mar-a-Lago club is said to often bill guests at the conclusion of their stay, leaving room for uncertainty about Musk’s expenses. Some insiders suggest Trump may waive or reduce the rental fee, considering Musk’s significant political contributions and influence.Musk’s presence at Mar-a-Lago has reportedly not gone unnoticed, with reports highlighting his personalized approach to the stay. From requesting meals outside regular hours to spending time with his children and their nannies on the property, Musk’s interactions with Trump exude a sense of camaraderie. He has attended high-profile events, including the election night watch party, and shared dinners with influential figures like Amazon’s Jeff Bezos. These personal moments have strengthened Musk’s rapport with Trump, enabling him to wield considerable influence over the incoming administration.Once Trump assumes office on January 20, Elon Musk’s proximity is expected to shift from Mar-a-Lago’s informal setting to the structured environment of the White House. While access to the West Wing is more regulated, Musk’s established relationship with Trump and his involvement in key decisions suggest his influence is likely to endure. Whether through official advisory roles or behind-the-scenes lobbying, Musk’s voice is likely to remain a significant factor in shaping U.S. policies that align with his business interests.","Tesla and SpaceX CEO Elon Musk is likely to wield unprecedented influence in the new US government. His relationship with President-elect Donald J. Trump showcases a unique intertwining of business, politics, and personal connections. Musk has also reportedly been residing in a luxurious Mar-a-Lago cottage, a move that highlights access and influence.","https://static.toiimg.com/thumb/msid-116830794,imgsize-32986,width-400,resizemode-4/116830794.jpg"
-"US Treasury Department hacking: How Chinese hackers accessed employee workstations, documents",https://timesofindia.indiatimes.com/technology/tech-news/us-treasury-department-hacking-how-chinese-hackers-accessed-employee-workstations-documents/articleshow/116828765.cms,"Poll Which type of hacking concerns you the most? Cyber espionage Identity theft
 
-What the US Treasury Department has to say
+4
 
-How ‘Chinese hackers’ managed to access systems and files
 
-What China has to say
 
-The US Treasury Department has confirmed a cybersecurity breach that allowed Chinese hackers to remotely access employee workstations and unclassified documents. According to a report by news agency AP, the department did not provide details on how many workstations had been accessed or what sort of documents the hackers may have obtained.In a letter to lawmakers, the US Treasury Department said that “at this time there is no evidence indicating the threat actor has continued access to Treasury information” and that it is being investigated as a “major cybersecurity incident .”“Treasury takes very seriously all threats against our systems, and the data it holds.Over the last four years, Treasury has significantly bolstered its cyber defense, and we will continue to work with both private and public sector partners to protect our financial system from threat actors,” a department spokesperson said in a statement.The report says that the intrusion occurred after hackers compromised a third-party software service provider,BeyondTrust , gaining access to a key used to secure remote technical support services.As per the Treasury Department, it learned of the latest problem on December 8 when BeyondTrust flagged that hackers had stolen a key “used by the vendor to secure a cloud-based service used to remotely provide technical support” to workers.The compromised service has been taken offline, and an investigation is underway involving the FBI, the Cybersecurity and Infrastructure Security Agency (CISA), and other relevant authorities.In Beijing, a foreign ministry spokesperson responded to hacking allegations, saying they lack evidence.“We have repeatedly stated our position on such groundless accusations that lack evidence. China consistently opposes all forms of hacking, and we are even more opposed to the dissemination of false information against China for political purposes,” Mao Ning said.","The US Treasury Department has confirmed a cybersecurity breach that allowed Chinese hackers to remotely access employee workstations and unclassified documents. The department did not provide details on how many workst stations had been accessed or what sort of documents the hackers may have obtained. In Beijing, a foreign ministry spokesperson responded to hacking allegations, saying they lack evidence.","https://static.toiimg.com/thumb/msid-116829573,imgsize-155478,width-400,resizemode-4/116829573.jpg"
-BSNL rolls two new prepaid plans of Rs 215 and Rs 628: Here’s what the new plans offer,https://timesofindia.indiatimes.com/technology/tech-news/bsnl-rolls-two-new-prepaid-plans-of-rs-215-and-rs-628-heres-what-the-new-plans-offer/articleshow/116826112.cms,"Poll Which mobile network feature is most important to you? Affordable data packages High-speed internet
+111111
 
-Plan details:
 
-Plan 1: Rs 215
 
-Validity : 30 days
+< 1 second
 
-: 30 days
 
-Daily data : 2GB (total 60GB for the month)
 
-: 2GB (total 60GB for the month)
+1,095
 
-Free SMS : 100 per day
 
-: 100 per day
 
-Unlimited calling : Local and STD across India
+5
 
-: Local and STD across India
 
-National roaming : Free
 
-: Free
+12345
 
-Value-added services: Zing Music, BSNL Tunes, and more
 
-Plan 2: Rs 628
 
-Validity : 84 days
+< 1 second
 
-: 84 days
 
-Daily data : 3GB (total 252GB for the plan duration)
 
-: 3GB (total 252GB for the plan duration)
+1,094
 
-Free SMS : 100 per day
 
-: 100 per day
 
-Unlimited calling : Local and STD across India
+6
 
-: Local and STD across India
 
-National roaming : Free
 
-: Free
+12345678
 
-Value-added services: Zing Music, BSNL Tunes, and more
 
-State-owned telecom operator BSNL has launched two new plans for its prepaid users. The two new prepaid plans aimed at providing affordable and long-validity options for its users. These plans are designed to cater to the diverse needs of BSNL subscribers, offering unlimited calling, free SMS, and high-speed data.These plans offer better value compared to pricier options from private telecom providers, making them an attractive choice for budget-conscious consumers.Additionally, BSNL has recently launched India's first direct-to-mobile service, BiTV, allowing users to access over 300 live TV channels on their mobile devices for free.","State-owned telecom operator BSNL has launched two new plans for its prepaid users. The two new prepaid plans aimed at providing affordable and long-validity options for its users. These plans offer better value compared to pricier options from private telecom providers, making them an attractive choice for budget-conscious consumers.","https://static.toiimg.com/thumb/msid-116826101,imgsize-560903,width-400,resizemode-4/116826101.jpg"
+
+< 1 second
+
+
+
+970
+
+
+
+7
+
+
+
+123456789
+
+
+
+< 1 second
+
+
+
+761
+
+
+
+8
+
+
+
+admin
+
+
+
+< 1 second
+
+
+
+454
+
+
+
+9
+
+
+
+abcd1234
+
+
+
+< 1 second
+
+
+
+380
+
+
+
+10
+
+
+
+1qaz@WSX
+
+
+
+11 minutes
+
+
+
+352
+
+
+
+11
+
+
+
+qwerty
+
+
+
+< 1 second
+
+
+
+333
+
+
+
+12
+
+
+
+admin123
+
+
+
+11 minutes
+
+
+
+326
+
+
+
+13
+
+
+
+Admin@123
+
+
+
+1 hour
+
+
+
+296
+
+
+
+14
+
+
+
+1234567
+
+
+
+< 1 second
+
+
+
+288
+
+
+
+15
+
+
+
+123123
+
+
+
+< 1 second
+
+
+
+281
+
+
+
+16
+
+
+
+welcome
+
+
+
+< 1 second
+
+
+
+279
+
+
+
+17
+
+
+
+abc123
+
+
+
+< 1 second
+
+
+
+270
+
+
+
+18
+
+
+
+1234567890
+
+
+
+< 1 second
+
+
+
+269
+
+
+
+19
+
+
+
+india123
+
+
+
+50 seconds
+
+
+
+232
+
+
+
+20
+
+
+
+Password
+
+
+
+< 1 second
+
+
+
+232
+
+
+
+
+
+With the dawn of a new year comes a fresh start for your online security. Cybersecurity experts warn against using weak passwords, as they leave you vulnerable to hackers. An annual report by NordPass highlighted the most commonly used passwords in India, revealing that several of them can be cracked in mere seconds.NordPass revealed that it has reviewed and analysed a massive 2.5TB database compiled from various publicly accessible sources, including the dark web.The data has been categorised by country of origin for detailed analysis. It primarily consists of passwords that were either stolen through malware or exposed in data breaches.“123456” has once again claimed the title of the ‘world’s worst password’. The password has topped the charts as the most common password 5 out of 6 times. “Password” held this title just once.","An annual report by NordPass highlighted the most commonly used passwords in India, revealing that several of them can be cracked in mere seconds. Cybersecurity experts warn against using weak passwords, as they leave you vulnerable to hackers. “123456” has once again claimed the title of the ‘world’s worst password’","https://static.toiimg.com/thumb/msid-116852458,imgsize-62896,width-400,resizemode-4/116852458.jpg"
+Thomas Cook India website goes down after cyberattack; read the company’s statement,https://timesofindia.indiatimes.com/technology/tech-news/thomas-cook-india-website-goes-down-after-cyberattack-read-the-companys-statement/articleshow/116851819.cms,"Poll Should cybersecurity be included as a mandatory subject in schools? No, it’s not a priority compared to other subjects Yes, it’s essential for the digital age
+
+“The ‘503 Service Unavailable’ message usually appears when the application pool is in a stopped state.”
+
+Read the company’s statement here
+
+
+
+“There has been an incident involving a cyber attack on our IT infrastructure,""
+
+""immediately upon becoming aware of the incident, we have taken the necessary steps to investigate and respond to the incident, including shutting down affected systems.""
+
+""We are working with leading
+
+cyber security experts
+
+to support our investigation and identify the extent of the issue and take remedial action as necessary,”
+
+Thomas Cook India has announced that its IT infrastructure is under a cyberattack . The travel services provider also said it's working with security experts to investigate the incident and will take necessary remedial actions. The company stated that it promptly took steps to investigate and respond upon discovering the incident, including shutting down affected systems.The company's India operations are headquartered in Mumbai. We at the TOI tech desk checked the company's website after the announcement and it displayed an Error 503 on its homepage, and Google search results led to an error page instead of the travel agency's website.Microsoft's official support blog explains that Error 503 occurs when a website is intentionally stopped by its owner. In the blog, senior engineer Pradeep Sharma notes:Thomas Cook said in a regulatory filing with BSE.However, the company didn’t disclose the exact timelines, but said,Thomas Cook added.Last month, Thomas Cook India launched Video KYC for retail foreign exchange buyers, enabling digital transactions without the need for in-person interactions.This feature allows customers to opt for home delivery of forex currency within two hours after completing the Aadhaar-based Video KYC verification.The Video KYC process involves two simple steps: customers log in to the company’s website, select their desired currency, and choose the Video KYC with home delivery option. After uploading documents and completing identity verification via a video call, the forex is delivered directly to their doorstep, eliminating the need for branch visits.This service can be used for loading or topping up prepaid forex cards, fund transfers, and buying or selling foreign exchange. Thomas Cook caters to over a million retail customers annually through its various channels.",Thomas Cook India has announced that its IT infrastructure is under a cyberattack. The travel services provider also said it's working with security experts to investigate the incident. Thomas Cook caters to over a million retail customers annually through its various channels.,"https://static.toiimg.com/thumb/msid-116851812,imgsize-26982,width-400,resizemode-4/116851812.jpg"
+"Cyberattack hits Sri Lankan police and government: YouTube, Instagram ad Facebook accounts targeted",https://timesofindia.indiatimes.com/technology/tech-news/cyberattack-hits-sri-lankan-police-and-government-youtube-instagram-ad-facebook-accounts-targeted/articleshow/116846949.cms,"Representative Image
+
+Cyber criminals targeted the social media accounts of the Sri Lankan police and the official website of the government’s Printer Department on Tuesday, reports news agency PTI. Confirming the attack, Police Spokesman and Superintendent K.B. Manathunga said “Our YouTube, Facebook, Instagram, Tiktok and X were hit by cyber-attacks. By now, we have restored all of them other than YouTube”.The hackers have been identified and investigations are underway, he added.Other than the police’s social media accounts, the hackers also attacked the official website of the government’s Printer Department, which publishes all government announcements and documents, was also hacked.However, the group behind the attack has yet to be identified, according to the Computer Emergency Response Team (CERT), a state agency.“We can safely say that the website data had not been compromised; they have only added certain data,” CERT spokesperson Niroshan Ananda told reporters.","Cyber criminals targeted the social media accounts of the Sri Lankan police and the official website of the government’s Printer Department on Tuesday. Police Spokesman and Superintendent K.B. Manathunga said “Our YouTube, Facebook, Instagram, Tiktok and X were hit by cyber-attacks”","https://static.toiimg.com/thumb/msid-116846937,imgsize-88224,width-400,resizemode-4/116846937.jpg"
 "Garena Free Fire MAX redeem codes for December 31: Win free diamonds, skins, and more",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-december-31-win-free-diamonds-skins-and-more/articleshow/116815681.cms,"What Are Free Fire Max Redeem Codes?
 
 
@@ -243,7 +470,7 @@ Take advantage of hints: Pay attention to off-topic words for clues. For every t
 
 Also Read:
 
-The New York Times debuted its first crossword puzzle on February 15, 1942, in the Sunday Magazine, created by Charles Erlenkotter and edited by Margaret Farrar. This made the NYT the first major newspaper to feature a crossword puzzle. Over the years, the NYT expanded its puzzle offerings, introducing the Mini Crossword in 2014, followed by popular games like Spelling Bee, Letter Boxed, and Tiles.In 2022, the paper released Wordle, which rapidly became a global sensation, alongside other games like Connections and Strands.NYT Strands is the newest addition to its puzzle family. This engaging daily game presents players with new themes each day, challenging them to discover all the words in the grid. One of its standout features is the special Spangram, which spans both sides of the board. With its unique approach to word puzzles, Strands has quickly gained a dedicated following, adding even more excitement to the NYT’s diverse collection of games, offering fresh, creative challenges that keep players coming back for more.Having trouble solving today’s NYT Strands puzzle? We’re here to help with some easy hints to fuel your curiosity even more. Plus, we’ve got today’s answer waiting for you – just keep reading.The theme for today’s Strands is 'Resolution'Below, we’ve shared the hints, answers, and Spangram for today ’s NYT Strands puzzle. The hints may give away part or all of the Strands, so proceed with caution. Scroll down to continue:The first word is the final piece of the puzzle, where all threads tie together.The second word is the literary bow that wraps up the story’s gift.The third word is the dramatic curtain call, complete with applause.The fourth word is the moment when the credits roll, signaling it’s done.The fifth word is the emotional seal that leaves nothing unfinished.The sixth word is the musical goodbye, a soft landing for the ears.Itsover is the Spangram for today’s NYT Strands puzzle.The first word is conclusion.The second word is epilogue.The third word is finale.The fourth word is ending.The fifth word is closure.The sixth word is coda.","NYT Strands is a puzzle game that blends elements of Connections, Spelling Bee, and classic crossword puzzles. Players are given 48 letters arranged on a 6 x 8-inch grid, along with a daily theme. The goal is to solve the Spangram and uncover all the theme-related words.","https://static.toiimg.com/thumb/msid-116808866,imgsize-10260,width-400,resizemode-4/116808866.jpg"
+The New York Times debuted its first crossword puzzle on February 15, 1942, in the Sunday Magazine, created by Charles Erlenkotter and edited by Margaret Farrar. This made the NYT the first major newspaper to feature a crossword puzzle. Over the years, the NYT expanded its puzzle offerings, introducing the Mini Crossword in 2014, followed by popular games like Spelling Bee, Letter Boxed, and Tiles. In 2022, the paper released Wordle, which rapidly became a global sensation, alongside other games like Connections and Strands.NYT Strands is the newest addition to its puzzle family. This engaging daily game presents players with new themes each day, challenging them to discover all the words in the grid. One of its standout features is the special Spangram, which spans both sides of the board. With its unique approach to word puzzles, Strands has quickly gained a dedicated following, adding even more excitement to the NYT’s diverse collection of games, offering fresh, creative challenges that keep players coming back for more.Having trouble solving today’s NYT Strands puzzle? We’re here to help with some easy hints to fuel your curiosity even more. Plus, we’ve got today’s answer waiting for you – just keep reading.The theme for today’s Strands is 'Resolution'Below, we’ve shared the hints, answers, and Spangram for today ’s NYT Strands puzzle. The hints may give away part or all of the Strands, so proceed with caution. Scroll down to continue:The first word is the final piece of the puzzle, where all threads tie together.The second word is the literary bow that wraps up the story’s gift.The third word is the dramatic curtain call, complete with applause.The fourth word is the moment when the credits roll, signaling it’s done.The fifth word is the emotional seal that leaves nothing unfinished.The sixth word is the musical goodbye, a soft landing for the ears.Itsover is the Spangram for today’s NYT Strands puzzle.The first word is conclusion.The second word is epilogue.The third word is finale.The fourth word is ending.The fifth word is closure.The sixth word is coda.","NYT Strands is a puzzle game that blends elements of Connections, Spelling Bee, and classic crossword puzzles. Players are given 48 letters arranged on a 6 x 8-inch grid, along with a daily theme. The goal is to solve the Spangram and uncover all the theme-related words.","https://static.toiimg.com/thumb/msid-116808866,imgsize-10260,width-400,resizemode-4/116808866.jpg"
 "As Elon Musk says, 'Will go to war on H-1B visa'; he gets support from the 'most-important' man in America",https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-says-will-go-to-war-on-h-1b-visa-he-gets-support-from-the-most-important-man-in-america/articleshow/116776377.cms,"Elon Musk (AP photo)
 
 “The reason I’m in America along with so many critical people who built
@@ -255,7 +482,7 @@ As the match ended, cricket memes went viral on social media platforms. Here are
 
 Record number of spectators
 
-Australia clinched a thrilling 184-run victory over India in a dramatic final session of the fourth Test in Melbourne, taking a 2-1 lead in the five-match series. India, needing 340 to win, collapsed to 155 all out, losing their last seven wickets for just 34 runs in 20.3 overs. India appeared to be heading for a draw after Yashasvi Jaiswal (84) and Rishabh Pant (30) steered them to 112-3 at tea. However, Pant's dismissal, attempting a six off Travis Head, triggered a batting collapse.Controversy arose with Jaiswal's dismissal. Initially given not out to a caught-behind appeal, the TV umpire overturned the decision based on visual evidence of the ball changing direction, despite the absence of audible noise. Jasprit Bumrah was exceptional for India, taking 5-57 in the second innings and nine wickets in the match. He had reduced Australia to 91-6 at one stage, a lead of less than 200.The match set a record attendance for cricket in Australia, with 373,591 spectators. Head described the atmosphere as inspiring and hailed the match as one of the best he has been involved in. India now needs to win the final Test in Sydney to level the series and retain the Border-Gavaskar Trophy .","Australia beat India by 184 runs in the fourth Test in Melbourne. India, needing 340 to win, collapsed to 155 all out, losing their last seven wickets for just 34 runs in 20.3 overs. The match set a record attendance for cricket in Australia, with 373,591 spectators.","https://static.toiimg.com/thumb/msid-116809284,imgsize-163284,width-400,resizemode-4/116809284.jpg"
+Australia clinched a thrilling 184-run victory over India in a dramatic final session of the fourth Test in Melbourne, taking a 2-1 lead in the five-match series. India, needing 340 to win, collapsed to 155 all out, losing their last seven wickets for just 34 runs in 20.3 overs. India appeared to be heading for a draw after Yashasvi Jaiswal (84) and Rishabh Pant (30) steered them to 112-3 at tea.However, Pant's dismissal, attempting a six off Travis Head, triggered a batting collapse.Controversy arose with Jaiswal's dismissal. Initially given not out to a caught-behind appeal, the TV umpire overturned the decision based on visual evidence of the ball changing direction, despite the absence of audible noise. Jasprit Bumrah was exceptional for India, taking 5-57 in the second innings and nine wickets in the match. He had reduced Australia to 91-6 at one stage, a lead of less than 200.The match set a record attendance for cricket in Australia, with 373,591 spectators. Head described the atmosphere as inspiring and hailed the match as one of the best he has been involved in. India now needs to win the final Test in Sydney to level the series and retain the Border-Gavaskar Trophy .","Australia beat India by 184 runs in the fourth Test in Melbourne. India, needing 340 to win, collapsed to 155 all out, losing their last seven wickets for just 34 runs in 20.3 overs. The match set a record attendance for cricket in Australia, with 373,591 spectators.","https://static.toiimg.com/thumb/msid-116809284,imgsize-163284,width-400,resizemode-4/116809284.jpg"
 ‘Doomsday Bunker’ under Facebook founder Mark Zuckerberg’s Hawaii estate: Here’s what Meta CEO has to say,https://timesofindia.indiatimes.com/technology/tech-news/doomsday-bunker-under-facebook-founder-mark-zuckerbergs-hawaii-estate-heres-what-meta-ceo-has-to-say/articleshow/116766758.cms,"Mark Zuckerberg, Meta CEO, has clarified that the underground structure on his $270 million Hawaiian estate is a practical shelter, not a high-tech Doomsday bunker as rumored. The main purpose of the ranch is to produce world-class beef, not secretive survival preparations.","Zuckerberg's $270 million Hawaiian estate is a practical shelter, not a high- tech Doomsday bunker as rumored. The main purpose of the ranch is to produce world-class beef, not secretive survival preparations, Zuckerberg said. Zuckerberg, Meta CEO, has clarified that the underground structure on his $270m Hawaiian estate.","https://static.toiimg.com/thumb/msid-116766749,imgsize-956747,width-400,resizemode-4/116766749.jpg"
 Tomarket secret daily combo for December 30: How to unlock combo and more,https://timesofindia.indiatimes.com/technology/gaming/tomarket-secret-daily-combo-for-december-30-how-to-unlock-combo-and-more/articleshow/116796369.cms,"What is Tomarket's Secret Daily Combo Feature?
 
@@ -364,6 +591,158 @@ Are you a passionate Coin Master player looking to score free spins and coins? L
 Planning a New Year's Eve party at an Airbnb? Think again. The company is deploying anti-party technology globally to prevent ""unauthorized and disruptive"" gatherings during the holiday season. This technology uses machine learning to identify and block risky bookings, focusing on factors like trip length, booking timing, and distance from the guest's location. While implemented worldwide, the technology will specifically target the US, UK, Australia, Canada, France, Puerto Rico, Spain and New Zealand. Last New Year's Eve, Airbnb blocked 74,000 such bookings.High-risk bookings will be blocked or redirected to alternative accommodations. Short holiday getaways (one to three nights) in entire homes will also be restricted, and guests booking entire homes will be required to agree to a ""mandatory anti-party attestation."" ""If a booking is identified as higher risk, the guest will either be blocked from booking, or redirected to alternative accommodations on the platform,"" the company said.Guests will also be required to accept mandatory anti-party attestation. ""Guests who can make reservations will need to confirm that they understand that disruptive and unauthorized parties are not allowed on Airbnb, and they face suspension or removal from the platform if they violate this policy,"" said the company.Airbnb also has a 'Neighborhood Support Line' for local communities to report urgent issues, like a party in progress, at a home they believe is listed on Airbnb.Airbnb's efforts to curb disruptive parties started in 2019 with a ban on ""party houses,"" followed by stricter measures in 2020 due to the pandemic. In 2022, the company permanently banned large parties worldwide following several violent incidents at Airbnb rentals, including a shooting in Pittsburgh that resulted in two deaths and eight injuries.","Airbnb is deploying anti-party technology globally to prevent ""unauthorized and disruptive"" gatherings during the holiday season. The technology uses machine learning to identify and block risky bookings, focusing on factors like trip length, booking timing, and distance from the guest's location.","https://static.toiimg.com/thumb/msid-116360157,imgsize-561375,width-400,resizemode-4/116360157.jpg"
 Infosys founder Narayan Murthy wants young entrepreneurs to embrace compassionate capitalism with combination of …,https://timesofindia.indiatimes.com/technology/tech-news/infosys-founder-narayan-murthy-wants-young-entrepreneurs-to-embrace-compassionate-capitalism-with-combination-of-/articleshow/116359895.cms,"Infosys founder NR Narayan Murthy, speaking at the Indian Chamber of Commerce, championed technology urged entrepreneurs to adopt ""compassionate capitalism"" and stressed hard work.","Infosys founder NR Narayan Murthy spoke at the Indian Chamber of Commerce. He urged entrepreneurs to adopt ""compassionate capitalism"" and stressed hard work. Murthy was speaking at a conference in New Delhi, India, on Monday.","https://static.toiimg.com/thumb/msid-116359888,imgsize-43798,width-400,resizemode-4/116359888.jpg"
 Apple iPhone 17 Air may carry a cheaper price tag: Report,https://timesofindia.indiatimes.com/technology/mobiles-tabs/apple-iphone-17-air-may-carry-a-cheaper-price-tag-report/articleshow/116354575.cms,"Apple is reportedly developing an ultra-thin iPhone 17 Air, potentially thinner than any previous model. Rumored features include a simplified camera system, an aluminum body, a 6.6-inch display, and an A19 chipset. It's expected to launch in September 2025 at a lower price than the Pro models.","Apple is reportedly developing an ultra-thin iPhone 17 Air. Rumored features include a simplified camera system, an aluminum body, and a 6.6-inch display. It's expected to launch in September 2025 at a lower price than the Pro models.","https://static.toiimg.com/thumb/msid-116354570,imgsize-541569,width-400,resizemode-4/116354570.jpg"
+"Grapes, ice, condoms, soft drinks and more: What India ordered on New Year’s Eve on Blinkit, Swiggy and others",https://timesofindia.indiatimes.com/technology/tech-news/grapes-ice-condoms-soft-drinks-and-more-what-india-ordered-on-new-years-eve-on-blinkit-swiggy-and-others/articleshow/116845783.cms,"Poll Do you believe quick commerce platforms will continue to grow in popularity? No, it’s just a temporary trend Yes, they’re the future of shopping
+
+What Indians ordered on New Year’s Eve
+
+India ushered in 2025 with a wave of excitement, as house parties and celebrations took center stage on New Year’s Eve. Data from India’s top quick commerce platforms like Blinkit , Zepto and others reveals a night of stocking up on party essentials like chips, soft drinks, and water bottles, reflecting the festive mood across cities. Albinder Dhindsa, CEO of Blinkit, and Phani Kishan A, co-founder of Swiggy and Swiggy Instamart , shared multiple posts on X (formerly Twitter) giving live updates on the most-ordered items from their platforms.Snacks led the pack as the go-to party staples. Blinkit reported delivering 2.3 lakh packets of aloo bhujia by 8 PM on December 31, 2024, while Swiggy Instamart saw orders for chips skyrocket to 853 per minute around 7:30 PM. The platform’s top trending searches for the evening included milk, chips, chocolate, grapes, and paneer.Ice cubes and cold drinks were other party essentials that flew off the virtual shelves. Blinkit delivered 6,834 packets of ice cubes by 8 PM, and BigBasket recorded a 1290% surge in ice cube orders. Phani Kishan A highlighted the frenzy, tweeting, “Ice hit its peak at 7:41 PM with 119 kgs delivered in that minute!”Non-alcoholic beverages also saw a boom, with BigBasket reporting a 552% increase in sales, while disposable cups and plates saw a 325% rise, signaling lively house gatherings. Soda and mocktail sales followed suit with over 200% growth, rounding off a night of joyous revelry and spirited celebrations.Dhindsa posted on X: “Someone from Hyderabad just gave the highest tip of the day (₹2500) to one of our delivery partners! And the city which has tipped the most today is Bengaluru with a total of ₹1,79,735 in tip”.“Nimboo orders spiking right now! Is it officially tequila time? 🍋”, he wrote in another post.","India ushered in 2025 with a wave of excitement, as house parties and celebrations took center stage. Data from India’s top quick commerce platforms like Blinkit, Zepto and others reveals a night of stocking up on party essentials.","https://static.toiimg.com/thumb/msid-116845776,imgsize-2831579,width-400,resizemode-4/116845776.jpg"
+"NPCI ends 2024 with one of the year's 'biggest good news' for Google, PhonePe and WhatsApp in India",https://timesofindia.indiatimes.com/technology/tech-news/npci-ends-2024-with-one-of-the-years-biggest-good-news-for-google-phonepe-and-whatsapp-in-india/articleshow/116834609.cms,"Poll How often do you use online payments? Occasionally for specific needs Daily for most purchases
+
+What it means for PhonePe and Google Pay
+
+Good news for WhatsApp
+
+The National Payments Corporation of India ( NPCI ) has a good news for Google Pay and PhonePe as it has again delayed the implementation of its 30% market share cap for Unified Payments Interface ( UPI ) apps.The deadline, initially set for December 31, 2024, has now been pushed to December 31, 2026. This marks the second time the NPCI has extended the deadline, having previously postponed it in 2022.According to a report by The Economic Times, this decision comes after discussions with industry players“There were multiple conversations that happened with the industry participants and we believe that bringing the market cap at this point could slow down adoption of UPI…there is potential for the payment system to grow by another 10 times,” ET quoted a senior banker in the know.The delay primarily benefits PhonePe and Google Pay, the two dominant players in the UPI market, which together control roughly 90% of transactions. In November 2024, PhonePe processed 7.4 billion UPI payments, while Google Pay handled 5.7 billion, out of a total of 15.4 billion UPI transactions.By extending the deadline, the NPCI aims to foster continued growth and adoption of UPI while allowing major players like PhonePe and Google Pay more time to comply with the market share restrictions. After PhonePe and Google Pay, there is Paytm followed by Navi, Cred and others.The NPCI has also lifted all user restrictions on WhatsApp Pay, allowing the popular messaging app to onboard its entire user base of over 500 million onto the UPI platform. NPCI initially imposed a cap of one million users on WhatsApp Pay in 2020. The cap was gradually increased to 100 million in 2022 and has now been completely removed.The initial restrictions were intended to ensure a gradual rollout of the service and prevent strain on the banking infrastructure. However, with the UPI ecosystem now more robust, the NPCI has given WhatsApp Pay the green light to expand its reach.","The National Payments Corporation of India has again delayed the implementation of its 30% market share cap for Unified Payments Interface ( UPI ) apps. The deadline has now been pushed to December 31, 2026. This marks the second time the NPCI has extended the deadline, having previously postponed it in 2022. The decision comes after discussions with industry players.","https://static.toiimg.com/thumb/msid-116834617,imgsize-10856,width-400,resizemode-4/116834617.jpg"
+'You First': Mark Cuban’s response to Elon Musk’s appeal for positivity content on X goes viral,https://timesofindia.indiatimes.com/technology/tech-news/you-first-mark-cubans-response-to-elon-musks-appeal-for-positivity-content-on-x-goes-viral/articleshow/116832703.cms,"Poll What type of content do you engage with most on X? Humor, memes, and viral content Trending news and discussions
+
+Mark Cuban’s reply to Elon Musk’s positivity call: ‘You First’ goes viral
+
+
+
+Support for Mark Cuban: A call for transparency
+
+
+
+Elon Musk’s supporters defend him
+
+
+
+Cuban vs. Musk: A history of tensions
+
+
+
+Also read |
+
+|
+
+|
+
+In a recent exchange on social media, Tesla and SpaceX CEO Elon Musk , now the owner of platform X (formerly Twitter), urged users to contribute more positive, beautiful, or informative content. Musk’s call for more uplifting posts was met with a sharp and witty response from billionaire entrepreneur Mark Cuban , who quickly tweeted, “You first.” This playful retort sparked a viral moment on the platform, with many users joining in the conversation, some in support of Cuban’s bold comment, while others rallied behind Musk. The online exchange not only showcased the ongoing rivalry between the two tech moguls but also sparked wider discussions about leadership styles, transparency, and the role of influential figures on social media.Musk's initial tweet appeared on December 29, 2024, and reflected his desire to reshape the atmosphere on X. Musk, known for his sometimes controversial social media presence, suggested that more people should post content that is uplifting and informative. His request came as part of his broader efforts to improve the platform's image, after several months of intense debate over the direction of X under his leadership.“Please post a bit more positive, beautiful or informative content on this platform,” Musk tweeted, aiming to encourage a more constructive environment. Musk’s call for more positivity resonated with many, but it also seemed to trigger some skepticism, leading to the viral reply from Cuban.Cuban’s response was succinct and playful. As the owner of the Dallas Mavericks and a prominent figure in the tech and business world, Cuban is no stranger to public debates. In his tweet, Cuban humorously flipped Musk’s request back on him by stating, “You first,” thereby challenging Musk to lead by example.Cuban’s response quickly gained traction, with many users applauding his cheekiness and calling for more transparency from influential public figures, including Musk. Some supporters of Cuban highlighted his direct communication style as a key factor in his leadership, praising his ability to engage with critics openly.Cuban’s comment was met with widespread admiration from users who appreciated his straightforward approach. One Twitter user expressed that Cuban’s transparency and creative thinking would have made him a better fit to lead DOGE (Department of Government Efficiency), a newly proposed initiative by President-elect Donald Trump’s administration, aimed at reducing bureaucracy. Others chimed in, lauding Cuban’s direct engagement with critics as an essential trait for modern business leaders in the digital age.Not everyone sided with Cuban, however. Musk’s supporters were quick to defend him, citing his consistent updates on positive initiatives such as Starlink, his satellite internet project. Some users highlighted Musk’s contributions to global communication as an example of the positive and beautiful content he regularly shares on social media.One Musk supporter pointed out that Musk often posts updates about Starlink, implying that his content has been both positive and meaningful. Others questioned Cuban’s critique, asking why he would target Musk, given the billionaire’s track record of public achievements.This exchange is not the first time Mark Cuban has publicly disagreed with Elon Musk. In a prior incident, Cuban took issue with Musk’s controversial comments regarding Germany's Alternative for Germany (AfD) party. Musk had compared the policies of the AfD to those of the US Democratic Party under President Barack Obama, sparking backlash from critics. Cuban responded to Musk’s endorsement by using Musk’s own AI chatbot, Grok, to challenge Musk’s stance. The chatbot ironically identified the Republican Party, which has been Musk’s preferred political affiliation in recent years, as the group most aligned with the AfD.","Elon Musk urged X users to post more positive, beautiful, or informative content. Tesla and SpaceX CEO was met with sharp and witty response from billionaire entrepreneur Mark Cuban. This playful retort sparked a viral moment on the platform, with many users joining in the conversation.","https://static.toiimg.com/thumb/msid-116832710,imgsize-18298,width-400,resizemode-4/116832710.jpg"
+NPCI has ‘UPI New Year gift’ for WhatsApp,https://timesofindia.indiatimes.com/technology/tech-news/npci-has-upi-new-year-gift-for-whatsapp/articleshow/116832478.cms,"Poll Which is your biggest concern when making online payments? Unexpected delays or transaction failures Hidden charges or fees
+
+Read the notification issued by NPCI
+
+The National Payments Corporation of India ( NPCI ) has lifted the user cap on WhatsApp Pay , allowing the popular messaging platform to onboard its entire user base of over 500 million onto the Unified Payments Interface ( UPI ).In a release issued on the decision, the retail payments and settlement systems operator’s said that the 100-million-users cap on WhatsApp Pay has been removed. This decision comes after a gradual relaxation of restrictions on WhatsApp Pay since its first launch in 2020.Initially limited to one million users, the cap was increased to 100 million in 2022 and has now been completely removed.National Payments Corporation of India (NPCI) has removed the UPI user onboarding limit for WhatsApp Pay (Third Party App Provider), with immediate effect.With this development, WhatsApp Pay can now extend UPI services to its entire user base inIndia.Previously, NPCI had permitted WhatsApp Pay to expand its UPI user base in a phased manner. With this notification, NPCI is removing the limit restrictions on user onboarding on WhatsApp Pay. WhatsApp Pay shall continue to comply with all existing UPI guidelines and circulars applicable to existing TPAPs.WhatsApp Pay has struggled to gain traction in the competitive UPI market, processing 51 million transactions in November compared to the combined 12 billion transactions of Google Pay and PhonePe . In November 2023, WhatsApp Pay had processed around 22 million transactions.Meanwhile, NPPCI has delayed the implementation of market share caps for a popular digital payments method by two years. The move will benefit Google Pay and PhonePe . The mandate, which was to take effect from the end of 2024, will now kick in at the end of December 2026, according to NPCI.According to the first proposal, made in November 2020, digital payment firms are not be allowed to hold more than 30% share of the volume of transactions processed via UPI.","National Payments Corporation of India (NPCI) has removed the UPI user onboarding limit for WhatsApp Pay (Third Party App Provider), with immediate effect. With this development, WhatsApp Pay can now extend UPI services to its entire user base inIndia.","https://static.toiimg.com/thumb/msid-116832467,imgsize-72334,width-400,resizemode-4/116832467.jpg"
+"It’s your first time on Shark Tank, right ...: Aman Gupta takes a jab at Kunal Bahl in Shark Tank India Season 4",https://timesofindia.indiatimes.com/technology/tech-news/its-your-first-time-on-shark-tank-right-aman-gupta-takes-a-jab-at-kunal-bahl-in-shark-tank-india-season-4/articleshow/116826283.cms,"(Image source: Instagram/sharktank.india)
+
+Poll What type of businesses should get more attention on Shark Tank? Sustainable and eco-friendly businesses Tech startups and innovative products
+
+Shark Tank India Season 4 promo promises explosive rivalries
+
+
+
+Kunal Bahl vs. Aman Gupta: Shark Tank's war of words over deals
+
+
+
+Shark Tank Season 4: High-stakes moments
+
+
+
+Shark Tank Season 4: What’s new in this season?
+
+A new shark in the tank : Kunal Bahl’s entry brings fresh energy and a new dynamic to the panel.
+
+: Kunal Bahl’s entry brings fresh energy and a new dynamic to the panel. Bigger investments : With offers already crossing Rs 4 crore in the promo, this season may see record-breaking deals.
+
+: With offers already crossing Rs 4 crore in the promo, this season may see record-breaking deals. Dramatic exchanges: The sharks are more competitive than ever, and their debates promise to keep audiences hooked.
+
+Also read |
+
+|
+
+|
+
+As the countdown begins for the fourth season of Shark Tank India , excitement is brewing among fans of the hit business reality series. Known for its gripping entrepreneurial pitches and fierce competition among its panel of ‘sharks,’ the show has become a staple for aspiring business minds and entertainment enthusiasts alike. The latest promo promises an even more intense season, packed with high-stakes investments, razor-sharp critiques, and simmering rivalries between the sharks.This season, the panel welcomes a new face—Kunal Bahl, the CEO and co-founder of Snapdeal. His debut is already making waves, signaling a season filled with calculated risks and unexpected moves. As the promo reveals, the sharks are not just hungry; they’re ravenous.The promo opens with an explosive pitch from The Naturik Co., a company vying for investment. Kunal Bahl , in his first major move as a shark, pledges an investment of Rs 4 crore, leaving the panel and viewers stunned. Not to be outdone, Anupam Mittal, the CEO of People Group and Shaadi.com, quickly matches the offer. This moment sets the tone for what is shaping up to be a fiercely competitive season.While Peyush Bansal (CEO of Lenskart) and Namita Thapar (Executive Director of Emcure Pharmaceuticals) make strategic offers for other pitches, the spotlight often shifts back to Bahl and Mittal. Both sharks demonstrate a relentless drive to outbid and outwit each other. Bahl, critiquing the use of royalties in deals, labels it a tactic to exploit entrepreneurs, sparking debates within the panel.The competition between sharks isn’t limited to securing the best deals—it’s personal. In one of the promo’s most talked-about moments, Aman Gupta, co-founder of boAt Lifestyle, challenges Kunal Bahl’s approach to deal-making. “You can’t go into this individually,” Gupta asserts. Bahl, unfazed, counters with a confident retort: “I know how to make deals.”The exchange escalates when Gupta quips, “It’s your first time on Shark Tank, right?” Bahl, without missing a beat, fires back, “But I’ve done many deals, far more than you.” This moment encapsulates the tension and camaraderie that have become hallmarks of the show, ensuring viewers are in for a dramatic ride.The stakes aren’t just high for the entrepreneurs but for the sharks themselves. In another dramatic scene, Anupam Mittal challenges a contestant’s commitment. Waving a cheque dramatically, he asks, “Shall I tear it away then?” This theatrical gesture highlights the pressure-cooker environment of the show, where every decision carries significant weight.As investments soar and rivalries intensify, the show promises to be a platform where innovation meets ambition. The sharks, representing diverse industries, bring their expertise and unique perspectives to the table, ensuring that no pitch is overlooked.","This season, the panel welcomes a new face—Kunal Bahl, the CEO and co-founder of Snapdeal. His debut is already making waves, signaling a season filled with calculated risks and unexpected moves. With offers already crossing Rs 4 crore in the promo, this season may see record-breaking deals.","https://static.toiimg.com/thumb/msid-116831225,imgsize-67448,width-400,resizemode-4/116831225.jpg"
+"Elon Musk paying $2,000 per night to stay close to Donald Trump?",https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-paying-2000-per-night-to-stay-close-to-donald-trump/articleshow/116830108.cms,"Elon Musk’s Mar-a-Lago access: How $2,000 nights bring him closer to Donald Trump
+
+
+
+Elon Musk’s lifestyle at Mar-a-Lago
+
+
+
+What lies ahead for Elon Musk?
+
+Also read |
+
+|
+
+|
+
+Tesla and SpaceX CEO Elon Musk is likely to wield unprecedented influence in the new US government. His relationship with President-elect Donald J. Trump showcases a unique intertwining of business, politics, and personal connections. Reports reveal that Musk has not only emerged as Trump’s largest donor but also serves as a key advisor, shaping policy, personnel, and strategy decisions during the transition period. Musk has also reportedly been residing in a luxurious Mar-a-Lago cottage, a move that highlights access and influence.According to a report in the New York Times, since the US election day, Elon Musk has made Mar-a-Lago, Trump’s exclusive members-only club in Palm Beach, Florida, almost his temporary home. Nestled in the ""Banyan"" cottage, located just a few hundred feet from Trump’s main residence, Musk’s presence is reportedly said to enable him to join impromptu dinners, participate in critical policy discussions, and even sit in on calls with foreign leaders.The Banyan cottage, which typically rents for over $2,000 per night, has become Musk’s command center, as reported by the New York Times. Although details of Musk’s financial arrangements are not clear, speculation abounds regarding whether he pays the standard rate or receives special treatment. The Mar-a-Lago club is said to often bill guests at the conclusion of their stay, leaving room for uncertainty about Musk’s expenses. Some insiders suggest Trump may waive or reduce the rental fee, considering Musk’s significant political contributions and influence.Musk’s presence at Mar-a-Lago has reportedly not gone unnoticed, with reports highlighting his personalized approach to the stay. From requesting meals outside regular hours to spending time with his children and their nannies on the property, Musk’s interactions with Trump exude a sense of camaraderie. He has attended high-profile events, including the election night watch party, and shared dinners with influential figures like Amazon’s Jeff Bezos. These personal moments have strengthened Musk’s rapport with Trump, enabling him to wield considerable influence over the incoming administration.Once Trump assumes office on January 20, Elon Musk’s proximity is expected to shift from Mar-a-Lago’s informal setting to the structured environment of the White House. While access to the West Wing is more regulated, Musk’s established relationship with Trump and his involvement in key decisions suggest his influence is likely to endure. Whether through official advisory roles or behind-the-scenes lobbying, Musk’s voice is likely to remain a significant factor in shaping U.S. policies that align with his business interests.","Tesla and SpaceX CEO Elon Musk is likely to wield unprecedented influence in the new US government. His relationship with President-elect Donald J. Trump showcases a unique intertwining of business, politics, and personal connections. Musk has also reportedly been residing in a luxurious Mar-a-Lago cottage, a move that highlights access and influence.","https://static.toiimg.com/thumb/msid-116830794,imgsize-32986,width-400,resizemode-4/116830794.jpg"
+"US Treasury Department hacking: How Chinese hackers accessed employee workstations, documents",https://timesofindia.indiatimes.com/technology/tech-news/us-treasury-department-hacking-how-chinese-hackers-accessed-employee-workstations-documents/articleshow/116828765.cms,"Poll Which type of hacking concerns you the most? Cyber espionage Identity theft
+
+What the US Treasury Department has to say
+
+How ‘Chinese hackers’ managed to access systems and files
+
+What China has to say
+
+The US Treasury Department has confirmed a cybersecurity breach that allowed Chinese hackers to remotely access employee workstations and unclassified documents. According to a report by news agency AP, the department did not provide details on how many workstations had been accessed or what sort of documents the hackers may have obtained.In a letter to lawmakers, the US Treasury Department said that “at this time there is no evidence indicating the threat actor has continued access to Treasury information” and that it is being investigated as a “major cybersecurity incident .”“Treasury takes very seriously all threats against our systems, and the data it holds.Over the last four years, Treasury has significantly bolstered its cyber defense, and we will continue to work with both private and public sector partners to protect our financial system from threat actors,” a department spokesperson said in a statement.The report says that the intrusion occurred after hackers compromised a third-party software service provider,BeyondTrust , gaining access to a key used to secure remote technical support services.As per the Treasury Department, it learned of the latest problem on December 8 when BeyondTrust flagged that hackers had stolen a key “used by the vendor to secure a cloud-based service used to remotely provide technical support” to workers.The compromised service has been taken offline, and an investigation is underway involving the FBI, the Cybersecurity and Infrastructure Security Agency (CISA), and other relevant authorities.In Beijing, a foreign ministry spokesperson responded to hacking allegations, saying they lack evidence.“We have repeatedly stated our position on such groundless accusations that lack evidence. China consistently opposes all forms of hacking, and we are even more opposed to the dissemination of false information against China for political purposes,” Mao Ning said.","The US Treasury Department has confirmed a cybersecurity breach that allowed Chinese hackers to remotely access employee workstations and unclassified documents. The department did not provide details on how many workst stations had been accessed or what sort of documents the hackers may have obtained. In Beijing, a foreign ministry spokesperson responded to hacking allegations, saying they lack evidence.","https://static.toiimg.com/thumb/msid-116829573,imgsize-155478,width-400,resizemode-4/116829573.jpg"
+BSNL rolls two new prepaid plans of Rs 215 and Rs 628: Here’s what the new plans offer,https://timesofindia.indiatimes.com/technology/tech-news/bsnl-rolls-two-new-prepaid-plans-of-rs-215-and-rs-628-heres-what-the-new-plans-offer/articleshow/116826112.cms,"Poll Which mobile network feature is most important to you? Affordable data packages High-speed internet
+
+Plan details:
+
+Plan 1: Rs 215
+
+Validity : 30 days
+
+: 30 days
+
+Daily data : 2GB (total 60GB for the month)
+
+: 2GB (total 60GB for the month)
+
+Free SMS : 100 per day
+
+: 100 per day
+
+Unlimited calling : Local and STD across India
+
+: Local and STD across India
+
+National roaming : Free
+
+: Free
+
+Value-added services: Zing Music, BSNL Tunes, and more
+
+Plan 2: Rs 628
+
+Validity : 84 days
+
+: 84 days
+
+Daily data : 3GB (total 252GB for the plan duration)
+
+: 3GB (total 252GB for the plan duration)
+
+Free SMS : 100 per day
+
+: 100 per day
+
+Unlimited calling : Local and STD across India
+
+: Local and STD across India
+
+National roaming : Free
+
+: Free
+
+Value-added services: Zing Music, BSNL Tunes, and more
+
+State-owned telecom operator BSNL has launched two new plans for its prepaid users. The two new prepaid plans aimed at providing affordable and long-validity options for its users. These plans are designed to cater to the diverse needs of BSNL subscribers, offering unlimited calling, free SMS, and high-speed data.These plans offer better value compared to pricier options from private telecom providers, making them an attractive choice for budget-conscious consumers.Additionally, BSNL has recently launched India's first direct-to-mobile service, BiTV, allowing users to access over 300 live TV channels on their mobile devices for free.","State-owned telecom operator BSNL has launched two new plans for its prepaid users. The two new prepaid plans aimed at providing affordable and long-validity options for its users. These plans offer better value compared to pricier options from private telecom providers, making them an attractive choice for budget-conscious consumers.","https://static.toiimg.com/thumb/msid-116826101,imgsize-560903,width-400,resizemode-4/116826101.jpg"
 Quadrantids meteor shower visible in India: When and how to watch 2025’s first celestial event,https://timesofindia.indiatimes.com/technology/tech-news/quadrantids-meteor-shower-visible-in-india-when-and-how-to-watch-2025s-first-celestial-event/articleshow/116822522.cms,"Representative Image
 
 “Quadrantids, alternatively referred to as the Bootids, derive their name from the constellation
@@ -457,7 +836,9 @@ Also read |
 |
 
 As advancements in artificial intelligence continue to reshape digital landscapes, a troubling trend has emerged: the creation and dissemination of sexually explicit deepfake images. A recent survey conducted by The Yomiuri Shimbun revealed that Japan ranks third globally in traffic to websites enabling the creation of such content. Over the course of a year, these platforms received over 18 million visits from Japan alone, trailing only the United States and India. The growing prevalence of explicit deepfake content has raised significant ethical and legal concerns, prompting calls for urgent action.The survey, conducted in collaboration with digital analytics firm Similarweb Ltd., analyzed traffic data from December 2023 to November 2024. The findings identified 41 websites that allow users to produce sexually explicit deepfake images by uploading photographs of individuals. These platforms, many of which launched in 2024, saw a surge in popularity alongside increased accessibility to generative AI technology.The global distribution of traffic to these sites highlights the scale of the issue:In Japan, an estimated 410,000 users accessed these sites monthly, with approximately 80% doing so via smartphones. Instructions for creating deepfake content were predominantly available in English, Russian, and Japanese, underscoring the international reach and accessibility of such platforms.The proliferation of deepfake technology has coincided with a sharp increase in explicit content creation. According to U.S.-based cybersecurity firm Security Hero, 95,820 deepfake videos were detected online in 2023, a figure five and a half times higher than in 2019. Alarmingly, 98% of these videos were of a sexually explicit nature.The creation and sharing of such content have profound implications, particularly for victims whose images are manipulated without consent. Social media platforms often serve as the primary channels for distributing deepfake content, compounding the harm by amplifying its reach.While deepfake technology is not inherently malicious, its misuse has sparked widespread concern. Experts argue that existing laws in many countries are ill-equipped to address the complexities of AI-generated content. In Japan, for instance, there are no specific legal provisions targeting the creation or distribution of deepfake pornography.Ichiro Sato, a professor at the National Institute of Informatics, has emphasised the urgent need for legislative reform. “Laws tailored to address deepfake technology must be introduced to protect individuals from exploitation,” Sato stated. He also highlighted the importance of promoting information literacy to equip people with the knowledge to recognize and combat deepfake content.Several nations have already taken steps to address the challenges posed by deepfake technology. In the United States, multiple states have enacted laws criminalizing the creation and distribution of non-consensual deepfake pornography . The European Union has also proposed regulations to hold AI developers accountable for the ethical use of their technologies.Japan’s position as a major user of deepfake platforms underscores the necessity for similar measures. Beyond legislation, public awareness campaigns and educational initiatives are critical to fostering a culture of digital responsibility.","Japan ranks third globally in traffic to websites enabling the creation of such content. Over the course of a year, these platforms received over 18 million visits from Japan alone. The growing prevalence of explicit deepfake content has raised significant ethical and legal concerns.","https://static.toiimg.com/thumb/msid-116808522,imgsize-31542,width-400,resizemode-4/116808522.jpg"
-"Indians are also being laid off in the US and honestly, the real problem is …: Perplexity AI founder Aravind Srinivas",https://timesofindia.indiatimes.com/technology/tech-news/indians-are-also-being-laid-off-in-the-us-and-honestly-the-real-problem-is-perplexity-ai-founder-aravind-srinivas/articleshow/116808862.cms,"""Clearly, it surprised everybody online and it's not exactly data driven -- the claims that the H-1B or Indian immigrants are taking away the jobs of laid-off American tech workers,”
+"Indians are also being laid off in the US and honestly, the real problem is …: Perplexity AI founder Aravind Srinivas",https://timesofindia.indiatimes.com/technology/tech-news/indians-are-also-being-laid-off-in-the-us-and-honestly-the-real-problem-is-perplexity-ai-founder-aravind-srinivas/articleshow/116808862.cms,"Poll Do you agree with Perplexity AI founder Aravind Srinivas's take? No Yes
+
+""Clearly, it surprised everybody online and it's not exactly data driven -- the claims that the H-1B or Indian immigrants are taking away the jobs of laid-off American tech workers,”
 
 ""Indians are also being laid off and honestly, the real problem… is the illegal immigration. That’s what the government needs to cut down on. The numbers are just an order of magnitude higher there, and even in legal immigration, the problem is actually that the sectors in which people are getting laid off are not necessarily the ones that the Indian H-1B applications are coming. People getting laid off are not necessarily all engineers. If people actually took a look at the data and saw it for themselves, they wouldn't be this angry,""
 
@@ -465,7 +846,7 @@ H-1B visa debate that has divided
 
 Aravind Srinivas met PM Narendra Modi
 
-A debate regarding Indian immigrants and H-1B visas is raging in the US. Tesla CEO Elon Musk who played a key role in the election campaign of the US President-elect Donald Trump is a strong supporter of H-1B visas. Musk, who along with Indian-American tech entrepreneur Vivek Ramaswamy has been tapped by Trump to lead his Department of Government Efficiency (DOGE), argued last week that foreign workers are needed for tech companies like Musk's SpaceX and Tesla.Perplexity AI founder Aravind Srinivas argues against the focus on H-1B visas. He told the Economic Times that the focus on H-1B visas is misplaced and unsupported by data, emphasizing illegal immigration as the more pressing issue.” Srinivas has previously worked at DeepMind, Google, and OpenAI. His company, Perplexity AI, is reportedly valued at $9 billion.Srinivas stated in an interview. He pointed out that Indians are also affected by layoffs and that the government should prioritize addressing illegal immigration.he added.This fierce H-1B visa debate is said to have divided Trump's supporters into two factions: One side supports H-1B visas, while the other opposes them. Figures like Elon Musk and Vivek Ramaswamy have expressed support for H-1B visas, while others have criticized this stance.Srinivas also defended Sriram Krishnan, the political figure's pick for AI policy advisor, against criticism related to Krishnan's past support of H-1B visas and immigration. Srinivas believes the criticism is unfair and expects the controversy to subside once people examine the data. He praised Krishnan's qualifications and urged people to avoid misinterpreting his previous statements.Last week, Aravind Srinivas also met Prime Minister Narendra Modi. In a post on Twitter, Srinivas wrote, ""Had the honour to meet Prime Minister @narendramodi ji. We had a great conversation about the potential for AI adoption in India and across the world. Really inspired by Modi Ji's dedication to staying updated on the topic and his remarkable vision for the future.""Responding to the post, Prime Minister Modi said, ""It was great to meet you and discuss AI, its uses and its evolution. Good to see you doing great work with @perplexity_ai. Wish you all the best for your future endeavours.""","Perplexity AI founder Aravind Srinivas argues against the focus on H-1B visas. He believes the focus is misplaced and unsupported by data. Sriniva also defended Sriram Krishnan, the political figure's pick for AI policy advisor, against criticism.","https://static.toiimg.com/thumb/msid-116808933,imgsize-139764,width-400,resizemode-4/116808933.jpg"
+A debate regarding Indian immigrants and H-1B visas is raging in the US. Tesla CEO Elon Musk who played a key role in the election campaign of the US President-elect Donald Trump is a strong supporter of H-1B visas. Musk, who along with Indian-American tech entrepreneur Vivek Ramaswamy has been tapped by Trump to lead his Department of Government Efficiency (DOGE), argued last week that foreign workers are needed for tech companies like Musk's SpaceX and Tesla.Perplexity AI founder Aravind Srinivas argues against the focus on H-1B visas. He told the Economic Times that the focus on H-1B visas is misplaced and unsupported by data, emphasizing illegal immigration as the more pressing issue.” Srinivas has previously worked at DeepMind, Google, and OpenAI. His company, Perplexity AI, is reportedly valued at $9 billion.Srinivas stated in an interview. He pointed out that Indians are also affected by layoffs and that the government should prioritize addressing illegal immigration.he added.This fierce H-1B visa debate is said to have divided Trump's supporters into two factions: One side supports H-1B visas, while the other opposes them. Figures like Elon Musk and Vivek Ramaswamy have expressed support for H-1B visas, while others have criticized this stance.Srinivas also defended Sriram Krishnan, the political figure's pick for AI policy advisor, against criticism related to Krishnan's past support of H-1B visas and immigration. Srinivas believes the criticism is unfair and expects the controversy to subside once people examine the data. He praised Krishnan's qualifications and urged people to avoid misinterpreting his previous statements.Last week, Aravind Srinivas also met Prime Minister Narendra Modi. In a post on Twitter, Srinivas wrote, ""Had the honour to meet Prime Minister @narendramodi ji. We had a great conversation about the potential for AI adoption in India and across the world. Really inspired by Modi Ji's dedication to staying updated on the topic and his remarkable vision for the future.""Responding to the post, Prime Minister Modi said, ""It was great to meet you and discuss AI, its uses and its evolution. Good to see you doing great work with @perplexity_ai. Wish you all the best for your future endeavours.""","Perplexity AI founder Aravind Srinivas argues against the focus on H-1B visas. He believes the focus is misplaced and unsupported by data. Sriniva also defended Sriram Krishnan, the political figure's pick for AI policy advisor.","https://static.toiimg.com/thumb/msid-116808933,imgsize-139764,width-400,resizemode-4/116808933.jpg"
 "Ransomware attack exposes database of one of France's biggest IT companies with over 100,000 employees",https://timesofindia.indiatimes.com/technology/tech-news/ransomware-attack-exposes-database-of-one-of-frances-biggest-it-companies-with-over-100000-employees/articleshow/116806359.cms,"Representative Image
 
 What Atos said about the ransomware attack
@@ -577,39 +958,3 @@ Hackers have injected harmful code into several Google Chrome extensions, target
 Apple supplier Foxconn completes $230 million ‘home’ for its workers in India,https://timesofindia.indiatimes.com/technology/tech-news/apple-supplier-foxconn-completes-230-million-home-for-its-workers-in-india/articleshow/116804501.cms,"Representative Image
 
 Taiwanese supplier Foxconn that assembles iPhones for Apple , has completed a $230 million project to build dormitories for its workers in Tamil Nadu . As per an Economic Times report, an audit is currently underway to ensure the facility is ready for use. Foxconn employs over 41,000 people in its Chennai facilities, of which 35,000 are women. This new housing project is expected to significantly improve their convenience and quality of life.Citing unnamed sources, the report says that the dormitories are located within Foxconn's premises in Sriperumbudur. It will allow a large number of its female workforce to live close to their workplace. “Workers won’t need to commute by bus anymore—they can simply walk to their dorms,” said a source familiar with the project.“This is Foxconn's first investment to build dormitories for its workers in India,” one of the persons cited above said. “It is ready, and workers should be moving in soon. It has been built on Foxconn’s premises in Sriperumbudur which means that a large chunk of their female workforce will now not have to even take a bus and commute to their hostels. They can merely walk down to their dorms.”Foxconn dormitory complex in Tamil Nadu: DetailsThe dormitory complex includes six 10-story residential blocks and two utility blocks, covering 20 acres within the company's premises. It can accommodate up to 18,000 workers. The company has added special facilities like areas for cricket, badminton, basketball, and volleyball, as well as a canteen providing subsidized meals. A small grocery store will also be available for daily needs, the report says.In addition to the dorms built by Foxconn, Tamil Nadu inaugurated another industrial housing project in August this year to accommodate 18,720 women employees of Foxconn. This facility, located in Vallam Vadagal near Sriperumbudur, costs Rs 706 crore to build.","Taiwanese supplier Foxconn that assembles iPhones for Apple has completed a $230 million project to build dormitories for its workers in Tamil Nadu. Foxconn employs over 41,000 people in its Chennai facilities, of which 35,000 are women. This new housing project is expected to significantly improve their convenience and quality of life.","https://static.toiimg.com/thumb/msid-116804487,imgsize-38842,width-400,resizemode-4/116804487.jpg"
-"Chinese hackers hit two of the largest US telecom giants, what the companies have to say",https://timesofindia.indiatimes.com/technology/tech-news/chinese-hackers-hit-two-of-the-largest-us-telecom-giants-what-the-companies-have-to-say/articleshow/116803860.cms,"What AT&T and Verizon said
-
-Two of the largest telecom companies in the US, AT&T and Verizon , have acknowledged they were targeted by the Chinese-linked Salt Typhoon cyberespionage operation, but assured customers that their US networks are now secure after working with law enforcement and government officials.According to a report by news agency Reuters, both the companies said that the hackers gained access to their systems. While AT&T stated that the attack focused on a “small number of individuals of foreign intelligence interest”, Verizon said that an independent cybersecurity firm has confirmed the containment.Both AT&T and Verizon claim to have secured their networks.“We detect no activity by nation-state actors in our networks at this time. Based on our current investigation of this attack, the People's Republic of China targeted a small number of individuals of foreign intelligence interest,” an AT&T spokesperson was quoted as saying.It said that only a few cases of compromised information were identified and the company is monitoring its networks to protect customers data.Meanwhile, erizon said that it has not detected any such activity in its network.“We have not detected threat actor activity in Verizon's network for some time, and after considerable work addressing this incident, we can report that Verizon has contained the activities associated with this particular incident,” Verizon's chief legal officer said.This news comes after US officials revealed that Salt Typhoon hackers had compromised at least nine telecommunications companies, gaining “broad and full access” to networks, enabling them to track millions of individuals and intercept phone calls. The hackers reportedly targeted individuals connected to both the Trump and Biden presidential campaigns.Chinese officials have previously described the allegations as disinformation and said Beijing “firmly opposes and combats cyber attacks and cyber theft in all forms.”",AT&T and Verizon say they were targeted by the Chinese-linked Salt Typhoon cyberespionage operation. Both the companies said that the hackers gained access to their systems. AT&T stated that the attack focused on a “small number of individuals of foreign intelligence interest’,"https://static.toiimg.com/thumb/msid-116803821,imgsize-155478,width-400,resizemode-4/116803821.jpg"
-"Spotify’s search results are exposing users to adult content, what the company has to say",https://timesofindia.indiatimes.com/technology/tech-news/spotifys-search-results-are-exposing-users-to-adult-content-what-the-company-has-to-say/articleshow/116803090.cms,"What Spotify has to say
-
-Spotify is once again facing scrutiny over adult content slipping through its moderation filters and appearing in search results on the app. As per a report, a search for rapper M.I.A. yielded a pornographic video among the suggested results.A Reddit user exposed the issue by sharing a screenshot of the search results, The Verge reported, adding that it is unable to replicate the original finding but uncovered other sexually explicit videos hidden within the “Video” tab of Spotify's search results.These videos, often uploaded by accounts with generic or nonsensical names on the popular music streaming service, appear to exploit a loophole in Spotify's podcast moderation system.Spotify spokesperson Laura Batey told The Verge that the reported videos have been removed for violating the platform's policies, which explicitly prohibit sexually explicit material. However, an explanation for how these videos bypassed their moderation process has purportedly not been addressed.This latest incident highlights an ongoing problem for Spotify. Users have previously reported encountering explicit content in search results, algorithmic playlists, and even disguised as erotic audio tracks. In 2022, Vice also documented the prevalence of sexually explicit audio and graphic images on the platform.Recently, a report revealed that the platform is being exploited to spread malware, pirated software, and spam through playlists and podcasts. Security researchers discovered that malicious actors have been using playlist and podcast descriptions to distribute links to harmful websites and illicit content.These malicious actors are exploiting Spotify's search engine optimisation (SEO) to reach a wider audience. Even if Spotify blocks certain keywords on its platform, searching for those keywords on Google can still lead users to malicious links hosted within Spotify playlists and podcasts.Furthermore, spammers are using misleading tactics to attract unsuspecting users. They often employ irrelevant audio content and titles related to trending topics, like TikTok or adult content, to increase visibility in search results.","A search for rapper M.I.A. yielded a pornographic video among the suggested results. A Reddit user exposed the issue by sharing a screenshot of the search results. These videos, often uploaded by accounts with generic or nonsensical names, appear to exploit a loophole in Spotify's podcast moderation system.Spotify spokesperson Laura Batey said the reported videos have been removed for violating the platform's policies.","https://static.toiimg.com/thumb/msid-116803050,imgsize-13838,width-400,resizemode-4/116803050.jpg"
-"10 shows on Netflix, Amazon Prime, Disney and JioCinema that world searched most in 2024",https://timesofindia.indiatimes.com/technology/tech-news/10-shows-on-netflix-amazon-prime-disney-and-jiocinema-that-world-searched-most-in-2024/articleshow/116801403.cms,"In 2024, Google’s Year in Search revealed the most popular TV shows and movies capturing global interest. Shows like 'Baby Reindeer' and 'Fallout' topped the list, while movies such as 'Inside Out 2' and 'Deadpool & Wolverine' also gained significant traction.","In 2024, Google’s Year in Search revealed the most popular TV shows and movies capturing global interest. Shows like 'Baby Reindeer' and 'Fallout' topped the list, while movies such as 'Inside Out 2' and ‘Deadpool & Wolverine' also gained significant traction.","https://static.toiimg.com/thumb/msid-116801703,imgsize-36780,width-400,resizemode-4/116801703.jpg"
-"YouTube tests new ""Play Something,"" here’s how it may help viewers",https://timesofindia.indiatimes.com/technology/tech-news/youtube-tests-new-play-something-heres-how-it-may-help-viewers/articleshow/116801426.cms,"YouTube is testing a new floating ""Play something"" button in its Android app. This button selects videos randomly based on user preferences. When pressed, it launches content in the YouTube Shorts player format. This feature aims to streamline content discovery. The feature is still in the testing phase and currently appears limited.","YouTube is testing a new floating ""Play something"" button in its Android app. This button selects videos randomly based on user preferences. When pressed, it launches content in the YouTube Shorts player format. The feature is still in the testing phase and currently appears limited.","https://static.toiimg.com/thumb/msid-116801406,imgsize-1003987,width-400,resizemode-4/116801406.jpg"
-What is behind Apple’s ‘allergy’ to the world’s biggest and most successful AI chip company Nvidia,https://timesofindia.indiatimes.com/technology/tech-news/what-is-behind-apples-allergy-to-the-worlds-biggest-and-most-successful-ai-chip-company-nvidia/articleshow/116800458.cms,"What is Apple's 'allergy' with Nvidia
-
-Apple looking to partner with Broadcom to design AI chip
-
-While Apple has joined the ranks of tech giants integrating AI features into its devices, the company is quietly pursuing a strategy to reduce its reliance on Nvidia, the dominant provider of GPUs crucial for AI development, a report has said. Despite currently depending on the chipmaker's technology, like many others in the industry, Apple is taking steps to lessen its dependence on Nvidia because of an 'allergy'.According to a report by The Information, unlike other tech giants who are buying up Nvidia's GPUs in bulk, Apple is primarily renting access to them through cloud providers.“Instead of buying boatloads of Nvidia chips as its tech peers do, the iPhone maker mostly rents access to them from cloud providers like Amazon and Microsoft. In some cases-for example, to train its biggest models-Apple has rented Al chips designed in-house by Google rather than Nvidia,” the report said.Apple’s move to break free from Nvidia appears to be rooted in both financial considerations and Apple's desire for technological autonomy in its products, the report said.“Apple's Nvidia allergy appears to stem partly from its frugality and a desire to own and control the key technological ingredients for its products to avoid giving others leverage over its operations,” it added.“But leaders within Apple have also quietly nursed grudges against Nvidia for nearly two decades, stemming from business disputes that originated during the era when Steve Jobs was Apple's CEO,” the report noted, citing 10 former Apple and Nvidia employees with direct knowledge of the relationship.The report says that the most significant development in Apple's quest for independence is a partnership with Broadcom to develop its own AI server chip .“And in its boldest move yet to avoid relying on Nvidia, Apple is working with Broadcom to design an Al server chip expected to be ready for mass production by 2026,” it added.The chip's networking technology is said to be crucial for Al processing. If Apple succeeds with the Al chip, internally code-named Baltra, it would mark a significant milestone for the company's silicon team, the publication said.","Apple looking to partner with Broadcom to design AI chip, report says. Apple is taking steps to lessen its dependence on Nvidia because of an 'allergy' Apple is primarily renting access to Nvidia's GPUs through cloud providers. Apple's move to break free from Nvidia appears to be rooted in both financial considerations and Apple's desire for technological autonomy.","https://static.toiimg.com/thumb/msid-116800648,imgsize-10482,width-400,resizemode-4/116800648.jpg"
-"iPhone’s Photos app on iOS 18 allegedly sharing data with Apple, here’s what we know",https://timesofindia.indiatimes.com/technology/tech-news/iphones-photos-app-on-ios-18-allegedly-sharing-data-with-apple-heres-what-we-know/articleshow/116798641.cms,"iPhone’s Photos app is sharing users' photo data with Apple without explicit consent, according to developer Jeff Johnson . The feature, called ""Enhanced Visual Search,"" enables landmark identification but requires data sharing with Apple's servers.Users checking their iPhone 15 Pro and other iOS devices are finding the setting automatically enabled in their Photos app settings. The feature, which can be accessed through iOS Settings or Mac's Photos app settings, allows users to identify landmarks in their photos and search for images using landmark names.While the feature appears to be an extension of the Visual Look Up capability introduced in iOS 15, it differs significantly in its data-sharing requirements. Unlike Visual Look Up, which operates entirely on-device, Enhanced Visual Search sends encrypted ""vector embeddings"" - numerical representations of image characteristics - to Apple's servers for landmark matching.According to Apple's machine learning research blog, the process begins with an on-device analysis to detect ""regions of interest"" that might contain landmarks. When detected, these regions are converted into vector embeddings before being encrypted and sent to Apple for comparison against their global landmark database.Despite Apple's implementation of privacy measures, including data encryption and condensed image formatting, the default activation of this data-sharing feature has sparked concerns. The company's approach contrasts with its handling of other data collection features, such as Siri interactions and analytics, which typically require explicit user opt-in.Apple has not yet responded to requests for comment about these privacy concerns. Users can manually disable the feature by navigating to the Photos settings in their iOS Settings app or Mac Photos app settings menu.","iPhone's Photos app is automatically sharing users' photo data with Apple. The feature, called ""Enhanced Visual Search,"" enables landmark identification but requires data sharing with Apple's servers. Users can manually disable the feature by navigating to the Photos settings in their iOS Settings app or Mac Photos app settings menu.","https://static.toiimg.com/thumb/msid-116798596,imgsize-1901352,width-400,resizemode-4/116798596.jpg"
-Azealia Banks mocks Grimes: Elon Musk harvested ur eggs and took a picture of your c section is ...; read her reply,https://timesofindia.indiatimes.com/technology/tech-news/azealia-banks-mocks-grimes-elon-musk-harvested-ur-eggs-and-took-a-picture-of-your-c-section-is-read-her-reply/articleshow/116796637.cms,"Azealia Banks’ claims about Grimes and Elon Musk
-
-
-
-Grimes’ response to Azealia Banks
-
-
-
-Grimes’ defense of Indian immigrants
-
-
-
-Grimes and Elon Musk’s public lives
-
-Also read |
-
-|
-
-|
-
-Canadian musician Grimes, born Claire Elise Boucher, has addressed her past relationship with tech mogul Elon Musk , responding to allegations made by rapper Azealia Banks . On December 26, Banks reignited their longstanding feud, accusing Grimes of holding onto old grievances while asserting that Musk had been in control of their past relationship. Grimes countered these claims, stating that she ended the relationship and expressing contentment with her life and children. Meanwhile, the singer also made headlines for speaking out against anti-Indian racism in the United States, referencing her personal connection to Indian culture.Banks, known for her fiery social media presence, posted a series of tweets on X (formerly Twitter), accusing Grimes of portraying herself as a victim and clinging to their 2018 feud. Banks compared their dynamic to rival witches from Wicked, mocked Grimes’ artistry, and alleged that Elon Musk was the dominant force in their relationship.“Girl, the way u are still trying to hold out on some weird ass innocent bullshit years later after u got dumped, cheated on, [and] ur kids kidnapped… is PEAK white female delusion,” Banks wrote in her tirade.This feud stems from a 2018 incident when Banks claimed she had been invited to Musk's home to collaborate with Grimes, only to find herself caught in what she described as a bizarre situation.In response, Grimes dismissed Banks’ accusations, clarifying that she was not ""dumped"" by Musk and had chosen to end their relationship. ""I didn’t ‘get dumped.’ I bounced,"" she wrote. Grimes expressed gratitude for her current life, stating, “My amazing baby is asleep in my bed beside me, I'm in love. No regrets. Life is as beautiful as u want it to be.”Grimes and Musk, who were together for four years before splitting in 2022, have faced public scrutiny regarding their relationship and custody disputes over their three children.In a separate conversation on X, Grimes condemned the rising racism against Indian immigrants in the United States. Her comments came amidst growing calls from far-right activists, such as Laura Loomer, to ban H-1B visas and racially target Indian professionals.“Suddenly concocting anti-Indian energy out of nowhere is embarrassing y’all. Also, they were clear they planned to do this,” Grimes wrote. She further shared her personal connection to Indian culture, highlighting that her stepfather, Ravi Sidhoo, is of Indian origin. “I had a fire childhood in a half-Indian household. Indian culture jives very well with Western culture,” she added.When a user questioned whether India would welcome an influx of American culture, Grimes replied, “We already did this to them. It has caused a ton of problems for them,” acknowledging the impact of Western influence on Indian traditions.Grimes and Musk, though no longer together, continue to attract attention for their individual ventures and public statements. Musk’s political activities, particularly during Donald Trump’s second term as U.S. president, have made him a prominent figure in global discourse. Grimes, on the other hand, has used her platform to advocate for social issues, including equity and inclusivity in technology and immigration policies.","Canadian musician Grimes responded to allegations made by rapper Azealia Banks. Banks accused Grimes of holding onto old grievances while asserting that Musk had been in control of their past relationship. Grimes countered these claims, stating that she ended the relationship and expressing contentment with her life and children.","https://static.toiimg.com/thumb/msid-116798691,imgsize-34480,width-400,resizemode-4/116798691.jpg"
-"'How will we Combat ChatGPT?,' Google employee asks CEO Sundar Pichai; Here's what he replied",https://timesofindia.indiatimes.com/technology/tech-news/how-will-we-combat-chatgpt-google-employee-asks-ceo-sundar-pichai-heres-what-he-replied/articleshow/116798374.cms,"Google is ramping up its AI strategy for 2025, with DeepMind co-founder Demis Hassabis promising significant product advancements to counter ChatGPT's dominance. CEO Sundar Pichai emphasized the importance of 2025 in a company-wide meeting, highlighting the launch of Project Astra and updates to Gemini. Despite entering the AI race later, Pichai remains confident in Google's potential to lead.",Google is ramping up its AI strategy for 2025. DeepMind co-founder Demis Hassabis promises significant product advancements. CEO Sundar Pichai remains confident in Google's potential to lead in the AI race. He highlighted the launch of Project Astra and updates to Gemini.,"https://static.toiimg.com/thumb/msid-116798324,imgsize-38280,width-400,resizemode-4/116798324.jpg"
