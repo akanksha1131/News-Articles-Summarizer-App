@@ -1,206 +1,298 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
-Meet the Indian who temporarily owned Google.com for Rs 800 – what Google did next will shock you,https://timesofindia.indiatimes.com/technology/tech-news/meet-the-indian-who-temporarily-owned-google-com-for-rs-800-what-google-did-next-will-shock-you/articleshow/120281792.cms,"Ex-Google employee Sanmay Ved accidentally bought Google.com for just Rs 800
+Google rolls out new Android security feature: What it does and how it works,https://timesofindia.indiatimes.com/technology/tech-news/google-rolls-out-new-android-security-feature-what-it-does-and-how-it-works/articleshow/120329198.cms,"How the auto-reboot feature works
 
+Why Google introduced this feature
 
+Google has introduced a new security feature for Android devices that will automatically restart phones and tablets if they remain locked for three consecutive days. The update, rolled out via Google Play Services version 25.14 , aims to enhance data protection and prevent unauthorised access.“Google System updates make your Android devices more secure and reliable, and give you new and useful features. They include updates from Google to the Android operating system, Google Play Store, and Google Play services. Google System updates are available for phones, tablets, Android TV and Google TV devices, Android Auto-enabled devices, cars with Android Automotive OS or Google built-in, Wear OS devices, and Chrome OS devices. [Phone] Enables a future optional security feature, which will automatically restart your device if locked for 3 consecutive days,” said the company.The new functionality ensures that if an Android device remains unused and locked for 72 hours, it will automatically restart. Upon reboot, the phone enters the ""Before First Unlock"" (BFU) state, where all user data remains fully encrypted until the passcode is entered. This prevents forensic tools and unauthorised users from accessing sensitive information.The move follows similar security measures introduced by Apple in iOS 18.1, known as ""Inactivity Reboot."" The goal is to make it harder for law enforcement agencies or hackers to exploit vulnerabilities in devices that have been left idle. Once a phone is restarted, biometric logins such as fingerprint or face unlock are disabled until the user manually enters their passcode.Cybersecurity experts have praised the update, noting that it adds an extra layer of protection against data breaches, phone theft, and forensic hacking attempts.","Google rolls out new security feature for Android devices. It will automatically restart phones and tablets if they remain locked for three consecutive days. The update, rolled out via Google Play Services version 25.14, aims to enhance data protection. It follows similar security measures introduced by Apple in iOS 18.1.","https://static.toiimg.com/thumb/msid-120329190,imgsize-90990,width-400,resizemode-4/Google-Layoff.jpg"
+Cybersecurity at risk: CVE Program for tracking security flaws faces federal funding cut,https://timesofindia.indiatimes.com/technology/tech-news/cybersecurity-at-risk-cve-program-for-tracking-security-flaws-faces-federal-funding-cut/articleshow/120328247.cms,"Why CVE program matters
 
-Google’s internal systems confirmed Ved’s new status
+The risk of a shutdown
 
+The cybersecurity world is bracing for potential disruption as MITRE ’s Common Vulnerabilities and Exposures (CVE) program faces an uncertain future. The program, which has been a cornerstone of global cybersecurity for over two decades, may go dark on April 16 due to the expiration of its US Department of Homeland Security (DHS) contract.The CVE program plays a critical role in cybersecurity by assigning standardised identifiers to software vulnerabilities, enabling security researchers, vendors, and IT teams to track and address threats efficiently. It is closely linked to the Common Weakness Enumeration (CWE) program, which categorises coding errors that lead to vulnerabilities. Together, these programs form the backbone of global security coordination, supporting tools like vulnerability scanners, patch management systems, and threat intelligence feeds.MITRE has confirmed that its DHS contract expires on April 16, and no renewal has been finalized. Without funding, the CVE program could halt updates, leading to gaps in vulnerability tracking and delays in security advisories. Experts warn that this lapse could degrade national vulnerability databases, affecting tool vendors, incident response operations, and critical infrastructure.Jason Soroko, Senior Fellow at Sectigo, emphasised the severity of the situation: ""Failure to renew MITRE's contract risks significant disruption. A service break would negatively impact cybersecurity coordination worldwide.""Cybersecurity professionals are urging policymakers to secure funding for the CVE program to prevent a crisis. The potential shutdown has raised concerns about government reliance on private entities for critical security functions and the need for alternative solutions to maintain vulnerability tracking.","MITRE’s Common Vulnerabilities and Exposures (CVE) program faces an uncertain future. The program may go dark on April 16 due to the expiration of its US Department of Homeland Security contract. Without funding, the CVE program could halt updates, leading to gaps in vulnerability tracking and delays in security advisories.","https://static.toiimg.com/thumb/msid-120328249,imgsize-157420,width-400,resizemode-4/th.jpg"
+Why Apple may have picked Samsung over LG for the most important component of 'foldable iPhone' and what makes it is an 'unusual strategy' for the company,https://timesofindia.indiatimes.com/technology/tech-news/why-apple-may-have-picked-samsung-over-lg-for-the-most-important-component-of-foldable-iphone-and-what-makes-it-is-an-unusual-strategy-for-the-company/articleshow/120322090.cms,"What made Apple pick Samsung Display and not go with LG at all
 
+What may not have worked for LG (for now)",Samsung Display is Apple's new display supplier. The company has been working with LG for some time. Samsung Display is a subsidiary of South Korea's Samsung Electronics. Apple is the first major company to go with Samsung Display in a major display deal.,"https://static.toiimg.com/thumb/msid-120322067,imgsize-36602,width-400,resizemode-4/Samsung.jpg"
+"Google Search website URL is changing globally to ..., and what it means for Google users across the world",https://timesofindia.indiatimes.com/technology/tech-news/google-search-website-url-is-changing-globally-to-and-what-it-means-for-google-users-across-the-world/articleshow/120321785.cms,"Google is set to streamline the search experience by redirecting country-specific domain names to its primary domain, google.com, in the coming months. This change, announced on April 15th, will not affect search functionality or legal obligations. Google states that country-level domains are no longer necessary as they have been providing localized results since 2017.","Google is set to redirect country-specific domain names to its primary domain, google.com. This change, announced on April 15th, will not affect search functionality or legal obligations. Google states that country-level domains are no longer necessary as they have been providing localized results since 2017.","https://static.toiimg.com/thumb/msid-120321785,imgsize-25550,width-400,resizemode-4/120321785.jpg"
+Salesforce CEO Marc Benioff remembers the 'life lesson' that his Indian Guru taught him before he founded Salesforce,https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-remembers-the-life-lesson-that-his-indian-guru-taught-him-before-he-started-his-company-which-is-now-250-billion/articleshow/120321489.cms,"Salesforce CEO Marc Benioff
 
-""I was hoping I would see at some point an error that said the transaction didn't go through, but I was able to make the purchase, and my credit card was really charged.""
+Marc Benioff on his first meeting with Mata Amritanandamayi
 
-Google rewards user for reporting domain glitch
+Marc Benioff Shares his experience meeting Sri Mata Amritanandamayi Devi
 
+Marc Benioff Shares his experience meeting Sri Mata Amritanandamayi Devi
 
+Salesforce CEO Marc Benioff spoke about a range of issues during a recent interaction with Economic Times. He talked about Trump Tariffs, how he thinks it is India era, how AI will change business landscape and more. Among the numerous things Benioff also shared about how the idea of starting Salesforce goes back to 1996-97 when he was on a trip to India to meet his Guru Mata Amritanandamayi in Kerala. The CEO of San Francisco-based company with a current market cap of $248 billion, Benioff fondly talked about the same when asked about his ""deep connection with India.""""I was on my way to see my guru down in Thiruvananthapuram, Kerala. I was with her, I was explaining my vision for Salesforce, which was a new technology model and a new business model. And she reminded me, of course, of the importance of giving back, it was very much in that spirit that we have built a different kind of company,"" said Benioff.This is not the first time that the Salesforce CEO has spoken about the influence of Mata Amritanandamayi on him. In an interview to UK's Sunday Mail in 2020, Benioff said that she told him, 'In your quest to change the world, don't forget to do something for somebody else.'Benioff said that philanthropy has shaped his beliefs since meeting with Mata Amritanandamayi. ""It was like a scene from a movie,"" the CEO reportedly told the publication. ""We're in the middle of nowhere in this tiny Indian village and everybody's dressed in white and orange and there's incense wafting.”He added, ""She looked right at me and said, 'In your quest to change the world, don't forget to do something for somebody else'."" Benioff calls this the sum of the life-changing advice which he travelled halfway around the world for and it amounts to: ""Be nice to people"".",Salesforce CEO Marc Benioff spoke about a range of issues during a recent interaction with Economic Times. He talked about how the idea of starting Salesforce goes back to 1996-97 when he was on a trip to India to meet his Guru Mata Amritanandamayi in Kerala.,"https://static.toiimg.com/thumb/msid-120321488,imgsize-96320,width-400,resizemode-4/Switzerland-Davos.jpg"
+JPMorgan CEO Jamie Dimon sells company stock worth $31.5 million amid succession plan,https://timesofindia.indiatimes.com/technology/tech-news/jpmorgan-ceo-jamie-dimon-sells-company-stock-worth-31-5-million-amid-succession-plan/articleshow/120320892.cms,"File photo: JPMorgan Chase CEO Jamie Dimon (Picture credit: AP)
 
-Ved donates Google reward to education nonprofit in India
+JP Morgan CEO sells company share amid succession plan
 
 
 
-""I don't care about the money. It was never about the money.""
+Jamie Dimon has a message for young American investors
 
-Google's security reward program recognises ethical hackers worldwide
 
 
+""If you don't take care of your mind, your body, your spirit, your soul, your friends, your family — you're not going to have a great life and enjoy it. Have a little heart and humanity, treat people properly. The way I grew up, the way you treat everyone is fair and honest and forthright and you'll have a great life,""
 
-""Our first cash reward to Sanmay – $6,006.13 – read Google, numerically (squint and you'll spot it!). We doubled the sum subsequently when Sanmay gave away his reward money to charity.""
+JPMorgan Chase CEO Jamie Dimon has sold nearly $31.5 million worth of company stock. According to a regulatory filing (seen by the news agency Reuters), the sale involves 133,639 JP Morgan shares, coming after Dimon offloaded some shares last year, which was his first stock sale since becoming CEO in 2005. The move follows JPMorgan's strong first-quarter performance, where it beat profit estimates thanks to record equities trading and increased fees from debt underwriting and M&A advisory. Dimon’s compensation for 2024 was also raised by 8.3%, bringing his total pay to $39 million. This comes as the company decides on who will succeed Dimon as CEO.Dimon’s latest share sale comes amid ongoing succession planning at JPMorgan, where he has served as CEO for 19 years. At 69, Dimon remains a key figure on Wall Street, but the bank’s board is increasingly focused on preparing for his eventual departure — something Dimon himself described last year as his top priority. In recent remarks, Dimon also cautioned shareholders about the long-term risks of trade wars, highlighting concerns over sustained inflation and rising fiscal deficits.Recently, Dimon shared a hopeful view of America’s future, encouraging young investors to shift their focus away from negativity. In an interview with Fox Business, Dimon said the next generation is set to inherit a country with significant economic value and could benefit from progress in areas like artificial intelligence and healthcare, including potential treatments for cancer.He also advised young people to take care of their physical and mental health and to approach others with fairness, honesty, and respect.Dimon said.","JP Morgan CEO sells company share amid succession plan. Move follows JPMorgan's strong first-quarter performance. Dimon’s compensation for 2024 was also raised by 8.3%, bringing his total pay to $39 million. This comes as the company decides on who will succeed Dimon as CEO.","https://static.toiimg.com/thumb/msid-120320866,imgsize-1029859,width-400,resizemode-4/JPMorgan-CEO-Jamie-Dimon-sells-company-stock-worth-31-5-million-amid-succession-plan.jpg"
+ChatGPT action figure trend goes viral: What is it and how AI is turning users into custom toys,https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-action-figure-trend-goes-viral-what-is-it-and-how-ai-is-turning-users-into-custom-toys/articleshow/120320007.cms,"ChatGPT action figure trend goes viral
 
-Also Read |
+What is ChatGPT action figure trend
 
-In the most unexpected occurrence in the technology space, Sanmay Ved, an ex-Google employee hailing from Mandvi, Gujarat, briefly owned one of the web's most iconic digital assets — Google.com. This bizarre incident happened in September 2015 when Ved was testing out Google's domain-name registration service, Google Domains . What ensued was a sudden but intriguing episode that pointed to a seldom-seen security failure within the firm's internal system.In the wee hours of the morning on September 29, 2015, about 1:20 AM Eastern Time, Ved was browsing through Google Domains carelessly when he stumbled upon something extremely surprising: the domain name Google.com was shown to be available for buy. Initially believing this to be an error, he tried going ahead with the transaction just for the heck of it.To his surprise, the deal went through error-free. He was able to buy Google.com for a paltry $12 (about Rs 800 at that time). The system sent a confirmation email and reflected on his Google Search Console dashboard with domain ownership information, indicating that he was, temporarily at least, the rightful owner of one of the internet's most valuable domains.The confirmation wasn't merely cosmetic. Google's own internal systems confirmed Ved's new status. His Search Console account started getting domain-related alerts, and admin tools belonging to the domain were made available to him.Later in a LinkedIn post, Ved wrote,Though his brief ownership only lasted around one minute, it was long enough to prove a serious lapse in Google's domain name management systems.Google's security team contacted soon after the event to probe the occurrence and verify the type of transaction. Upon analysis, Google recognised the vulnerability in their system that had put the domain in temporary availability and valued Ved's proper disclosure of the weakness.As an expression of gratitude, Google granted Ved a financial reward of $6,006.13. The strangely particular sum was not random — it was selected due to the fact that the numbers look like the word ""Google"" when considered in a different way.Subsequently, following the revelation that Ved had made the decision to donate the whole reward to charity, the corporation doubled the award, making the total $12,012.26.True to his principles, Ved donated the entire sum to the Art of Living India Foundation, a non-profit organization that provides free education to more than 39,200 disadvantaged children in 404 schools in India.Ved reiterated that his actions were motivated by principle, not by profit, saying:The foundation targets a comprehensive methodology to education, developing the body, mind, and spirit of every student. By doing this, Ved not only brought out a serious problem of cybersecurity but also donated to social welfare in a useful way.This incident brought focus to Google's larger Security Reward Program, which is a scheme aimed at motivating ethical hackers and researchers who identify vulnerabilities in Google's products and services responsibly. At the end of 2015, Google announced that it had rewarded more than $2 million to over 300 people under this scheme. Since its launch in 2010, the program has given away over $6 million in rewards worldwide.Researchers from various nations — such as the United States, India, Germany, Poland, Brazil, Israel, Romania, China, and Russia — have helped Google's platforms become safer for billions of people.In an official blog, Google said:","Ex-Google employee Sanmay Ved accidentally bought Google.com for just Rs 800. Ved was testing out Google's domain-name registration service, Google Domains. Google recognised the vulnerability in their system that had put the domain in temporary availability and valued Ved's proper disclosure of the weakness.","https://static.toiimg.com/thumb/msid-120281990,imgsize-24634,width-400,resizemode-4/Meet-the-Indian-who-temporarily-owned-Google-com-for-Rs-800-what-Google-did-next-will-shock-you.jpg"
-OpenAI unveils GPT-4.1 models with improved coding capabilities,https://timesofindia.indiatimes.com/technology/tech-news/openai-unveils-gpt-4-1-models-with-improved-coding-capabilities/articleshow/120296750.cms,"OpenAI has released GPT-4.1, a new AI model series with significant improvements in coding, instruction following, and long-context comprehension. Featuring an expanded context window of up to 1 million tokens, GPT-4.1 outperforms previous models like GPT-4o and GPT-4.5 in coding tasks. OpenAI is also introducing cost-efficient versions, GPT-4.1 Mini and Nano, while phasing out older models.","GPT-4.1 is a new AI model series with significant improvements in coding, instruction following, and long-context comprehension. OpenAI is also introducing cost-efficient versions, GPT- 4.1 Mini and Nano, while phasing out older models.","https://static.toiimg.com/thumb/msid-120296759,imgsize-87778,width-400,resizemode-4/OpenAI-countersues-Elon-Musk-in-legal-dispute-over-ChatGPT-makers-business-ambitions.jpg"
-Melinda Gates responds to Bill Gates statement that their divorce was biggest regret of his life: He's got his ...,https://timesofindia.indiatimes.com/technology/tech-news/melinda-gates-responds-to-bill-gates-statement-that-their-divorce-was-biggest-regret-of-his-life-hes-got-his-/articleshow/120290194.cms,"Melinda Gates says she suffered panic attacks
+How to create your own AI action figure with ChatGPT
 
-Melinda French Gates has opened up about her 2021 divorce from Microsoft co-founder Bill Gates, calling the split “necessary” despite her ex-husband recently describing it as the biggest regret of his life. In a January interview, Bill Gates said ending their 27-year marriage was ""at the top of the list"" when it came to personal failures. The couple, who married in 1994, officially parted ways in August 2021.Recently, in a candid interview with The Times, French Gates addressed those comments, saying: “If you can’t live your values out inside your most intimate relationship, it was necessary.” While she chose not to directly respond to her ex-husband’s remarks, she noted: “I don’t even quite know what to make of that statement, so I’m not going to comment on what he says. He’s got his own life. I have my life now. I am very happy.”French Gates also spoke about the emotional toll of the divorce, revealing she suffered panic attacks during the separation. “When you’re leaving a marriage, it’s very, very hard. And the negotiations were tough,” she said.She shared that her first panic attack occurred in 2014 while having lunch with Gates, prompting her to begin therapy. “I’d heard of people having panic attacks and I didn’t know if it was a real thing,” she said.Initially skeptical of therapy, French Gates admitted she later came to understand its value. “It doesn’t mean I’m damaged,” she explained. “It means I’ve been through some difficult things that I need to figure out.”The former couple share three adult children—Jennifer, 28, Rory, 25, and Phoebe, 22—and are now grandparents to two. While Bill Gates has been dating Paula Hurd, widow of former Oracle CEO Mark Hurd, since 2022, French Gates confirmed she is currently single and enjoying the dating scene.","Melinda French Gates has opened up about her 2021 divorce from Microsoft co- founder Bill Gates. In a January interview, Bill Gates said ending their 27-year marriage was ""at the top of the list"" when it came to personal failures. French Gates addressed those comments, saying: ""If you can't live your values out inside your most intimate relationship, it was necessary""","https://static.toiimg.com/thumb/msid-120290182,imgsize-52644,width-400,resizemode-4/Melinda-9.jpg"
-"Katy Perry kisses Earth, Amazon founder Jeff Bezos hugs fiancee Lauren Sanchez as Blue Origin Rocket returns from Space",https://timesofindia.indiatimes.com/technology/tech-news/katy-perry-kisses-earth-amazon-founder-jeff-bezos-hugs-fiancee-lauren-sanchez-as-blue-origin-rocket-returns-from-space/articleshow/120290047.cms,"It was the first spaceflight to have an all-female crew since Valentina Tereshkova flew solo in 1963 for Soviet Union and became first woman to reach space. It included Katy Perry (L), Gayle King, Aisha Bowe, Kerianne Flynn, Bezos’ fiancee Lauren Sanchez (bottom right) and Amanda Nguyen (AFP and Reuters)
+Step 1: Access ChatGPT
 
-Kiss and Hug: Amazon founder Jeff Bezos open the Rocket's door
+Step 2: Upload a photo (optional, but recommended)
 
-Excitement, song and more from inside the Blue Origin Space flight
+Step 3: Write a detailed prompt
 
-Blue Origin announcement by Lauren Sánchez
+Preferred outfit or costume
 
-Pop icon Katy Perry and Lauren Sánchez, fiancée of Amazon founder Jeff Bezos , soared to the edge of space Monday morning (April15) aboard Blue Origin ’s New Shepard rocket, marking the first all-female spaceflight in over six decades. Liftoff occurred at 9:31 a.m. ET from Blue Origin’s launch site in West Texas. The suborbital flight lasted approximately 11 minutes, delivering a brief but weightless experience for the six women aboard. Rounding out the historic crew were CBS broadcaster Gayle King, producer Kerianne Flynn, former NASA engineer Aisha Bowe , and scientist-activist Amanda Nguyen.The company has previously flown several celebrity passengers, including Bezos himself in 2021, actor William Shatner, and Good Morning America host Michael Strahan. Monday’s flight, however, stood apart — not just for its famous passengers, but for the milestone it represented in space travel history. Blue Origin’s 11th crewed mission comes as the company eyes bigger ambitions. In January, it successfully launched its heavy-lift New Glenn rocket to orbit. Soon after, the company laid off around 10% of its workforce. CEO Dave Limp later said the company remains focused on future goals, including a planned moon landing with an uncrewed vehicle in 2025 and increased frequency for both New Shepard and New Glenn launches.According to a report in Bloomberg, after experiencing roughly four minutes of weightlessness, the capsule returned to Earth under parachutes, landing safely in the desert. Jeff Bezos was on hand to open the capsule’s hatch, where he embraced Sánchez. Perry followed, dropping to her knees and kissing the Earth.“I feel super connected to love,” Perry reportedly said after the flight, clutching a daisy she had taken into space. “It is the highest high, it is surrender to the unknown.” When asked how the trip compared to other highlights of her career, she replied, “This experience is second to being a mom.”During the flight, excitement echoed through the capsule. “You guys, look at the moon! Oh my god!” one crew member exclaimed, while Perry broke into a rendition of “What a Wonderful World.” According to King, the moment was filled with awe and emotion as they gazed at Earth from above.Sánchez first revealed her spaceflight ambitions during a 2023 interview with Vogue, emphasizing the significance of assembling an all-female crew. “These women are paving the way,” she said at the time.The launch drew a high-profile crowd. Kris Jenner and Khloe Kardashian watched from the viewing area and praised the mission as “inspirational.” Oprah Winfrey, a close friend of King, was also present. “None of us will ever forget this day,” she remarked.","Katy Perry and Lauren Sánchez, fiancée of Amazon founder Jeff Bezos, soared to the edge of space Monday morning (April15) aboard Blue Origin ’s New Shepard rocket. Rounding out the historic crew were CBS broadcaster Gayle King, producer Kerianne Flynn, former NASA engineer Aisha Bowe and scientist-activist Amanda Nguyen.","https://static.toiimg.com/thumb/msid-120290045,imgsize-49006,width-400,resizemode-4/Blue-origin.jpg"
-Blue Origin’s all-female crew returns safely to Earth: Know who is the richest among the six space travelers,https://timesofindia.indiatimes.com/technology/tech-news/blue-origins-all-female-crew-returns-safely-to-earth-know-who-is-the-richest-among-the-six-space-travelers/articleshow/120288748.cms,"Blue Origin’s all-female crew returns safely to Earth: Know who is the richest among the six space travelers
+Color scheme of the packaging
 
-Blue Origin’s NS-31 completes successful 11-minute suborbital spaceflight
+Accessories (e.g., laptop, coffee mug, gaming controller)
 
+Caption text or slogans
 
+Background elements or character theme
 
-Key flight details:
+Example
 
-Launch Site: West Texas, USA
+""Create an image of me as a collectible action figure in a purple toy box. Include a miniature coffee cup, smartphone, headphones, and notebook. The doll should wear a hoodie and jeans. Add the label ‘Midnight Coder Edition’ on the box.""
 
-Launch Time: 08:30 AM CDT / 13:30 UTC
+Step 4: Generate and download
 
-Duration: Approx. 11 minutes
+Why is ChatGPT action figure trend so popular
 
-Maximum Altitude: Over 100 km
+Nostalgia appeal : It draws on users’ childhood memories of toys and collectible packaging.
 
-Recovery Method: Parachute-assisted capsule landing; booster returned vertically to launch site
+: It draws on users’ childhood memories of toys and collectible packaging. Personalisation : Users enjoy the novelty of seeing themselves stylized and packaged as products.
 
-All-women crew leads Blue Origin’s space milestone: Know their net worth, profession, and more details
+: Users enjoy the novelty of seeing themselves stylized and packaged as products. Viral potential : The highly visual nature of the trend makes it ideal for sharing across social platforms.
 
-1. Lauren Sánchez
+: The highly visual nature of the trend makes it ideal for sharing across social platforms. Accessible AI : ChatGPT’s user-friendly interface and simplified image creation process lower the barrier to entry for non-designers.
 
-Role: Mission Lead
+: ChatGPT’s user-friendly interface and simplified image creation process lower the barrier to entry for non-designers. Celebrity tie-ins: The timing aligns with cultural moments like LeBron James being featured as the first male athlete on a Barbie doll, further fueling interest in toy-like representations.
 
-Background: Former journalist and broadcaster, currently engaged to Blue Origin founder Jeff Bezos
+ChatGPT action figure trend limitations
 
-Net Worth: Approx. $30 million
+Image accuracy : Without clear images and specific prompts, the results may not resemble the user.
 
-Notable Quote: “Earth looked so quiet… it was not what I expected—it was alive.”
+: Without clear images and specific prompts, the results may not resemble the user. Access restrictions : Some features are limited to paid subscribers.
 
-2. Katy Perry
+: Some features are limited to paid subscribers. Usage limits: Free-tier users have a daily cap on image generations (typically three).
 
-Role: Crew Member
+A new artificial intelligence trend is sweeping across social media, blending nostalgia, digital creativity, and personalization. Dubbed the “ChatGPT Action Figure Trend,” this phenomenon is giving users the opportunity to create hyper-realistic images of themselves as collectible dolls or action figures—complete with toy box packaging, accessories, and thematic designs. The viral trend is powered by OpenAI’s ChatGPT , which now includes image generation capabilities through DALL·E, enabling users to craft customized toy-like avatars using a combination of uploaded photos and descriptive prompts.This trend follows a series of internet-wide moments in which AI tools, particularly ChatGPT, have enabled viral self-expression—such as Studio Ghibli-inspired portraits and AI-generated yearbook photos. The recent rise in ChatGPT traffic—reaching a record 184.4 million global visits on April 9, 2025, according to Similarweb—indicates not just interest in generative AI, but its growing cultural relevance in user-led digital art and identity play.Here’s everything to know about the ChatGPT action figure trend , how it works, what platforms are driving it, and why it's capturing the imagination of millions.The ChatGPT Action Figure Trend is a user-generated movement where individuals use AI to design digital images of themselves as action figures or Barbie-style dolls. The characters often appear inside a branded toy box, accompanied by miniature accessories, clothing, and backdrops that reflect the user’s personality, profession, or hobbies.While there is no confirmed origin for the trend, it rapidly gained traction on TikTok, X (formerly Twitter), Instagram, and Reddit. The posts typically show the AI-generated doll and its box art, along with a caption describing the user's design choices. Some themes parody pop culture archetypes—like “Corporate Coffee Warrior” or “Freelance Chaos Coder”—while others take a more sincere, biographical approach.The trend taps into both nostalgia and novelty. For many, it recalls childhood memories of unboxing dolls or action figures, now merged with cutting-edge AI customization. The result is a quirky but powerful form of self-representation.To start, users need a ChatGPT account. The feature works best on the ChatGPT Plus plan, which includes GPT-4 and access to image generation tools like DALL·E 3. Free-tier users have limited access to image prompts and cannot upload personal images directly.Users can upload a selfie or a full-body photograph to help the AI better understand facial features, body proportions, and attire. The image is used by ChatGPT to render a more accurate digital likeness.Users then enter a detailed prompt instructing the AI to generate a toy box image of themselves. The prompt can include:Within seconds to a few minutes, ChatGPT generates an image that matches the description. The final result often looks like a professional marketing photo for a real-life toy.The success of the ChatGPT Action Figure Trend can be attributed to several factors:While fun and engaging, the trend has some caveats:Additionally, concerns have been raised about the long-term ethical implications of AI-generated identity manipulation and the use of personal data in training models—although OpenAI maintains that user-uploaded images are not used to train future models.","A new artificial intelligence trend is sweeping across social media, blending nostalgia, digital creativity, and personalization. Dubbed the “ChatGPT Action Figure Trend,” this phenomenon is giving users the opportunity to create hyper- realistic images of themselves as collectible dolls or action figures. The viral trend is powered by OpenAI’s ChatGPT, which now includes image generation capabilities through DALL·E.","https://static.toiimg.com/thumb/msid-120320458,imgsize-18812,width-400,resizemode-4/ChatGPT-action-figure-trend-goes-viral.jpg"
+NYT Connections: New York Times releases daily puzzle Connections hints and answers for April 14: Check clues and answers for puzzle game #673,https://timesofindia.indiatimes.com/technology/gaming/new-york-times-releases-daily-puzzle-connections-hints-and-answers-for-april-14-check-clues-and-answers-for-puzzle-game-673/articleshow/120269365.cms,"New York Times Connections hints release: Check clues and answers for April 14, 2025
 
-Profession: Grammy-nominated singer-songwriter
+What is NYT’s ‘Connections’ game
 
-Net Worth: Estimated $400 million
+Poll How often do you play the New York Times Connections game? Rarely Monthly Weekly Daily
 
-Highlight: Sang ""What a Wonderful World"" during the flight and kissed the Earth upon landing
+NYT Connections hints for April 14, 2025
 
-3. Gayle King
+Yellow: To monitor and maintain order.
 
-Role: Crew Member
+To monitor and maintain order. Green: You need to sign up for a seat to attend these.
 
-Profession: CBS Mornings anchor
+You need to sign up for a seat to attend these. Blue: Ever played that game from the '80s about going west in a wagon?
 
-Net Worth: Estimated $40 million
+Ever played that game from the '80s about going west in a wagon? Purple: Each of these is linked to a four-letter word that rhymes with ""board.""
 
-Reaction: “I just want a moment with the ground… just appreciate it.”
+NYT Connections answers April 14, 2025
 
-4. Aisha Bowe
+Yellow- Block, Check, Dam, Stop
 
-Role: Crew Member
+Block, Check, Dam, Stop Green- Concert, Game, Movie, Play
 
-Profession: Former NASA rocket scientist, CEO of STEMBoard
+Concert, Game, Movie, Play Blue- Dysentery, Ford, Hunt, Oxen
 
-Notable Achievement: Leads tech projects valued at $947 million
+Dysentery, Ford, Hunt, Oxen Purple- Actor, Car, Director, President
 
-Focus: Advocating for women in STEM
+How to play NYT Connections
 
-5. Amanda Nguyen
+You will receive a grid of 16 words.
 
-Role: Crew Member
+Your goal is to sort these words into four groups of four based on their hidden connections.
 
-Profession: Civil rights activist, Nobel Peace Prize nominee
+Connections may include: Synonyms or antonyms.
 
-Notable Honors: Named TIME Woman of the Year in 2022
+Shared themes, such as objects, professions, or word families.
 
-Mission Motivation: Championing equality and global justice
+Wordplay or shared prefixes/suffixes.
 
-6. Kerianne Flynn
+A new puzzle is released daily at midnight.
 
-Role: Crew Member
+You can play the puzzle on the New York Times website or app.
 
-Profession: Film producer and space enthusiast
+Look at the grid and identify words that seem related.
 
-Net Worth: Estimated at least $7 million
+Experiment with grouping words that share a logical connection, such as names of mythical characters, clickable items, or objects used in a specific context.
 
-Emotional Note: Pointed to the sky and shouted, “I went to space!”
+Select four words you think belong together.
 
-Crew Member
+Click the ""Submit"" button to test your group.
 
-Profession
+If your group is correct, it will be locked in, and its category will be color-coded.
 
-Estimated Net Worth
+If incorrect, you lose a life.
 
-Katy Perry
+You start with four lives.
 
-Singer
+Making four incorrect guesses ends the game.
 
-$400 million
+Sometimes, the game provides a hint that you’re one word away from forming a correct group.
 
-Gayle King
+Use this to swap and refine your selections.
 
-TV Anchor
+Correct groups are categorized as:Yellow: Easiest to guess.
 
-$40 million
+Blue and Green: Moderate difficulty.
 
-Lauren Sánchez
+Purple: Hardest, often involving complex wordplay.
 
-Journalist/Producer
+The game records your streaks and overall performance.
 
-$30 million
+Challenge your friends or share results to see who solves the puzzles fastest.
 
-Aisha Bowe
+If you run out of lives, the game ends.
 
-NASA Scientist/Entrepreneur
+Return the next day for a new puzzle and continue improving your skills!
 
-Undisclosed
+Strategies for tackling NYT Connections puzzles
 
-Kerianne Flynn
+Identify Obvious Groups: Start with the most apparent connections, like mythology or objects with specific features.
 
-Film Producer
+Use Process of Elimination: Cross off words as you place them into groups, narrowing the possibilities for the remaining categories.
 
-$7 million
+Think Creatively: Some categories require outside-the-box thinking, like interpreting word segments or understanding cultural references.
 
-Amanda Nguyen
+Learn from Mistakes: Each incorrect guess provides clues. Use these to refine your approach for future puzzles.
 
-Activist
+Other NYT games to sharpen your skills
 
-Undisclosed
+NYT Mini Crossword: A quick yet challenging crossword experience.
 
+Spelling Bee: Build as many words as possible using a set of seven letters.
 
+Wordle: Solve a five-letter word puzzle with limited guesses.
 
-Blue Origin crew lands with tears, tributes, and triumph
+Strands: A unique 6x8 word search that uses zig-zag solutions.
 
-Lauren Sánchez exited first, tearfully sharing her awe at seeing the Moon from space.
+The New York Times has carved out a niche in digital word puzzles with games like Connections, a daily brain teaser designed to challenge logic and language skills. The April 14 puzzle (#673) brought its fair share of challenges, requiring players to think critically to identify connections between seemingly unrelated words. Known for its clever wordplay and nuanced categories, the game continues to captivate enthusiasts. This article delves into the intricacies of the puzzle, offering hints, solutions, and insights to help players master this engaging game and improve their problem-solving abilities.Connections is a daily word puzzle from The New York Times designed to test your vocabulary and expand your word knowledge. With three difficulty levels—Easy, Medium, and Hard—it offers a fun and engaging way to challenge your brain while boosting your language skills. Word enthusiasts are sure to enjoy this delightful gaming experience. Currently, NYT Connections is trending across social media platforms!The Connections puzzle tests players' ability to group words into thematic categories. Unlike traditional crosswords, this game requires pattern recognition, linguistic knowledge, and a touch of creativity. Each puzzle includes 16 words, which must be sorted into four groups of four, based on shared characteristics.If you’ve struggled with today’s puzzle or want to understand its nuances better, this article provides all the guidance you need—from subtle hints to full explanations.To assist players without revealing answers outright that you can use to start each category. Here are hints for the puzzle’s categories:These hints are designed to nudge players in the right direction without giving away the solution outright, preserving the thrill of solving the puzzle independently.For those who need a helping hand, here are the full solutions for today’s puzzle, along with detailed explanations:Understand the Objective:Access the Puzzle:Begin Sorting Words:Submit Your Groups:Interpret Feedback:Handle Lives and Mistakes:Watch for Hints:Color-Coded Groups:Track Progress and Compete:Game Over and Retry:Solving Connections puzzles can be daunting, but with the right approach, you can improve your skills:If you enjoy Connections, the New York Times offers several other puzzles to test your vocabulary and problem-solving skills:Each game offers a distinct challenge, allowing players to explore new ways to engage with language and logic.","Connections is a daily word puzzle from The New York Times designed to test vocabulary and expand your word knowledge. With three difficulty levels—Easy, Medium and Hard—it offers a fun way to challenge your brain while boosting your language skills. The April 14 puzzle (#673) brought its fair share of challenges, requiring players to think about seemingly unrelated words.","https://static.toiimg.com/thumb/msid-120269372,imgsize-9464,width-400,resizemode-4/NYT-Connections-hints-release-Check-clues-and-answers-for-April-14-2025.jpg"
+Today's Wordle hints and answer: Check clues to solve Wordle #1395 on April 14,https://timesofindia.indiatimes.com/technology/gaming/todays-wordle-hints-and-answer-check-clues-to-solve-wordle-1395-on-april-14/articleshow/120269183.cms,"Wordle April 14, 2025: Here’s today’s hints, clues, and answer
 
-Katy Perry paid tribute to her daughter by holding up a daisy.
+Wordle hints and answers today
 
-Gayle King knelt to embrace the Earth after overcoming her well-known fear of flying.
+Poll How often do you play Wordle? Rarely or never Occasionally A few times a week Every day
 
-Kerianne Flynn, last to exit, expressed sheer joy and disbelief at her journey.
+Wordle hints and clues for April 14
 
-Training and safety measures
+The word starts with the letter 'C'.
 
-Simulations of zero-gravity conditions
+It contains one vowel.
 
-Emergency response drills
+The word ends with letter 'T'.
 
-Safety and communication briefings
+The word has no repeating letter.
 
-Physical fitness checks
+Today's Wordle means a group of feathers on the top of a bird’s head.
 
-In a landmark achievement for commercial spaceflight and women's representation in aerospace, Blue Origin’s all-female crew has successfully returned to Earth following a historic suborbital journey aboard the New Shepard NS-31 mission. Launched from the company’s West Texas facility on April 14, 2025, the six-member crew traveled beyond the Kármán line—the internationally recognized boundary of space at 100 kilometers (62 miles) above Earth—before making a safe, parachute-assisted landing in the desert.The mission lasted just over 11 minutes, offering the crew approximately four minutes of weightlessness and panoramic views of Earth. It was streamed live, drawing a global audience and marking a major milestone in the evolution of space tourism.The NS-31 flight is Blue Origin’s latest suborbital mission using the New Shepard rocket, a fully autonomous and reusable launch vehicle designed to carry civilians briefly into space. The capsule detached from the booster after liftoff, ascended beyond the Kármán line, and then descended under parachutes for a soft landing in the desert.This mission is part of Blue Origin’s broader goal to normalize commercial space travel while emphasizing reusability and sustainability.The NS-31 crew included six accomplished women from diverse backgrounds in science, media, activism, and entertainment. The mission aimed to celebrate women’s contributions to space, science, and global influence.Who’s the richest on Blue Origin’s all-women crewPerry’s net worth is bolstered by years of record sales, TV judging contracts, and the $225 million sale of her music catalog in 2023.After their successful descent, the capsule was met by recovery teams. The door was opened by Jeff Bezos, and each woman exited to applause and cheers.From the ground, celebrities including Khloé Kardashian and Oprah Winfrey watched in support. Winfrey noted King's bravery, calling the experience “a personal breakthrough.”Each crew member underwent two days of intensive training at Blue Origin’s West Texas facility. Training included:Two additional ground support members, known as Crew Member Seven, provided real-time coaching and monitoring from the control center and training hub.","Blue Origin’s all-female crew has successfully returned to Earth following a historic suborbital journey aboard the New Shepard NS-31 mission. The mission lasted just over 11 minutes, offering the crew approximately four minutes of weightlessness and panoramic views of Earth. The six-member crew traveled beyond the Kármán line at 100 kilometers (62 miles) above Earth.","https://static.toiimg.com/thumb/msid-120289036,imgsize-46042,width-400,resizemode-4/Blue-Origins-all-female-crew-returns-safely-to-Earth-Know-who-is-the-richest-among-the-six-space-travelers.jpg"
-"After making American showers ‘great’, US President Donald Trump wants the same for these appliances",https://timesofindia.indiatimes.com/technology/tech-news/after-making-american-showers-great-us-president-donald-trump-wants-the-same-for-these-appliances/articleshow/120288264.cms,"American Gas Association: Victory for working-class Americans…
+Wordle, April 14, 2025: Word of the day
 
+Today's Wordle word is ‘CREST’.
 
+How did Wordle originate
 
-“This is a victory for working-class Americans and for the environment, which benefits from the lower emissions of efficient, direct-use natural gas. President Biden’s block on certain natural gas appliances was deeply flawed legally and practically. The water heater rule would have removed consumer choices, placed a disproportionate financial burden on seniors and low-income Americans and pushed financially vulnerable consumers toward less efficient electric products likely to raise their energy bills.”
+Where can you play Wordle
 
-After changing shower regulations , US President Donald Trump has now turned his focus to home appliances. A recent Senate vote of 53-44 repealed a previously proposed rule that set energy efficiency standards for new tankless gas-powered water heaters. Set to take effect in 2029, this regulation would require that these water heaters consume 13% less energy. This move comes soon after Trump signed an executive order to remove limits on how much water can come out of showerheads. The canceled rule required each showerhead to use a maximum of 2.5 gallons per minute. Before signing the order, Trump criticised the restrcition for interfering with his hair care routine, claiming that the lengthy time required in the shower—15 minutes before his hair gets wet—is absurd.The American Gas Association (AGA) praised the decision and said that the previous rule banned the sale of instant, gas-fired appliances.In a blog post, AGA President and CEO Karen Harbert said:Meanwhile, the rule’s supporters said that it would’ve saved US households an average of $112 on energy bills and saved Americans $3.1 billion in 30 years.According to a report by ProPublica, besides showerheads and gas water heaters, Trump has repeatedly criticised dishwashers, arguing that they take so long and clean so ineffectively that “the electric bill is ten times more than the water”. He has also complained about toilets needing “ten or 15 flushes” and LED lightbulbs that he says give him an orange appearance.",US President Donald Trump has turned his focus to home appliances. A recent Senate vote repealed a previously proposed rule that set energy efficiency standards for new tankless gas-powered water heaters. This move comes soon after Trump signed an executive order to remove limits on how much water can come out of showerheads.,"https://static.toiimg.com/thumb/msid-120288273,imgsize-1347721,width-400,resizemode-4/After-making-American-showers-great-US-President-Donald-Trump-wants-the-same-for-these-appliances.jpg"
-China halts export of critical mineral supply to US amid Trump tariffs,https://timesofindia.indiatimes.com/technology/tech-news/china-halts-exports-of-critical-mineral-supply-used-in-technology-amid-tariff-war/articleshow/120285707.cms,"Rare materials on way to US now require special export licenses from China
 
-China has reportedly suspended exports of vital minerals and magnets, triggering concerns of widespread disruptions for global industries ranging from automotive and aerospace to semiconductors and defense. The move, seen as retaliation for escalating US tariffs, threatens to choke off supplies crucial for manufacturing a wide array of products, including cars, drones, robots, and missiles.According to a report by The New York Times, the export halt primarily affects rare earth magnets , essential components that are used in numerous electronic and mechanical systems. The report claims that shipments have been stopped at Chinese ports as the government develops a new regulatory system, which could potentially block supplies to specific companies, particularly US military contractors.This crackdown follows China’s April 4 order wherein it restricted the export of six heavy rare earth metals and rare earth magnets, nearly 90% of which are produced in China. These materials now require special export licenses, but the licensing system is not yet fully operational, causing anxiety among industry executives about prolonged delays and potential supply shortages.The suspended heavy rare earth metals are reportedly crucial for electric motors used in electric vehicles, drones, robots, missiles and spacecraft. They are also essential in manufacturing jet engines, lasers, car headlights, and capacitors for computer chips used in AI servers and smartphones.Last year, a report by news agency Reuters said that China banned exports of key minerals to the US after the US announced export restrictions on 140 Chinese companies and stricter controls on chipmaking equipment.China banned the export of minerals like gallium, germanium, and others.“In principle, the export of gallium, germanium, antimony, and superhard materials to the United States shall not be permitted,” the ministry was quoted as saying.","China has reportedly suspended exports of vital minerals and magnets, triggering concerns of widespread disruptions for global industries. The move, seen as retaliation for escalating US tariffs, threatens to choke off supplies crucial for manufacturing a wide array of products, including cars, drones, robots, and missiles.","https://static.toiimg.com/thumb/msid-120285671,imgsize-73808,width-400,resizemode-4/China-and-US.jpg"
-"‘Suspending Spacex, Tesla, DOGE and all websites affiliated with Elon Musk for a full ...,’ warn hackers who previously targeted Donald Trump",https://timesofindia.indiatimes.com/technology/tech-news/suspending-all-websites-affiliated-with-elon-musk-companies-for-a-full-warn-hackers-who-previously-targeted-donald-trump/articleshow/120102622.cms,"What hackers said about targeting Elon Musk
 
 
 
-A group of hackers has threatened to launch an attack on sites linked to Elon Musk . The cybercrime group named DonRoad Team, which had earlier claimed responsibility for taking down several websites associated with US President Donald Trump, has now announced that it would start targeting sites associated with Tesla and SpaceX CEO. The group also shared its intent to attack sites associated with the tech billionaire over a month. Previously, the DonRoad Team has claimed responsibility for its attacks in March that targeted The Trump Organization's website, as well as Tesla and SpaceX email servers, causing temporary global outages at the time. This comes after Musk-owned social media platform X (earlier Twitter) was targeted by a group of pro-Palestinian hackers who were able to disable the site for several hours.In a post (seen by Newsweek) shared on messaging platform Telegram, the hackers said: “In the next few hours, we will be suspending all websites affiliated with Elon Musk companies for a full month.”However, the Telegram post was later removed. Should these hacks occur, they may impact multiple Musk-related websites, including X and his AI platforms Grok and Tesla. Hackers may also target websites of other companies owned by Musk, like SpaceX and Tesla.In March, Musk-owned X experienced at least three major outages following a Distributed Denial of Service (DDoS) attack. —a cyber assault that floods networks or devices with bot-generated traffic. The Dark Storm Team claimed responsibility for the incident.Reacting to the cyberattack, Musk at that time took to X to write: There was (still is) a massive cyberattack against 𝕏. We get attacked every day, but this was done with a lot of resources. Either a large, coordinated group and/or a country is involved. Tracing …”Later, in a Fox Business interview, Musk noted: “There was a massive cyber attack to try to bring down the X system with IP addresses originating in the Ukraine area.”In a separate event in February, the website for the Department of Government Efficiency, of which Musk is a member, was compromised and altered to mock him and his team.The hacked site temporarily displayed a prominent message stating, “This is a joke of a .gov site,"" alongside the note, ""THESE 'EXPERTS' LEFT THEIR DATABASE OPEN.”",Hackers threaten to launch an attack on sites linked to Elon Musk. The cybercrime group named DonRoad Team had earlier claimed responsibility for taking down several websites associated with US President Donald Trump. This comes after Musk-owned social media platform X was targeted by a group of pro- Palestinian hackers.,"https://static.toiimg.com/thumb/msid-120102550,imgsize-27418,width-400,resizemode-4/Suspending-all-websites-affiliated-with-Elon-Musk-companies-for-a-full-Warn-hackers-who-previously-targeted-Donald-Trump.jpg"
+How to play Wordle
+
+Wordle FAQs
+
+Can I play past Wordle puzzles?
+
+No, Wordle is designed as a daily game with a unique puzzle each day. While you can’t play past puzzles on the official site, there are unofficial Wordle archives available where you can play previous games.
+
+How do the color-coded tiles work in Wordle?
+
+Green means the letter is correct and in the correct position.
+
+Yellow means the letter is correct but in the wrong position.
+
+Gray means the letter is not in the word at all.
+
+How many guesses do I get in Wordle?
+
+You have six chances to guess the correct five-letter word. After each guess, you receive feedback to help guide your next attempt.
+
+Can I play Wordle more than once per day?
+
+Wordle is designed as a daily puzzle, so you can only play one puzzle per day. The word of the day is the same for everyone globally, and once you complete it, you’ll have to wait until the next day for a new puzzle.
+
+Can letters repeat in Wordle?
+
+Yes, repeated letters can appear in Wordle answers. Words containing duplicate letters can present more of a challenge when solving.
+
+Is Wordle available in other languages?
+
+Yes, there are multiple versions of Wordle available in various languages, including Spanish, French, and German. You can switch to a different language by finding the corresponding version of the game online.
+
+Wordle is a popular word puzzle game that challenges players to guess a five-letter word within six attempts. Developed by Josh Wardle, this simple yet addictive game has taken the world by storm with its easy-to-understand rules and daily challenges. Each guess provides feedback with colored tiles: green indicates the correct letter in the correct spot, yellow signals the correct letter in the wrong spot, and gray means the letter isn't in the word. Wordle’s mix of logic and vocabulary makes it a daily brain teaser loved by millions worldwide.The Wordle puzzle can be tricky to solve, which is likely why you’ve found yourself here, struggling to crack today’s challenge. As always, today’s NYT Wordle was full of surprises, but don’t worry—we’re here to help. Below, you’ll find some helpful clues for today’s Wordle answer , and if those don’t do the trick, keep reading to discover the solution directly.Today’s Wordle promises a puzzle that tests your linguistic skills, likely to be decoded by many participants. To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's Wordle challenge.Whether you have cracked the code or are still working with the hints, it is now time to reveal the answer. Drumroll please, as we unveil the answer for Wordle.Wordle was initially developed by engineer Josh Wardle as a thoughtful gift for his partner. However, it quickly gained massive popularity, turning into a global sensation with thousands of players engaging daily. The game's success inspired fans to create various spin-offs, such as the battle royale-style Squabble, the music identification game Heardle, and multi-word challenges like Dordle and Quordle.As its popularity soared, The New York Times acquired Wordle, and it became a hit on social media platforms like TikTok, where creators even livestream their gameplay sessions.Wordle isn't available as an app; it can only be played through a web browser. To play, simply visit the New York Times Games website.Originally hosted on its own site and created by Josh Wardle, Wordle was acquired by the New York Times in February of this year. One of the great aspects of Wordle is that it’s ad-free, allowing you to fully concentrate on the word-guessing game.To play Wordle, visit the link https://www.nytimes.com/games/wordle/index.html and begin guessing words.","Wordle is a daily puzzle game that challenges players to guess a five-letter word within six attempts. The word of the day is the same for everyone globally, and once you complete it, you’ll have to wait until the next day for a new puzzle. To assist you in solving the puzzle, we've curated a fresh array of hints and clues for today's challenge.","https://static.toiimg.com/thumb/msid-120269210,imgsize-22890,width-400,resizemode-4/Wordle-April-14-2025-Heres-todays-hints-clues-and-answer.jpg"
+"Garena Free Fire MAX redeem codes for April 14: Check today’s rewards like skins, diamonds, weapons, and more",https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-april-14-check-todays-rewards-like-skins-diamonds-weapons-and-more/articleshow/120269101.cms,"Garena Free Fire MAX redeem codes for April 14: Check today’s rewards like skins, diamonds, weapons, and more
+
+What are Free Fire Max redeem codes
+
+Garena Free Fire max redeem codes today, April 14
+
+V4W8X3Y7Z2A6B0C
+
+Y2Z6A1B5C9D3E7F
+
+T9U3V7W2X5Y1Z4A
+
+Q6R1S5T0U3V7W4X
+
+B3C7D2E6F0G4H8J
+
+M5N9P3Q7R1S6T0U
+
+K3L7M2N6P1Q5R8S
+
+D8E2F6G1H5J9K3L
+
+H2J4K6L8A1S3D5F7
+
+G9B1V3C5X7Z2Q4W6
+
+Y8U1I3O5P7A9S2D4
+
+N1P5Q9R4S8T2U6V
+
+How to redeem Free Fire codes
+
+To reach the Rewards Redemption website, go to https://reward.ff.garena.com/en.
+
+Sign in using your credentials from platforms like Facebook, X, Apple ID, Google, VK ID, or Huawei ID.
+
+After logging in, input the redemption code into the specified text box and complete the redemption process by selecting 'Confirm'.
+
+Once the code is successfully redeemed, you can collect your Free Fire rewards by launching the game on your device.
+
+Important tips
+
+After successfully redeeming the code, you can collect your rewards from the in-game mail section.
+
+Keep in mind that guest accounts are ineligible for these codes; you must link your account to platforms like Facebook, X, Apple, Google, VK, or Huawei to qualify for the rewards.
+
+Please allow up to 24 hours for the rewards to be credited to your account.
+
+Garena Free Fire Max represents an upgraded version of the popular Garena Free Fire, which gained significant traction in India after its predecessor was banned. Known for its impressive visuals and engaging gameplay, this game has garnered widespread acclaim among gamers nationwide.One standout feature of Garena Free Fire Max is its daily redemption codes, which inject excitement and urgency into the player experience. These codes are available for a limited period, typically ranging from 12 to 18 hours, heightening anticipation and engagement levels among users.Following developer guidelines, the 12-character alphanumeric redemption codes of Garena Free Fire Max offer daily rewards to a maximum of 500 registered players, ensuring fairness and equal opportunities for progression within the game.With its time-sensitive rewards, stunning graphics, innovative features, and immersive gameplay, Garena Free Fire Max continues to captivate the gaming community. Its intricately designed universe promises an exhilarating adventure for players.As the premier battle royale game in India, Garena Free Fire Max maintains its dominance in the gaming landscape, encouraging players to partake in intense battles, strategic gameplay, and exclusive rewards for an unparalleled gaming experience.Enhance your gaming adventure with exclusive redemption codes tailored for Garena Free Fire Max, providing access to a wide range of in-game perks and rewards. Whether you're an experienced player or new to the virtual battlefield, these codes offer a unique opportunity to elevate your gaming experience, strategize effectively, and dive deeper into the excitement of the game.Comprising 12-character alphanumeric sequences, including a mix of uppercase letters and numbers, these codes significantly enrich the overall gaming experience. Upon successful redemption, players unlock a variety of thrilling rewards that not only enhance the gaming atmosphere but also provide strategic advantages on the digital battleground.Take advantage of the opportunity to elevate your gaming journey with meticulously crafted redemption codes designed for Garena Free Fire Max. These codes unlock sought-after weapons, distinctive skins, and other in-game items, enhancing immersion and delivering a personalised gaming experience like no other.","Garena Free Fire max redeem codes today, April 14: Check today’s rewards like skins, diamonds, weapons, and more. These codes unlock sought-after weapons, skins, in-game items, enhancing immersion and delivering a personalised gaming experience.","https://static.toiimg.com/thumb/msid-120269113,imgsize-54994,width-400,resizemode-4/Garena-Free-Fire-MAX-redeem-codes-for-April-14.jpg"
 "NYT Strands today: Clues, answers, Spangram for April 14, 2025",https://timesofindia.indiatimes.com/technology/gaming/nyt-strands-today-clues-answers-spangram-for-april-14-2025/articleshow/120275627.cms,"NYT Strands April 14, 2025 – Hints, answers, Spangram
 
 
@@ -252,6 +344,11 @@ Tips for solving NYT Strands puzzle
 
 
 The New York Times published its inaugural crossword puzzle on February 15, 1942, in the Sunday Magazine. Created by Charles Erlenkotter and edited by Margaret Farrar, it was the first major newspaper to feature a crossword puzzle. Over the years, the NYT has introduced several beloved games, including the Mini Crossword in 2014, followed by Spelling Bee, Letter Boxed, and Tiles. In 2022, the NYT launched the wildly popular Wordle, followed by additional games like Connections and Strands.NYT Strands is the latest addition to its puzzle offerings. This engaging daily game presents players with new themes each day, challenging them to uncover all the words on the grid. One of the game’s highlights is the special Spangram, which stretches across two sides of the board. With its innovative approach to word puzzles, Strands quickly became a fan favorite, adding to the diverse and exciting puzzle lineup of the New York Times.Having trouble solving today’s NYT Strands puzzle? We’re here to help with some easy hints to fuel your curiosity even more. Plus, we’ve got today’s answer waiting for you – just keep reading.Below, we’ve shared the hints, answers, and Spangram for today’s NYT Strands puzzle. The hints may give away part or all of the Strands, so proceed with caution. Scroll down to continue:SpringFlowers is the Spangram for today’s NYT Strands puzzle.Strands is a puzzle game that blends elements of Connections, Spelling Bee, and classic crossword puzzles. Players are given 48 letters arranged on a 6 x 8-inch grid, along with a daily theme. The goal is to solve the Spangram and uncover all the theme-related words.To play, connect letters on the grid to form words by dragging your mouse or fingers (on a touchscreen) in horizontal, vertical, or diagonal directions.Start by identifying the central theme word or Spangram, which will help you understand the puzzle’s theme.In addition to the Spangram, you must also find other words related to the theme hidden in the grid. Once you’ve uncovered them all, the puzzle is complete.Identify the theme words: Fill in the grid with the theme words. Once found, they will be highlighted in blue and won't overlap with each other.Find the Spangram: Identify the Spangram, a key part of the puzzle that connects two opposite sides of the grid. It encapsulates the theme and may consist of two words. The Spangram will be highlighted in yellow once you’ve located it.Take advantage of hints: Pay attention to off-topic words for clues. For every three non-theme words you uncover, letters will be highlighted to give you a hint toward finding a theme word, without directly revealing it.","Strands is a puzzle game that blends elements of Connections, Spelling Bee, and classic crossword puzzles. Players are given 48 letters arranged on a 6 x 8-inch grid, along with a daily theme. To play, connect letters on the grid to form words by dragging your mouse or fingers (on a touchscreen) in horizontal, vertical, or diagonal directions.","https://static.toiimg.com/thumb/msid-120275914,imgsize-10282,width-400,resizemode-4/NYT-Strands-today-Clues-answers-Spangram-for-April-14-2025.jpg"
+"‘Suspending Spacex, Tesla, DOGE and all websites affiliated with Elon Musk for a full ...,’ warn hackers who previously targeted Donald Trump",https://timesofindia.indiatimes.com/technology/tech-news/suspending-all-websites-affiliated-with-elon-musk-companies-for-a-full-warn-hackers-who-previously-targeted-donald-trump/articleshow/120102622.cms,"What hackers said about targeting Elon Musk
+
+
+
+A group of hackers has threatened to launch an attack on sites linked to Elon Musk . The cybercrime group named DonRoad Team, which had earlier claimed responsibility for taking down several websites associated with US President Donald Trump, has now announced that it would start targeting sites associated with Tesla and SpaceX CEO. The group also shared its intent to attack sites associated with the tech billionaire over a month. Previously, the DonRoad Team has claimed responsibility for its attacks in March that targeted The Trump Organization's website, as well as Tesla and SpaceX email servers, causing temporary global outages at the time. This comes after Musk-owned social media platform X (earlier Twitter) was targeted by a group of pro-Palestinian hackers who were able to disable the site for several hours.In a post (seen by Newsweek) shared on messaging platform Telegram, the hackers said: “In the next few hours, we will be suspending all websites affiliated with Elon Musk companies for a full month.”However, the Telegram post was later removed. Should these hacks occur, they may impact multiple Musk-related websites, including X and his AI platforms Grok and Tesla. Hackers may also target websites of other companies owned by Musk, like SpaceX and Tesla.In March, Musk-owned X experienced at least three major outages following a Distributed Denial of Service (DDoS) attack. —a cyber assault that floods networks or devices with bot-generated traffic. The Dark Storm Team claimed responsibility for the incident.Reacting to the cyberattack, Musk at that time took to X to write: There was (still is) a massive cyberattack against 𝕏. We get attacked every day, but this was done with a lot of resources. Either a large, coordinated group and/or a country is involved. Tracing …”Later, in a Fox Business interview, Musk noted: “There was a massive cyber attack to try to bring down the X system with IP addresses originating in the Ukraine area.”In a separate event in February, the website for the Department of Government Efficiency, of which Musk is a member, was compromised and altered to mock him and his team.The hacked site temporarily displayed a prominent message stating, “This is a joke of a .gov site,"" alongside the note, ""THESE 'EXPERTS' LEFT THEIR DATABASE OPEN.”",Hackers threaten to launch an attack on sites linked to Elon Musk. The cybercrime group named DonRoad Team had earlier claimed responsibility for taking down several websites associated with US President Donald Trump. This comes after Musk-owned social media platform X was targeted by a group of pro- Palestinian hackers.,"https://static.toiimg.com/thumb/msid-120102550,imgsize-27418,width-400,resizemode-4/Suspending-all-websites-affiliated-with-Elon-Musk-companies-for-a-full-Warn-hackers-who-previously-targeted-Donald-Trump.jpg"
 Today’s TOI Mini Crossword clues for 14 April 2025,https://timesofindia.indiatimes.com/technology/gaming/todays-toi-mini-crossword-clues-for-14-april-2025/articleshow/120260556.cms,"How to play Mini Crossword
 
 
@@ -383,90 +480,222 @@ If you’ve been scrolling through social media lately --be it Twitter, Instagra
 
 The US Citizenship and Immigration Services ( USCIS ) has updated its policy to clarify that it will only recognize two biological sexes—male and female. The change aligns with an executive order issued by President Donald Trump in January 2025, titled ‘Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government’. The updated policy, which took effect on April 2, applies to all pending and future immigration benefit requests. “USCIS is returning to its historical policy of recognizing two biological sexes,” the agency said in a press statement.Tricia McLaughlin, Assistant Secretary for Public Affairs at the Department of Homeland Security , said “There are only two sexes—male and female. President Trump promised the American people a revolution of common sense, and that includes making sure that the policy of the U.S. government agrees with simple biological reality. Proper management of our immigration system is a matter of national security, not a place to promote and coddle an ideology that permanently harms children and robs real women of their dignity, safety, and well-being.”Under the new guidance, a person’s sex will be determined based on the birth certificate issued at or closest to the time of birth. “If the birth certificate issued at or nearest to the time of birth indicates a sex other than male or female, USCIS will base the determination of sex on secondary evidence. See Volume 1, General Policies and Procedures, Part E, Adjudications, Chapter 6, Evidence, Section B, Primary and Secondary Evidence [1 USCIS-PM E.6(B)],” the agency stated.The agency further added that the benefits will not be denied solely based on how someone identifies their sex, it also confirmed that it does not issue documents with a blank sex field or one that differs from the original birth certificate. Any discrepancies may lead to processing delays.","US Citizenship and Immigration Services ( USCIS ) has updated its policy to clarify that it will only recognize two biological sexes—male and female. The change aligns with an executive order issued by President Donald Trump in January 2025, titled ‘Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government’","https://static.toiimg.com/thumb/msid-119938617,imgsize-124226,width-400,resizemode-4/USCIS-plain-and-straight-message-to-H1-B-Green-Card-and-other-visa-applicants-There-are-only-two-.jpg"
 Government testing new Aadhaar app: No physical card and photocopies; how it will change how you use Aadhaar card,https://timesofindia.indiatimes.com/technology/tech-news/government-testing-new-aadhaar-app-no-physical-card-and-photocopies-how-it-will-change-how-you-use-aadhaar-card/articleshow/120117627.cms,"The government has launched a new Aadhaar app featuring facial recognition authentication and digital verification capabilities, eliminating the need for physical cards and photocopies. Union Minister for Information Technology Ashwini Vaishnaw introduced the app during the third edition of Aadhar Samvaad.The app, currently in beta testing, allows users to share only necessary data through secure digital means with their explicit consent. ""Now with just a tap, users can share only the necessary data, giving them complete control over their personal information,"" Vaishnaw said in a post shared on Twitter.Verification through the new app works similarly to UPI payments, where users can authenticate their identity by scanning QR codes at hotels, shops, airports, and other verification points. The facial recognition feature adds an additional security layer, ensuring only the rightful owner can authorize information transfer.""No need to hand over Aadhaar photocopy at hotel receptions, shops or during travel,"" the minister noted, highlighting the app's convenience for everyday scenarios.The app’s features include 100% digital and secure identity verification , protection against data misuse or leaks, and prevention of document forgery. The app represents a significant upgrade from its predecessor with a more user-friendly interface and enhanced privacy safeguards.Initially available to a select group including participants of the Aadhaar Samvaad event, UIDAI plans to release the app widely following user feedback. The technology integrates with India's digital public infrastructure while maintaining strong privacy protections.The Aadhaar facial authentication system has already gained widespread adoption, recording over 15 crore transactions monthly across various sectors, according to UIDAI officials.","The app, currently in beta testing, allows users to share only necessary data through secure digital means. The facial recognition feature adds an additional security layer, ensuring only the rightful owner can authorize information transfer. The app represents a significant upgrade from its predecessor with a more user-friendly interface and enhanced privacy safeguards.","https://static.toiimg.com/thumb/msid-120117609,imgsize-45400,width-400,resizemode-4/aadhar-card-2.jpg"
-US FTC during Facebook-parent Meta’s antitrust trial: ‘Consumers do not have…’,https://timesofindia.indiatimes.com/technology/tech-news/us-ftc-during-facebook-parent-metas-antitrust-trial-consumers-do-not-have/articleshow/120285351.cms,"What US FTC said about Meta’s ownership of WhatsApp and Instagram
+"Beats Cables launched in India in four colours: Price, specs and more",https://timesofindia.indiatimes.com/technology/tech-news/beats-cables-launched-in-india-in-four-colours-price-specs-and-more/articleshow/120320150.cms,"Pill People Have the Power I Beats Cables
+
+Beats Cables: Price and availability
 
 
 
-“established entry barriers that for more than a decade protected Meta's dominance.""
-
-""Consumers do not have reasonable alternatives they can turn to,""
-
-What Meta said about the trial
+Beats Cables: Key highlights
 
 
 
-“It's absurd that the FTC is trying to break up a great American company at the same time the Administration is trying to save Chinese-owned TikTok.""
-
-Facebook parent Meta Platforms is facing an antitrust trial over its ownership of popular social media and messaging apps Instagram and WhatsApp, respectively. At the beginning of a high-stakes trial, an attorney for the US Federal Trade Commission (FTC) said that the acquisition of nascent rivals Instagram and WhatsApp deprived consumers of the potential benefits these companies would have offered as independent entities. The trial, filed during President Donald Trump's first term, centers on the FTC's claim that Meta strategically bought the companies roughly a decade ago after its attempts to compete in the social media market had failed.According to a report by the news agency Reuters, FTC attorney Daniel Matheson said that Meta’s ownership of Instagram and WhatsApp,Matheson added.US antitrust enforcers are seeking to investigate these deals, arguing that the acquisitions eliminated competition among social media platforms where users connect with friends and family. The FTC is also pushing for a restructuring of Meta's business, potentially forcing the company to sell off key assets like Instagram and WhatsApp.This case represents a major threat to Meta, as Instagram alone is estimated to generate about half of the company's US advertising revenue. The trial also serves as a test of the current administration's commitment to regulating Big Tech companies.FTC spokesperson Joe Simonson has also said that the Trump-Vance FTC is as prepared as possible for the trial, emphasising that its legal team has been working tirelessly around the clock to get ready, the report adds.However, since Trump’s re-election, Meta has actively sought the president's influence with moves like discarding content moderation policies that Republicans labeled as censorship and donating $1 million to Trump's inauguration. Meta CEO Mark Zuckerberg’s multiple recent visits to the White House also highlight the company's ongoing effort to engage with and potentially sway the political climate.Commenting on the trial, Meta Chief Legal Officer Jennifer Newstead said that the case was weak and discourages tech investment.In a blog post, Newstead wrote:","Facebook parent Meta Platforms is facing an antitrust trial over its ownership of popular social media and messaging apps Instagram and WhatsApp. At the beginning of a high-stakes trial, an attorney for the US Federal Trade Commission said that the acquisition of nascent rivals deprived consumers of the potential benefits these companies would have offered as independent entities.","https://static.toiimg.com/thumb/msid-120285344,imgsize-39586,width-400,resizemode-4/US-FTC-during-Facebook-parent-Metas-antitrust-trial-Consumers-do-not-have.jpg"
-ChatGPT down: Users report facing issues with app and website globally,https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-down-users-report-facing-issues-with-app-and-website-globally/articleshow/120284992.cms,"Image Credits: X/@dexerto
-
-ChatGPT outage affecting hundreds globally
+Feature
 
 
 
-ChatGPT is currently experiencing a global outage impacting hundreds of users. According to outage tracking site Downdetector, the popular chatbot is not working for several users in India, the US and UK and other regions. As per Downdetector data, the outage reports peaked at around 7:53 pm IST and have since been going down. OpenAI , the company behind ChatGPT, has yet to acknowledge the issue as users face problems while accessing the AI tool via its app and website. Nearly 1,000 users have already reported facing issues with ChatGPT. We at TOI Tech also faced troubles while using the chatbot, as it kept on showing an error message, which is shared below:Downdetector data shows that in the US, 513 users reported facing issues with ChatGPT. 84% of users noted facing problems with the chatbot, while 9% and 6% of users complained about being unable to access the AI tool’s website and app, respectively.In the UK, 233 users reported issues with the AI tool, as 81% of users complained of facing problems with the chatbot. Meanwhile, 15% and 4% of users mentioned having trouble while accessing ChatGPT’s website and app, respectively.However, the issue didn’t seem to be widespread in India, as only 50 users claimed to be facing troubles with ChatGPT. 94% of users in India had problems using the chatbot, while only 6% reported that they were unable to access the same through its website.","ChatGPT is currently experiencing a global outage impacting hundreds of users. According to outage tracking site Downdetector, the popular chatbot is not working for several users in India, the US and UK and other regions. Nearly 1,000 users have already reported facing issues with ChatGPT.","https://static.toiimg.com/thumb/msid-120284966,imgsize-10066,width-400,resizemode-4/ChatGPT-down-Users-report-facing-issues-with-app-and-website-face-globally.jpg"
-Amazon founder Jeff Bezos shares a 'Love Message' as fiancee Lauren Sanchez set to travel to Space today,https://timesofindia.indiatimes.com/technology/tech-news/amazon-founder-jeff-bezos-shares-a-love-message-as-fiancee-lauren-sanchez-set-to-travel-to-space-today/articleshow/120282465.cms,"Blue Origin's New Shepard rocket is set for launch at 9:30 a.m. ET from West Texas, carrying an all-female crew of six. The crew includes Lauren Sánchez, Katy Perry, and other accomplished women. The 11-minute flight will reach an altitude of 62 miles, allowing the crew to experience weightlessness before a parachute-assisted landing.","Blue Origin's New Shepard rocket is set for launch at 9:30 a.m. ET from West Texas. The crew includes Lauren Sánchez, Katy Perry, and other accomplished women. The 11-minute flight will reach an altitude of 62 miles, allowing the crew to experience weightlessness.","https://static.toiimg.com/thumb/msid-120282465,imgsize-2280784,width-400,resizemode-4/120282465.jpg"
-Donald Trump’s billionaire ally urges him to temporarily suspend the ‘reciprocal tariffs’ on China: ‘The problem is that there remain…’,https://timesofindia.indiatimes.com/technology/tech-news/donald-trumps-billionaire-ally-urges-him-to-temporarily-suspend-the-reciprocal-tariffs-on-china-the-problem-is-that-there-remain/articleshow/120283184.cms,"By launching the tariffs on April 2nd, President @realDonaldTrump has enabled our trading partners to experience the visceral impact of the tariffs on their markets, companies, and citizens, and he has shown that he is prepared to do what is necessary to address unfair trading practices.
-
-The result has been nations lining up to negotiate deals with the administration. So far so good.
-
-By pausing reciprocal tariffs for 90 days and exempting certain goods from tariffs this weekend, he has also shown considerable flexibility in understanding the challenges to US companies in adapting to the tariffs overnight.
-
-By leaving a 145% tariff on China for the last few days, he has sent a message to China about the consequences to China of retaliating rather than coming to the negotiating table.
-
-The problem is that there remain millions of small and medium-size American businesses that suffer from an inability to adapt to the tariffs on China overnight.
-
-Bill Ackman urges Trump to halt China tariffs
-
-If President Trump were to pause the
-
-China tariffs
-
-for 90 days and reduce them temporarily to 10%, he would achieve the same objective in causing US businesses to relocate their supply chains from China without the disruption and risk to these businesses in the short term, and he would have time to negotiate a deal with China.
-
-China is under the same pressure to negotiate a deal whether the tariffs take effect immediately or if they take effect in 90 days.
-
-The benefit of waiting 90 days is two fold. It gives all US businesses the opportunity to make supply chain adjustments, and it gives China the opportunity to show that it is willing to negotiate a trade deal in good faith.
-
-If China does not cooperate and negotiate a deal that makes sense for our country, President Trump can bring the hammer down in 90 days.
-
-Billionaire investor Bill Ackman , a supporter of Donald Trump ’s presidential campaign, has publicly called for a three-month pause on the broad and steep reciprocal tariffs imposed on Chinese goods. This appeal comes after Trump extended similar pauses to most other countries last week.Ackman, who has been critical of the current tariff policy , took to social media platform X to propose a temporary 90-day suspension of the tariffs. He pointed out that small and medium-size American businesses suffer from an inability to adapt to the tariffs on China overnight.He further suggested that during this period, the tariffs on Chinese imports be reduced to 10%.According to Ackman, this approach would effectively achieve the Trump administration’s stated goal of encouraging US businesses to relocate their supply chains away from China. However, he contends that this could be accomplished without the significant economic disruption and risks associated with the current high-tariff regime.","Billionaire investor Bill Ackman has publicly called for a three-month pause on the broad and steep reciprocal tariffs imposed on Chinese goods. Ackman suggested that during this period, the tariffs on Chinese imports be reduced to 10%. This approach would effectively achieve the Trump administration’s stated goal of encouraging US businesses to relocate their supply chains away from China.","https://static.toiimg.com/thumb/msid-120283204,imgsize-19976,width-400,resizemode-4/Bill-Ackman.jpg"
-Lauren Sanchez and Katy Perry dressed in 'Sexy' Designer Astronaut Suits set to travel to Space today with Blue Origin's all-women crew flight,https://timesofindia.indiatimes.com/technology/tech-news/lauren-sanchez-and-katy-perry-dressed-in-sexy-designer-astronaut-suits-set-to-travel-to-space-today-with-blue-origins-all-women-crew-flight/articleshow/120282362.cms,"This image provided by Blue Origin shows, first row, seated, from left: Lauren Sanchez and Kerianne Flynn and standing in back from left: Amanda Nguyen, Katy Perry, Gayle King and Aisha Bowe in West Texas. (Blue Origin via AP)
-
-Katy Perry LIVE NOW | Pop Star On A WILD MISSION With Lauren Sanchez, Kerianne Flynn & More | LIVE
-
-On Monday, April 14, an all-female crew including NASA rocket scientist Aisha Bowe, astronaut Amanda Nguyen, filmmaker Kerianne Flynn, and celebrities Lauren Sánchez, Katy Perry , and Kelly King will launch on Amazon founder Jeff Bezos-owned Blue Origin ’s first all-female space mission. The historic flight, departing around 9:30 a.m. ET, marks a milestone for Jeff Bezos ’ company, with the crew wearing custom-designed astronaut suits by Monse.The suits, crafted from flame-resistant stretch neoprene, were tailored to each woman’s body using 3-D scans for a precise fit. Sanchez, 55, collaborated with Monse co-founders Fernando Garcia and Laura Kim starting in late 2024 to design suits that balance function with style. “Usually, these suits are made for a man,” Sánchez told The New York Times, explaining that previous suits were merely tailored for women. The new designs include features like calf zippers for flared legs, aiming to be both flattering and functional.Sánchez described the suits as “elegant” with “a little spice,” while Garcia cited motocross outfits and ski suits as inspirations, emphasizing simplicity with a “dangerous” edge. “I almost put a corset in your suit,” Garcia teased Sánchez, who said she would have embraced it. Sánchez stressed the importance of functionality, recalling prototype tests where she stretched and bent to ensure durability, saying, “Let’s make sure it doesn’t split up the back in space.”The crew also shared their pre-flight glam plans with Elle. “Who would not get glam before the flight?!” Sánchez said, noting they’ll wear lash extensions in the capsule. Perry, 40, added, “Space is going to finally be glam. We are going to put the ‘ass’ in astronaut.” King, 70, joined in the excitement for their stylish space debut.Announced in February 2025, the mission highlights a shift toward inclusivity in space exploration, with the crew’s custom suits symbolizing both innovation as well as empowerment.","An all-female crew will launch on Amazon founder Jeff Bezos-owned Blue Origin ’s first all- female space mission. The historic flight, departing around 9:30 a.m. ET, marks a milestone for Jeff Bezos’ company. The crew will wear custom- designed astronaut suits by Monse.","https://static.toiimg.com/thumb/msid-120282337,imgsize-233526,width-400,resizemode-4/Blue-Origin-rocket-launch-all-women-flight.jpg"
-"Elon Musk’s SpaceX is giving up to $100,000 to anyone who can hack into…",https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-spacex-is-giving-up-to-100000-to-anyone-who-can-hack-into/articleshow/120281932.cms,"SpaceX is incentivizing security researchers to identify vulnerabilities within its Starlink satellite internet system through a bug bounty program, offering up to $100,000 for significant findings. The company has already awarded an average of $913.
-
-Target: Does this vulnerability just impact Starlink user terminals and routers, or does it affect shared infrastructure like satellites and our centralized services? What does compromise of the target mean in the larger Starlink system?
-
-Access Required: Is the vulnerability exploitable over the Internet? Is it exploitable over the local network? Is it only exploitable with physical access? Does it require other authentication or preconditions to be viable?
-
-Access Gained: What access does the exploit grant to the target? Can it to be used to affect other users or the system overall? Would it allow an attacker to gather information about Starlink customers?
-
-Scale: How hard would it be to exploit the vulnerability to affect many devices in the fleet?
-
-Persistence: Does this exploit allow an attacker to gain access to the target and maintain it across reboots?
-
-Elon Musk’s company SpaceX is giving up to $100,000 to security researchers to help test the safety of its satellite internet system, Starlink. The company shared this in a blog post, highlighting efforts to protect customer data and improve system security. Through its bug bounty program, SpaceX will pay researchers who find security problems in Starlink. So far, 43 bugs have been found. The average reward over the last three months is $913.75. “We encourage researchers to test Starlink for security issues in a non-disruptive way, and to report their findings through our bug bounty program,” the company said in the blog post.SpaceX says it checks the impact of each issue by looking at several key factors, such as how the bug works, what it affects, and how serious it could be. These factors include:","Elon Musk’s company SpaceX is giving up to $100,000 to security researchers to help test the safety of its satellite internet system, Starlink. The company has already awarded an average of $913.75 for 43 bugs. “We encourage researchers to test Starlink for security issues in a non-disruptive way, and to report their findings through our bug bounty program,” the company said in a blog post.","https://static.toiimg.com/thumb/msid-120281932,imgsize-32456,width-400,resizemode-4/120281932.jpg"
-"As US-China tariff war escalates, DoT makes a 'Chinese request' to Airtel, Reliance Jio and Vodafone-Idea",https://timesofindia.indiatimes.com/technology/tech-news/as-us-china-tariff-war-escalates-dot-makes-a-chinese-request-to-airtel-reliance-jio-and-vodafone-idea/articleshow/120281389.cms,"Security Concerns Drive Scrutiny
-
-Legacy Contracts Under Review
-
-Trusted Sources Mandate
-
-India’s Department of Telecommunications ( DoT ) has requested all telecom operators to submit details of Chinese equipment in their networks, as tensions rise in the US-China tariff war . “The Department of Telecommunications (DoT) has written recently to all telcos ( Airtel Reliance Jio and Vodafone-Idea) to provide details of Chinese equipment in their networks,” a source told the Economic Times. The move aims to monitor potential security risks in India’s telecom infrastructure.According to Economic Times, the Centre has recently made it clear that it would not encourage foreign direct investment (FDI) from China, despite the tariff war between the two largest economies on the planet.Multiple sources indicate that the Indian government is tracking Chinese involvement in India’s communication networks to preempt vulnerabilities. Despite the tariff war potentially boosting India-China trade, the government has firmly stated it will not encourage Foreign Direct Investment (FDI) from China. This follows a similar DoT exercise last year to assess the prevalence of Chinese-linked SIM cards.Chinese vendors like Huawei and ZTE, barred from India’s 5G rollouts, continue to service portions of 4G infrastructure for Bharti Airtel, Vodafone Idea, and 2G networks of Bharat Sanchar Nigam Ltd. (BSNL). “Huawei gets around Rs 600 crore from Indian telecom operators annually as maintenance charges,” another source told ET. While permitted to maintain existing equipment, these companies are excluded from new contracts.Since 2021, post the India-China border clash, the National Security Council Secretariat mandates that telecom suppliers be certified as “trusted sources.” Companies like Ericsson, Nokia, and Samsung have secured approvals, while Huawei and ZTE have not. “The share of Chinese firms is coming down…if any equipment needs to be replaced will depend on the details provided by the telcos,” an official noted.The government is not planning to replace existing Chinese equipment due to high costs for operators like Airtel and Vodafone Idea. However, with over 200 million subscribers still on 2G and some on 3G, older Chinese-chipped SIM cards may need future replacement. India is prioritizing local 4G and 5G technology development to reduce reliance on foreign suppliers and position itself as a telecom equipment exporter.","India’s Department of Telecommunications ( DoT ) has requested all telecom operators to submit details of Chinese equipment in their networks. This follows a similar DoT exercise last year to assess the prevalence of Chinese-linked SIM cards. Despite the tariff war potentially boosting India-China trade, the government has firmly stated it will not encourage Foreign Direct Investment (FDI) from China.","https://static.toiimg.com/thumb/msid-120281366,imgsize-40634,width-400,resizemode-4/US-China-Trade-War.jpg"
-How Apple's plan to increase manufacturing in India and Vietnam is facing the 'Great Wall of China',https://timesofindia.indiatimes.com/technology/tech-news/how-apples-plan-to-increase-manufacturing-in-india-and-vietnam-is-facing-the-great-wall-of-china/articleshow/120280381.cms,"Apple is ramping up production in India and Vietnam to leverage a US tariff reprieve, aiming for 50 million iPhones in India this year and shifting MacBook and iPad production to Vietnam. However, the company faces challenges including maximum factory capacity in India and tightened Chinese customs screenings, hindering the export of essential production equipment and components.","Apple is ramping up production in India and Vietnam to leverage a US tariff reprieve. Apple is aiming for 50 million iPhones in India this year and shifting MacBook and iPad production to Vietnam. However, the company faces challenges including maximum factory capacity in India.","https://static.toiimg.com/thumb/msid-120280789,imgsize-127566,width-400,resizemode-4/Apple-India.jpg"
-One in five Apple iPhones sold across the world are now ‘made in India’ as production hits $22 billion,https://timesofindia.indiatimes.com/technology/tech-news/one-in-five-apple-iphones-sold-across-the-world-are-now-made-in-india-as-production-hits-22-billion/articleshow/120280827.cms,"Apple is significantly increasing iPhone production in India, projecting $22 billion for fiscal year 2025, a 60% surge. One in five iPhones are now made in India, shifting from China. Exports reached $17.4 billion. This expansion, supported by government incentives, includes premium models.","Apple is projecting $22 billion for fiscal year 2025, a 60% surge. One in five iPhones are now made in India, shifting from China. Exports reached $17.4 billion. This expansion, supported by government incentives, includes premium models.","https://static.toiimg.com/thumb/msid-120280811,imgsize-38034,width-400,resizemode-4/iPhone.jpg"
-Microsoft AI CEO Mustafa Suleyman on how AI will change the workplace: Your day-to-day workflow will look like …,https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-on-how-ai-will-change-the-workplace-your-day-to-day-workflow-will-look-like-/articleshow/120278406.cms,"Microsoft AI CEO Mustafa Suleyman, right, is welcomed on stage by Chairman and CEO Satya Nadella during a presentation of the company's AI assistant, Copilot, ahead of a 50th Anniversary presentation at Microsoft headquarters, Friday, April 4, 2025, in Redmond, Wash. (AP Photo/Jason Redmond)
-
-Suleyman suggests that the evolution of AI is going to work similar to that of the internet
+Details
 
 
 
-Microsoft AI CEO Mustafa Suleyman recommends that young people experiment with artificial intelligence to prepare for a future where humans will develop ""symbiotic relationships"" with AI agents.""Play with these things,"" Suleyman said on the ""Big Technology"" podcast. ""Try them out, keep an open mind. Try everything that you possibly can with these models, and then you'll start to see their weaknesses as well.""The co-founder of Google DeepMind believes today's youth will inherit a dramatically changed workplace. ""Your day-to-day workflow just isn't going to look like this in 10 or 15 years time,"" he predicted. Future work will involve ""managing your AI agent, asking it to go do things, checking in on its quality, getting feedback, and getting into this symbiotic relationship.""Suleyman emphasized that people are too focused on AI's immediate applications while overlooking potential long-term impacts. He compared learning about AI to early internet adoption.""It's a little bit like saying, 'What should young people do when they get access to the internet for the first time?'"" Suleyman explained. ""Part of it is sort of obvious, where it's like — use it, experiment, try stuff out, do crazy things, make mistakes, get it wrong.""He noted that users, not creators, ultimately determine technology's development by discovering its best applications. ""The things that people choose to do with their phones, with the internet, with their laptops... are always way more inventive and surprising than anything you could possibly think of ahead of time,"" Suleyman said.His advice applies broadly, including to ""a 15-year-old who's in high school, thinking about what they do next in college or whatever, or whether or not they go to college.""Suleyman remains optimistic about AI's future, expecting innovation to accelerate as capabilities become ""really cheap — if not, like, zero marginal cost.""","Microsoft AI CEO Mustafa Suleyman recommends young people experiment with artificial intelligence to prepare for a future where humans will develop ""symbiotic relationships"" with AI agents. ""Your day-to-day workflow just isn't going to look like this in 10 or 15 years time,"" he predicted. He compared learning about AI to early internet adoption.","https://static.toiimg.com/thumb/msid-120278363,imgsize-71012,width-400,resizemode-4/Microsoft-50th-AI.jpg"
-Trump tariffs: How Apple and other tech companies’ ‘problems’ may not be over yet,https://timesofindia.indiatimes.com/technology/tech-news/trump-tariffs-how-apple-and-other-tech-companies-problems-may-not-be-over-yet/articleshow/120277612.cms,"US commerce secretary says separate tariffs for phones
+Design
 
-Trump announces national security trade probe into the semiconductor sector
 
-US President Donald Trump has announced plans to unveil tariff rates on imported semiconductors within the coming week, indicating a potential restructuring of the electronics trade landscape.The development comes days after the Trump administration announced that it will exclude smartphones and computers from reciprocal tariffs imposed on China, suggesting the reprieve may be temporary.Speaking to reporters aboard Air Force One, Trump emphasised his desire to ""make our chips and semiconductors and other things in our country,"" explaining the rationale behind the impending tariffs, as per news agency Reuters.“We wanted to uncomplicate it from a lot of other companies, because we want to make our chips and semiconductors and other things in our country,” Trump told reporters.He also stressed the need for “flexibility” in applying the tariffs, hinting at potential exemptions for specific companies.Meanwhile, US commerce secretary Howard Lutnick has announced that critical technology products from China, including smartphones and computers, will face new, distinct tariffs within the next two months, alongside those targeting semiconductors and pharmaceuticals.Lutnick clarified that these “special focus-type” tariffs would be separate from the recently increased reciprocal tariffs, which saw levies on Chinese imports rise to 125%.“He's saying they're exempt from the reciprocal tariffs, but they're included in the semiconductor tariffs, which are coming in probably a month or two,” he said in an interview. Lutnick predicted that these tariffs would incentivise the relocation of electronics production to the United States.Earlier in the day, the President announced a national security investigation into the semiconductor sector and the broader electronics supply chain .“We are taking a look at Semiconductors and the WHOLE ELECTRONICS SUPPLY CHAIN in the upcoming National Security Tariff Investigations,” he posted on social media.","US President Donald Trump has announced plans to unveil tariff rates on imported semiconductors within the coming week. The development comes days after the Trump administration announced that it will exclude smartphones and computers from reciprocal tariffs imposed on China. Earlier in the day, the President announced a national security investigation into the semiconductor sector and the broader electronics supply chain.","https://static.toiimg.com/thumb/msid-120277574,imgsize-1383340,width-400,resizemode-4/Donald-Trump.jpg"
+
+Tangle-free woven design for durability and to prevent fraying
+
+
+
+Lengths Available
+
+
+
+- 1.5 meters (stationary use)
+
+
+
+- 20 centimetres / 8 inches (portable use)
+
+
+
+Cable Types & Functions
+
+
+
+USB-C to USB-C: Charging, syncing, audio, CarPlay, data transfer, lossless audio streaming, fast charging up to 60W (USB 2.0 speed)
+
+
+
+USB-A to USB-C: Charging, syncing, CarPlay, data transfer (up to 15W fast charging on select devices, USB 2.0 speed)
+
+
+
+USB-C to Lightning: Charging, syncing, CarPlay, fast charging on select iPhone/iPad models
+
+
+
+Colours Available
+
+
+
+Bolt Black, Surge Stone, Nitro Navy, Rapid Red
+
+
+
+Cable Variants
+
+
+
+- USB-C to USB-C (1.5 m): All colors
+
+
+
+- USB-A to USB-C (1.5 m): Bolt Black, Surge Stone, Rapid Red (Rapid Red coming summer)
+
+
+
+- USB-C to Lightning (1.5 m): Bolt Black, Surge Stone, Rapid Red (Rapid Red coming summer)
+
+
+
+- USB-C to USB-C (2-pack, 1.5 m): Bolt Black
+
+
+
+- USB-A to USB-C (2-pack, 1.5 m): Bolt Black
+
+
+
+- USB-C to USB-C (20 cm): Bolt Black
+
+
+
+- USB-A to USB-C (20 cm): Bolt Black
+
+
+
+- USB-C to Lightning (20 cm): Bolt Black
+
+
+
+Power Adapter
+
+
+
+Not included
+
+
+
+Sustainability
+
+
+
+Packaging made from 100% plant-based material (recycled fibre and sustainable forests)
+
+
+
+
+
+Audio brand Beats has expanded its product portfolio in the country with a new product, Beats Cables. These new USB charging cables come in four colours and are made with a tangle-free woven design. Moreover, to launch Beats into this new category, the “Pill People” have returned for a comedic spot highlighting the cables’ features and uses. Voiced by comedians Ben Marshall, Desi Banks and Megan Stalter, the campaign is available now across Beats’ social media channels.The company claims that this material offers Beats Cables increased durability and prevents fraying. The cables are available in two lengths—1.5 meters and 20 centimetres (8 inches)—for both stationary and portable use. The cables are offered in a variety of configurations: USB-C to USB-C, USB-A to USB-C, and USB-C to Lightning. However, customers have to buy power adapters separately to use these cables.Beats cables are available to order for Rs 1900 (1.5 meters and 20centimetres) and Rs 3500 (1.5 meters, two-pack, USB-C to USB-C and USB-A to USB-C)from apple.com in India, with on-shelf availability beginning April 18.Here are the key specs and features of the new Beats Cables:","Beats has expanded its product portfolio in the country with a new product, Beats Cables. These new USB charging cables come in four colours and are made with a tangle-free woven design. The cables are available to order for Rs 1900 (1.5 meters and 20centimetres) from apple.com in India, with on-shelf availability beginning April 18.","https://static.toiimg.com/thumb/msid-120320161,imgsize-20844,width-400,resizemode-4/Beats-Cables-launched-in-India-in-four-colours-Price-specs-and-more.jpg"
+‘Buy or bury’: Mark Zuckerberg admits Facebook bought Instagram because of this ‘better’ feature,https://timesofindia.indiatimes.com/technology/tech-news/buy-or-bury-mark-zuckerberg-admits-facebook-bought-instagram-because-of-this-better-feature/articleshow/120318706.cms,"Zuckerberg says Meta often failed to develop its own apps
+
+Facebook founder Mark Zuckerberg has admitted during a high-stakes antitrust trial that the company acquired Instagram due to its camera product that was deemed superior to Facebook's in-house project. This admission lends credence to the Federal Trade Commission's (FTC) claim that Meta strategically acquired emerging competitors to prevent them from challenging its market position.According to a report by news agency Reuters, Zuckerberg’s admission comes during his second day of testimony, and appears to bolster the (FTC) claims that Meta employed a “buy or bury” strategy to eliminate potential rivals to maintain its market dominance.“We were doing a build vs. buy analysis,” Zuckerberg stated, adding, “I thought that Instagram was better at that, so I thought it was better to buy them.”Zuckerberg also conceded that Meta's attempts to develop its own apps often resulted in failure.“Building a new app is hard and many more times than not when we have tried to build a new app it hasn't gotten a lot of traction,” he told the court.“We probably tried building dozens of apps over the history of the company and the majority of them don't go anywhere,” he added.Meta, however, argues that Zuckerberg's past statements, including a 2008 email stating “it is better to buy than compete,” are irrelevant. The company contends that the FTC has defined the relevant social media market too narrowly, failing to account for intense competition from platforms like TikTok, YouTube, and Apple's messaging app.Zuckerberg's admission regarding Instagram's superior camera technology has provided a key piece of evidence for the FTC's case. The FTC is seeking to unwind Meta’s acquisitions of Instagram and WhatsApp, arguing that these deals were anti-competitive and aimed at stifling innovation. The trial's outcome could significantly impact Meta's business model.","Zuckerberg says Meta often failed to develop its own apps. Admitted that the company acquired Instagram due to its superior camera product that was deemed superior to Facebook's in-house project. FTC is seeking to unwind Meta’s acquisitions of Instagram and WhatsApp, arguing that these deals were anti- competitive.","https://static.toiimg.com/thumb/msid-120318675,imgsize-15096,width-400,resizemode-4/Mark-Zuckerberg.jpg"
+Apple removes 14 crypto exchange apps from App Store after this ‘request’,https://timesofindia.indiatimes.com/technology/tech-news/apple-removes-14-crypto-exchange-apps-from-app-store-after-this-request/articleshow/120318032.cms,"What the regulator said about these crypto exchange apps
+
+
+
+“Unreported business activities are subject to criminal punishment, and the FIU has been targeting overseas unreported virtual asset business operators conducting domestic business activities without reporting (16 companies in 2022, 6 companies in 2023), while also blocking domestic access through Internet sites and mobile phone apps,” the regulator wrote in a blog post [translated from Korean].”
+
+“In the future, FIU will continue to block domestic access through mobile applications (apps) and Internet sites of overseas unreported virtual asset operators to prevent
+
+money laundering risks
+
+and user damage, in consultation with relevant organisations,”
+
+What the crypto exchange platforms said about the move
+
+
+
+""MEXC respects local regulatory requirements and is currently reviewing the necessary measures to ensure alignment with relevant policies,""
+
+“We are closely monitoring regulatory developments across all jurisdictions, including South Korea, and will fully cooperate with any regulatory requirements.""","""Unreported business activities are subject to criminal punishment,"" the regulator said. The move will affect 16 companies in 2022, and 6 companies in 2023. The regulator will continue to block domestic access through mobile applications and Internet sites of overseas unreported virtual asset operators.","https://static.toiimg.com/thumb/msid-120318108,imgsize-51250,width-400,resizemode-4/Apple-removes-14-crypto-exchange-apps-from-App-Store-after-this-request.jpg"
+China says three US NSA agents used Microsoft Windows to ‘repeatedly carried out cyber attacks’ during Asian Winter Games,https://timesofindia.indiatimes.com/technology/tech-news/china-says-three-us-nsa-agents-used-microsoft-windows-to-repeatedly-carried-out-cyber-attacks-during-asian-winter-games/articleshow/120317697.cms,"China claims NSA agents attacked infrastructure using Microsoft Windows
+
+China has accused the US National Security Agency (NSA) of conducting a series of sophisticated cyberattacks targeting the country’s critical infrastructure during the Asian Winter Games in February. The allegations claim the NSA sought to disrupt essential industries and steal sensitive data.Citing state news agency Xinhua, Reuters reported that police in Harbin city in northeastern China have identified three individuals, Katheryn A. Wilson, Robert J. Snelling, and Stephen W. Johnson as alleged NSA agents involved in the attacks.Furthermore, the accused NSA agents are alleged to have “repeatedly carried out cyberattacks on China's critical information infrastructure and participated in cyberattacks on Huawei and other enterprises.”The news agency also stated that the NSA attacks targeted vital sectors in Heilongjiang province, including energy, transportation, water conservancy, communications, and national defense research institutions.The agency claims the attacks were designed to “sabotage China's critical information infrastructure, causing social disorder, and stealing important confidential information.”The report alleges that the NSA exploited pre-installed backdoors in Microsoft Windows operating systems on specific devices during the Winter Games. Xinhua also asserted that the NSA attempted to conceal its activities by purchasing IP addresses in various countries and renting network servers across Europe and Asia.The agency further claimed the attacks aimed to steal personal data from participating athletes, with a peak occurring during the first ice hockey game on February 3.China's foreign ministry confirmed the allegations and stated that it had raised its concerns with the US.“We urge the U.S. to take a responsible attitude on the issue of cyber security and ... stop unprovoked smears and attacks on China,” ministry spokesperson Lin Jian said during a press briefing.",China has accused the US National Security Agency of conducting a series of sophisticated cyberattacks during the Asian Winter Games in February. The allegations claim the NSA sought to disrupt essential industries and steal sensitive data. China's foreign ministry confirmed the allegations and stated that it had raised its concerns with the US.,"https://static.toiimg.com/thumb/msid-120317640,imgsize-197752,width-400,resizemode-4/Cyberattack-at-the-Winter-Games.jpg"
+Instagram’s ‘really scary’ rise and ‘Google threat’: When Mark Zuckerberg warned Facebook staff in an internal email,https://timesofindia.indiatimes.com/technology/tech-news/instagrams-really-scary-rise-and-google-threat-when-mark-zuckerberg-warned-facebook-staff-in-an-internal-email/articleshow/120316736.cms,Internal emails from 2011 revealed Mark Zuckerberg's concerns about Instagram's rapid growth and its potential threat to Facebook's dominance in mobile photo sharing. He expressed frustration over Facebook's slow progress in developing a competing app and warned of the consequences if Instagram continued its success or was acquired by a rival like Google.,Internal emails from 2011 revealed Mark Zuckerberg's concerns about Instagram's rapid growth. He expressed frustration over Facebook's slow progress in developing a competing app. Zuckerberg warned of the consequences if Instagram continued its success or was acquired by a rival like Google.,"https://static.toiimg.com/thumb/msid-120316918,imgsize-9354,width-400,resizemode-4/Mark-Zuckerberg.jpg"
+Europe issues 'High-Risk' tech protocols for officials travelling to US,https://timesofindia.indiatimes.com/technology/tech-news/europe-issues-high-risk-tech-protocols-for-officials-travelling-to-us/articleshow/120316458.cms,"Representative Image
+
+EU’s new measures for US-bound Commission staff
+
+
+
+The European Commission is offering US-bound commissioners and senior officials burner phones and basic laptops to avoid the risk of espionage in the US, a report has claimed. These are traditionally used by European Union (EU) officials for trips to high-risk countries such as China and Ukraine.The EU officials are reportedly concerned that US systems may try to infiltrate the Commission's networks. The new guidelines have been implemented ahead of next week’s IMF and World Bank spring meetings, which Commissioners and senior officials will be attending.A report by The Financial Times cited four sources familiar with the matter who confirmed that similar steps had been taken on trips to Ukraine and China, where standard IT equipment is restricted due to surveillance risks.“They are worried about the US getting into the commission systems,” one of the officials said to FT.The European Commission announced that three commissioners—Valdis Dombrovskis (Economy Commissioner), Maria Luís Albuquerque (Financial Services Chief), and Jozef Síkela (Development Assistance)—are travelling to Washington from April 21-26 for the IMF and World Bank meetings.The Commission noted it had recently updated its security advice for US travel, though no written instructions specifically regarding burner phone use were provided. The updates, coordinated with the bloc’s diplomatic service, include a recommendation for all staff travelling to the US to turn off their phones at the border and keep them in special sleeves to reduce the risk of surveillance if left unattended.According to Luuk van Middelaar, director of the Brussels Institute for Geopolitics, the advice was expected.“Washington is not Beijing or Moscow, but it is an adversary that is prone to use extra-legal methods to further its interests and power,” Middelaar said to FT.In light of past espionage allegations—such as the claims that the Obama administration spied on Angela Merkel’s phone—Van Middelaar noted that similar surveillance tactics by Democrat administrations have become an accepted reality for the Commission.Travelling to the US carries additional risks, as border officials may seize and inspect electronic devices. European tourists, academics, and researchers have already claimed to have faced entry denial over social media posts or opinions deemed critical of US policies.To minimise these risks, Commission officials have been advised to carry their visas in diplomatic laissez-passer documents rather than in national passports.","EU officials are reportedly concerned that US systems may try to infiltrate the Commission's networks. The new guidelines have been implemented ahead of next week’s IMF and World Bank spring meetings, which Commissioners and senior officials will be attending. Similar steps have been taken on trips to Ukraine and China, where standard IT equipment is restricted due to surveillance risks.","https://static.toiimg.com/thumb/msid-120316462,imgsize-32872,width-400,resizemode-4/Europe-issues-High-Risk-tech-protocols-for-officials-travelling-to-US.jpg"
+Federal agencies deadline to present 'reductions in force' to Elon Musk's DOGE nears: Employees anxious as Trump administration readying another round of 'mass layoffs',https://timesofindia.indiatimes.com/technology/tech-news/federal-agencies-deadline-to-present-reductions-in-force-to-elon-musks-doge-nears-employees-anxious-as-trump-administration-readying-another-round-of-mass-layoffs/articleshow/120314680.cms,"Trump administration and Musk's DOGE target thousands of federal jobs
+
+Uncertainty grows as DOGE and Trump push forward with government overhaul
+
+
+
+Federal agencies are scrambling to meet Monday's deadline to present plans for another round of mass layoffs, further advancing the Trump administration's government downsizing initiative led by tech billionaire Elon Musk's Department of Government Efficiency (DOGE).The impending ""reductions in force"" come after February's termination of thousands of probationary federal employees and will provide clearer insight into the administration's vision for a smaller federal government, according to reporting from The New York Times.""Agency supervisors and managers have largely been left in the dark about the personnel changes,"" said an Environmental Protection Agency scientist who spoke on condition of anonymity. ""Many have come to rely on the news media to learn about their job security.""Some departments have already begun implementing cuts. The Department of Health and Human Services laid off approximately 10,000 employees on April 1, with some workers discovering they were terminated only when their building badges stopped working. In some cases, entire departments and programs were eliminated.Thousands of additional federal workers have resigned voluntarily in recent days, accepting temporary pay in exchange for quitting. The National Park Service alone has seen more than 1,100 such departures, The Times reported.""Scant information about the resignation and early retirement offers has left federal workers to seek advice on social media about whether to accept,"" a Homeland Security official noted, describing how employees were given just 48 hours to make career-altering decisions.The cuts have created widespread uncertainty across federal agencies. Fired probationary workers remain in limbo following fluctuating court rulings that initially forced reinstatements but were later overturned or paused.Further complicating matters, President Trump fired Merit System Protections Board head Cathy A. Harris, leaving the independent administrative board without a quorum to hear employment appeals. This means newly terminated workers could wait years for their cases to be reviewed.The DOGE initiative has already resulted in tens of thousands of departures, casting what The Times describes as ""a pall over the federal workforce"" since Trump returned to office.","Federal agencies are scrambling to meet Monday's deadline to present plans for another round of mass layoffs. The impending ""reductions in force"" come after February's termination of thousands of probationary federal employees. Some departments have already begun implementing cuts, including the Department of Health and Human Services.","https://static.toiimg.com/thumb/msid-120314662,imgsize-2320981,width-400,resizemode-4/Elon-Musk-Donald-Trump.jpg"
+How Jeff Bezos' fiancée Lauren Sánchez solved NASA's 'uniform problem' by 'parterning' with designers of her 2024 Met Gala outfit,https://timesofindia.indiatimes.com/technology/tech-news/how-jeff-bezos-fiance-lauren-snchez-solved-nasas-uniform-problem-by-parterning-with-designers-of-her-2024-met-gala-outfit/articleshow/120314668.cms,"How Blue Origin’s new suits were created and what the crew said
+
+
+
+Amazon founder Jeff Bezos ' fiancée Lauren Sánchez is back from a Blue Origin flight that marked a significant step for women in space . The spacesuit worn by the all-women crew addressed an ongoing challenge with NASA ’s spacesuit design—a challenge rooted in traditional suits being designed for men and then adapted for women. Facing a situation where an all-female spacewalk was once cancelled due to the lack of properly fitting suits, Sánchez reached out to designers Fernando Garcia and Laura Kim, the creative minds behind her 2024 Met Gala outfit. Their collaboration aimed to create a spacesuit better suited to women’s needs, aligning with Blue Origin’s commitment to inclusive design. This initiative reflects Sánchez’s proactive approach in ensuring that even space tourists have access to gear that fits comfortably and functionally.On a video call with The New York Times, “Usually, you know, these suits are made for a man. Then they get tailored to fit a woman.”In 2019, an all-female spacewalk was canceled because NASA did not have two spacesuits properly tailored for women; as a result, they sent one woman and one man instead.The new Blue Origin spacesuits introduced by Lauren Sánchez and designers from Monse aims to offer a professional yet feminine look. These new suits, produced by Creative Character Engineering, replace the older, bulkier Blue Origin models with a design inspired by a mix of futuristic aesthetics and vintage flair.Made from flame-resistant stretch neoprene, these body-con jumpsuits feature elements such as a slight mandarin collar, dual-zip front, and adjustable calf zippers that allow wearers to customise a flared effect. Every suit is tailored using 3D body scans for a precise fit.Gayle King noted that the suits successfully combined professionalism with femininity, a look that marks a departure from traditional men's spacesuit references. Designers aimed for simplicity, comfort, and a hint of daring style, which Amanda Nguyen described as a revolutionary statement affirming that women belong in space, the report added.Blue Origin isn’t the only private space company to collaborate with fashion designers for spacesuit design . Axiom Space has partnered with Prada to develop the spacesuits NASA astronauts will wear during the Artemis III moon mission in 2026.Similarly, Elon Musk teamed up with Hollywood costume designer Jose Fernandez, known for his work on The Fantastic Four and The Avengers, to create the SpaceX suits.","Jeff Bezos' fiancée Lauren Sánchez wore a Blue Origin spacesuit on a recent flight. The suit addressed an ongoing challenge with NASA’s spacesuit design. In 2019, an all-female spacewalk was canceled because NASA did not have two spacesuits properly tailored for women. Every suit is tailored using 3D body scans for a precise fit.","https://static.toiimg.com/thumb/msid-120314655,imgsize-43654,width-400,resizemode-4/How-Jeff-Bezos-fiance-Lauren-Snchez-solved-NASAs-uniform-problem-by-parterning-with-designers-of-her-2024-Met-Gala-outfit.jpg"
+Crosswalks hacked in America’s three biggest tech cities to make fun of Elon Musk and Mark Zuckerberg,https://timesofindia.indiatimes.com/technology/tech-news/crosswalks-hacked-in-americas-three-biggest-tech-cities-to-make-fun-of-elon-musk-and-mark-zuckerberg/articleshow/120314466.cms,"AI-generated messages targeted both Musk, Zuckerberg
+
+
+
+AI-generated voice triggers action from officials
+
+Hackers have reportedly infiltrated crosswalk systems in three of California’s major tech hubs to broadcast AI-generated voices mocking tech moguls Elon Musk and Mark Zuckerberg . Crosswalks in Palo Alto, Menlo Park, and Redwood City, intended to assist visually impaired individuals, were compromised, replacing standard audio prompts with satirical messages in the simulated voices of the Tesla and Meta CEOs.According to a report by Business Insider, the hacks were observed over the weekend as videos of the hacked crosswalk messages made rounds on social media, showcasing the bizarre and often controversial content.The AI-generated messages targeted both Musk and Zuckerberg with satirical commentary. In one clip, a simulated Musk voice humorously referenced the Cybertruck and feelings of loneliness, while another featured him soliciting friendship and offering a Cybertruck as a bribe.“You know, they say money can't buy happiness, and yeah, okay, I guess that's true. God knows I've tried. But it can buy a Cybertruck, and that's pretty sick, right? Right?"" one audio clip reportedly says.""Hi, I'm Elon. Can we be friends? Will you be my friend? I'll give you a Cybertruck, I promise. Okay, look, you don't know the level of depravity I would stoop to just for a crumb of approval,” another one said.A particularly striking clip included a fake Musk voice followed by an AI-generated Donald Trump, creating a bizarre political and personal commentary, the report said.Similarly, the AI-generated Zuckerberg messages were laden with sarcasm and criticism. One clip featured a simulated Zuckerberg voice boasting about ""undermining democracy"" and ""cooking our grandparents' brains with AI slop,""“Hey, it's Zuck here. I just wanted to tell you how very proud I am of everything we've been building together. From undermining democracy to cooking our grandparents' brains with AI slop, to making the world less safe for trans people. Nobody does it better than us, and I think that's pretty neat. Zuck out!”Palo Alto spokesperson Meghan Horrigan-Taylor confirmed that a city employee discovered the malfunction on Saturday (April 12) morning, revealing that 12 crosswalks were affected. The voice announcement feature has been temporarily disabled as authorities investigate the breach, believed to have originated on Friday.“Signal operations are otherwise unaffected, and motorists are reminded to always exercise caution around pedestrians,” Horrigan-Taylor stated.","Crosswalks in Palo Alto, Menlo Park, and Redwood City, California, were compromised. Hacked crosswalk systems broadcast AI-generated voices mocking tech moguls Elon Musk and Mark Zuckerberg. In one clip, a simulated Musk voice humorously referenced the Cybertruck and feelings of loneliness.","https://static.toiimg.com/thumb/msid-120314514,imgsize-88954,width-400,resizemode-4/Elon-Musk-and-Mark-Zuckerberg.jpg"
+NPCI makes changes in international UPI transactions via QR share & Pay: When UPI users can pay and when not,https://timesofindia.indiatimes.com/technology/tech-news/npci-makes-changes-in-international-upi-transactions-via-qr-share-pay-when-upi-users-can-pay-and-when-not/articleshow/120312326.cms,"NPCI makes changes in international UPI transactions via QR share & Pay
+
+What is QR Share & Pay
+
+Global UPI via shared QR codes discontinued; live scans still allowed
+
+Discontinuation of international QR Share & Pay : All UPI-based Person-to-Merchant (P2M) international payments made via saved or shared QR codes are now disallowed. Only live scanning of QR codes at physical merchant locations abroad is permitted.
+
+: All UPI-based Person-to-Merchant (P2M) international payments made via saved or shared QR codes are now disallowed. Only live scanning of QR codes at physical merchant locations abroad is permitted. PSP app compliance : Payment Service Providers (e.g., Google Pay, PhonePe, Paytm) are required to ensure that their UPI apps can detect and block international transactions made through saved QR codes.
+
+: Payment Service Providers (e.g., Google Pay, PhonePe, Paytm) are required to ensure that their UPI apps can detect and block international transactions made through saved QR codes. Domestic transactions unaffected, with limits: Within India, the QR Share & Pay feature remains functional. However, a long-standing limit of Rs 2,000 applies for transactions made to non-verified offline merchants using this method. PSPs are required to enforce this restriction programmatically.
+
+Reason behind the restriction
+
+The Economic Times
+
+Impact on users and international merchants
+
+For users
+
+Reduced convenience for travelers : The move significantly affects Indian tourists and NRIs who relied on QR Share & Pay for remote payments abroad.
+
+: The move significantly affects Indian tourists and NRIs who relied on QR Share & Pay for remote payments abroad. Mandatory live scanning : Users must now be physically present at the merchant’s location to complete international UPI payments via QR codes.
+
+: Users must now be physically present at the merchant’s location to complete via QR codes. Reliance on alternative methods: Customers may need to resort to credit cards, international debit cards, or cash for non-face-to-face transactions.
+
+For merchants:
+
+Operational adjustments required : International merchants accepting UPI will need to educate Indian customers that only live QR code scans are now allowed.
+
+: International merchants accepting UPI will need to educate Indian customers that only live QR code scans are now allowed. Potential loss in remote transactions: Merchants may experience a dip in cross-border digital sales, particularly for services or products ordered online and paid remotely.
+
+Continued domestic use with safeguards
+
+Rs 2,000 limit : Domestic transactions via QR Share & Pay remain capped at Rs 2,000 per transaction for non-verified offline merchants.
+
+: Domestic transactions via QR Share & Pay remain capped at Rs 2,000 per transaction for non-verified offline merchants. Merchant verification: Transactions above this limit require the merchant to be registered with NPCI and undergo KYC checks.
+
+Additional restrictions: No more wallet top-ups via collect requests
+
+Security over convenience
+
+In a significant regulatory update that impacts global digital payments, the National Payments Corporation of India ( NPCI ) has issued a directive halting all international UPI transactions made through the “QR Share & Pay” method. The announcement, detailed in a circular dated April 8, 2025, is effective retroactively from April 4, 2025. Under the new regulation, international merchant payments initiated by scanning QR codes saved in device galleries—rather than physically present codes—will no longer be allowed. This policy change affects all Payment Service Provider (PSP) apps such as Google Pay, PhonePe, and Paytm that facilitate India’s UPI (Unified Payments Interface) services abroad.Currently, UPI-based QR payments are supported in multiple countries including France, Nepal, Mauritius, Singapore, Sri Lanka, and the UAE. The restriction aims to curb potential fraud and improve oversight in international financial transactions. While domestic QR share-and-pay transactions remain valid, they are subject to limits and merchant verification protocols.The “QR Share & Pay” method allowed merchants to share static QR codes through digital platforms such as WhatsApp or email, which customers could then save and scan via UPI apps to make payments. This mode of transaction was particularly popular among small and medium-sized businesses, as well as Indian tourists and Non-Resident Indians (NRIs) making purchases abroad.This method offered convenience by removing the need for physical presence during payment, supporting remote transactions across borders. For example, an Indian tourist in Singapore could purchase an item, receive the merchant’s QR code digitally, and complete the transaction through an Indian UPI app—even after returning home.According to NPCI’s April 2025 circular, the following key changes have been implemented:The decision to suspend international QR Share & Pay transactions is primarily motivated by fraud prevention. QR codes—especially when shared remotely—can be tampered with or misused by malicious actors to steal data or redirect payments.Rahul Jain, CFO of NTT DATA Payment Services India, noted that P2M transactions with unverified or foreign merchants posed elevated fraud risks, as reported by. Without physical verification or merchant onboarding, the system becomes susceptible to unauthorized fund transfers and phishing attacks. By disallowing remote QR payments overseas, NPCI aims to strengthen control and traceability of outbound UPI flows.While international usage has been restricted, NPCI has clarified that the QR Share & Pay method can still be used within India, provided certain guidelines are followed:The same circular introduces another critical change: users will no longer be allowed to load prepaid wallets or gift cards using the “collect request” feature. A collect request refers to a payment request initiated by the merchant that the user must approve. This method has increasingly been associated with scams and phishing attempts.Rohit Mahajan, Managing Partner at Plutos ONE, noted that NPCI is phasing out collect requests—particularly from unverified merchants—to enhance consumer protection. Users can now only top up their wallets via push transactions, which are user-initiated and considered safer.According to Jai Kumar, Co-Founder of TechFini, while these changes may reduce convenience, especially for cross-border transactions, they offer significant improvements in security and regulatory oversight. The updated guidelines represent NPCI’s strategic shift toward minimizing high-risk transactions and improving traceability within the expanding UPI ecosystem.","The National Payments Corporation of India ( NPCI ) has issued a directive halting all international UPI transactions made through the “QR Share & Pay’ method. The announcement, detailed in a circular dated April 8, 2025, is effective retroactively from April 4, 2025.","https://static.toiimg.com/thumb/msid-120312609,imgsize-35578,width-400,resizemode-4/NPCI-makes-changes-in-international-UPI-transactions-via-QR-share-Pay.jpg"
+DHS tells why Massachusetts attorney and US citizen Nicole Micheroni got an email asking her to self-deport: CBP sent the email as ...,https://timesofindia.indiatimes.com/technology/tech-news/dhs-responds-to-massachusetts-attorney-and-us-citizen-nicole-micheroni-getting-email-to-self-deport-cbp-used-the-email-as-/articleshow/120311769.cms,"DHS statement on Nicole Micheroni getting 'Self-deport immediately' email
+
+CBP One App’s Role in Parole Program
+
+Nicole Micheroni Clarifies Immigration Parole
+
+A US citizen and immigration attorney, Nicole Micheroni , received a startling email from the Department of Homeland Security (DHS) ordering her to “self-deport immediately,” The Boston Globe reported. that the email had the subject line “Notification of Termination of Parole” but omitted any client name or case number. Micheroni, a partner at Cameron Micheroni & Silvia in Massachusetts, initially assumed it was meant for a client. “It took me a couple of minutes to realize it was sent to me instead of someone I represent,” she told the Globe. The email warned, “DHS is terminating your parole. Do not attempt to remain in the United States—the federal government will find you.”Micheroni, a 12-year immigration law veteran, claimed that it was unclear why DHS had her email address, as clients typically provide their own for updates.DHS later confirmed the notice was sent to Micheroni by mistake. A Customs and Border Protection spokesperson released a statement regarding the letter Micheroni received, which said that notifications may have reached unintended recipients if a non-personal email, such as that of a US citizen contact, was provided. ""CBP used the known email addresses of the alien to send notifications. If a non-personal email—such as an American citizen contact—was provided by the alien, notices may have been sent to unintended recipients. CBP is monitoring communications and will address any issues on a case-by-case basis.”The incident connects to the CBP One app, introduced near the end of Trump’s first term to help customs brokers schedule inspections and allow short-term visa holders to extend stays. Under the former President Biden, the app’s use expanded to manage migrant parole, granting a two-year stay and work authorization while awaiting case hearings. Following Doald Trump’s January 20, 2025, inauguration, CBP is said to have started canceling migrant appointments at the Mexico border, effectively halting the parole program’s operations.Micheroni used the incident to educate the public on immigration parole via a BlueSky thread. “Revocation of parole isn’t the same as a deportation order, and this email does not initiate deportation proceedings,” she wrote. With 12 years of legal experience, she urged anyone receiving similar notices to consult an immigration lawyer immediately, emphasizing that legal options may still be available.","US citizen and immigration attorney Nicole Micheroni received a startling email from the Department of Homeland Security. The email warned, “DHS is terminating your parole. Do not attempt to remain in the United States—the federal government will find you.” The incident connects to the CBP One app, introduced near the end of Trump’s first term.","https://static.toiimg.com/thumb/msid-120311745,imgsize-919989,width-400,resizemode-4/Photo-credit-nicolemicheroni/BlueSky.jpg"
