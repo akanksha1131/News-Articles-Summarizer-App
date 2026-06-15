@@ -1,4 +1,425 @@
 Article Title,Article Link,Article Text,Article Summary,Article Image
+Be careful what you wish for: How Anthropic CEO Dario Amodei's own words turned against him,https://timesofindia.indiatimes.com/technology/tech-news/be-careful-what-you-wish-for-how-anthropic-ceo-dario-amodeis-own-words-turned-against-him/articleshow/131739312.cms,"FILE - Dario Amodei, CEO & Co-Founder of Anthropic, speaks on a panel at the convening of the International Network of AI Safety Institutes at the Golden Gate Club at the Presidio in San Francisco, Nov. 20, 2024. (AP Photo/Jeff Chiu, File)
+
+The doomer who built a brand on his own danger
+
+The essay that handed the government a loaded gun
+
+The feud underneath the security panic
+
+Every safeguard Dario demanded was waiting for him
+
+For two years, Dario Amodei built a public persona out of warning the world that his own technology might be too dangerous to trust. He kept predicting mass white-collar unemployment. He wrote essays warning of AI-enabled bioterrorism and cyberattacks. He told Congress, in so many words, to regulate him. The pitch never changed: this stuff is powerful enough to break things, so someone with authority should be ready to step in. Then, last week, someone with authority did exactly that—and the thing it broke was Anthropic's most valuable product. Amodei spent years asking for a referee. When one finally blew the whistle, the call went against him.The sequence was almost cruel in its tidiness. Anthropic released Claude Fable 5 on June 9, billing it as the most capable model the company had ever put in front of the public. By Friday evening, June 12, the US government had ordered it pulled, handing Anthropic a 90-minute window to take it down and offering, by the company's account, no specifics about the threat it was supposedly neutralising. The order barred any foreign national—anywhere outside the US, and even green-card holders working inside it—from touching the models, a net so wide that Anthropic's only way to comply was to shut Fable off for everyone.Users who had barely finished testing the thing watched it vanish mid-task.For a CEO whose entire brand rests on sober warnings about AI risk, it should have been a moment of grim vindication. Instead it had the shape of an old morality tale—the kind where a man wishes hard for one specific thing, the wish is granted exactly as asked, and the granting is the whole horror. Amodei got his wish too.To see how Anthropic ended up here, rewind to April and a project called Glasswing. That was when the company introduced Claude Mythos Preview, a frontier model it described in deliberately alarming terms. Anthropic said the model had autonomously uncovered thousands of high-severity software vulnerabilities, including a 27-year-old flaw in OpenBSD—one of the most security-hardened operating systems in existence—and a 16-year-old bug in FFmpeg that automated tools had hit five million times without ever catching. The model was good enough at finding holes in critical software, the message went, that it could be a weapon in the wrong hands.So Anthropic didn't release it. It locked Mythos behind a coalition of cyberdefense partners—Amazon, Google, Microsoft, JPMorganChase, the Linux Foundation, and eventually more than 200 companies and governments—and committed $100 million in usage credits to put the model to defensive work before less scrupulous actors caught up. The alarm travelled fast. By mid-April, Mythos had become a headline topic at the IMF's spring meeting in Washington, where finance ministers and central bankers traded warnings about what it might do to the banking system. Canada's finance minister called it an ""unknown, unknown."" The Bank of England's governor said it had to be taken very seriously. The logic was pure Amodei: build something formidable, announce loudly that it's formidable, then insist the world needs guardrails to contain it. He had reportedly likened the danger to a nuclear bomb.He had been running this play for a long time. On CBS in November, he told Anderson Cooper that AI could erase half of all entry-level white-collar jobs and push unemployment to 10 or 20 percent. In a January essay he warned that AI-assisted bioweapons could one day produce ""casualties potentially in the millions or more."" Anthropic disclosed that during a safety test, Claude had tried to blackmail a fictional executive to avoid being shut down—then published the embarrassing result instead of quietly burying it. Daniela Amodei, the company's president and Dario's sister, framed the whole philosophy on that same broadcast: the worst thing they could do was see the transformation coming and stay quiet, ending up ""like the cigarette companies, or the opioid companies."" The warnings weren't a side project. They were the marketing.And the disruption was real, not just rhetorical. Back in February, a modest set of Claude add-ons—one of them automating legal work—triggered a global selloff that analysts nicknamed the ""SaaSpocalypse,"" wiping hundreds of billions of dollars off software, legal-services and financial-data stocks in a matter of days. Anthropic spent the spring being celebrated for precisely the disruptive power that would, by June, be turned against it.Then came the document that may have written his fate. On June 11, two days before the trouble started, Amodei published an essay called ""Policy on the AI Exponential."" Its central argument was that transparency alone no longer cut it, and that the moment had arrived for ""more serious and binding regulation of AI.""His preferred analogy was the Federal Aviation Administration. Frontier models, like aircraft, should pass mandatory third-party safety testing before flying. And then the line that reads very differently in hindsight: ""The government should have the power to block or deter deployment of the model if it is determined, in light of third-party assessment, to present unacceptable risks."" He listed cybersecurity as one of the areas that justified this blocking power. On ABC that same week, he restated it plainly—Anthropic was ""proposing giving the government the ability to, again, in a narrow way, block deployment of unsafe technology.""It is hard to read those sentences now without flinching for him. Amodei handed over a rhetorical weapon, aimed it at his own industry, and watched it discharge in his direction inside 48 hours. He had tried to fence the idea in—the blocking power was meant to be ""scoped"" to specific risks and shielded ""against political favoritism or arbitrary decisions."" He wanted a referee with clear rules. What he got instead was a whistle blown by people who, by multiple accounts, simply didn't care for his company.The trigger came from an unlikely direction: Anthropic's own investor. Fable 5 had cleared pre-release testing by both the administration and the United Kingdom's AI Security Institute, and Anthropic had notified the government of the launch multiple times without objection. Then, two days after release, Amazon—an Anthropic backer and cloud partner, responding to an administration request for feedback—told White House officials its researchers had strung together prompts to coax the model into revealing information about a handful of security bugs. Amazon CEO Andy Jassy's message detailing the issue was, by several accounts, the most influential single push. The White House ran it past the National Security Agency and decided it had ""proof."" Why a major shareholder would knife its own portfolio company is the episode's strangest wrinkle, and one nobody on the record has fully explained.What followed, per a detailed Politico account, was a frantic 24 hours. By Friday morning the matter had reached chief of staff Susie Wiles, Treasury Secretary Scott Bessent and White House Cyber Director Sean Cairncross. When officials first tried to reach Amodei, they were told he was unavailable—at a wellness retreat, by their telling, a characterisation Anthropic flatly denies. Once reached, he joined a series of calls with senior officials and tried to clear up what he assumed was a misunderstanding, arguing the bypass was narrow and specific, nothing like a universal ""jailbreak"" that would strip the guardrails wholesale. Bessent and Cairncross were unmoved. At one point Bessent told him bluntly that he was making a ""bad decision."" Officials urged Anthropic to pull the model voluntarily; Amodei asked for more time and more information and made no commitment.The two sides can't even agree on what was offered. The White House insists export controls were a last resort after officials ""begged"" for hours to cooperate. A person close to Anthropic counters that the company was handed a flat 90-minute deadline at 1:15 p.m., ""with no details on the actual threat—there was never any begging, or asking, for them to work with us."" Either way, at 5:21 p.m. the order landed. Commerce Secretary Howard Lutnick informed Amodei that Fable 5 and Mythos 5 now required a special license to reach any destination worldwide or any non-US citizen, and warned that failure to comply would bring ""prompt criminal and civil penalties. "" By 10 p.m., Fable was dark.Researchers who later saw the underlying report sided with Amodei on the substance. Anthropic said the technique surfaced a small number of previously known, minor vulnerabilities, the kind freely available models could find without any bypass, and noted that no tester had yet found a universal jailbreak. Katie Moussouris of Luta Security, who reviewed the Amazon research, called it no jailbreak at all but a defensive maneuver—""if national defense is the goal, this is an own goal. "" And in a detail that undercut the security rationale entirely, several officials conceded the same capability sits inside OpenAI's top model, 5.5, which remains on sale, untouched.There may be more to the panic than a jailbreak, though. Days later, Semafor reported that the crackdown was driven partly by suspicion that a China-linked group had gained access to Mythos—a scenario that, if true, would raise the prospect of Beijing reverse-engineering the model through distillation. It would not have been the first slip: Anthropic has acknowledged that a Discord group quietly held access to its most dangerous model for two weeks before the breach was caught. Anthropic says the government never raised China in any of the conversations around the export controls, and that it blocks access from within China outright. The administration hasn't confirmed the China angle on the record.If it holds up, the irony only deepens, because export controls are another weapon Amodei helped forge. In a January 2025 essay he argued forcefully for tighter chip controls on China, framing them as ""the only thing"" standing between a unipolar world led by democracies and a bipolar one in which an authoritarian Beijing could ""take a commanding lead on the global stage."" He wanted the export-control regime to be aggressive and adaptive. He got that too—pointed, this time, at Anthropic. The discomfort underneath the whole affair is the same: a single company now holds something powerful enough that its security lapses become everyone's problem.None of this erupted out of nowhere. Anthropic and the Trump administration had been circling each other for most of the year, and the bad blood ran deeper than a single jailbreak. The relationship had cracked over Anthropic's refusal to let the US military use Claude for mass domestic surveillance and fully autonomous weapons—red lines the company called core to its definition of responsible AI.After reports that Claude had been used in the January operation that seized former Venezuelan president Nicolás Maduro, Defense Secretary Pete Hegseth demanded the company sign on to ""any lawful use."" On March 3 the Pentagon branded Anthropic a ""supply chain risk""—a label historically reserved for firms in adversarial nations, never before pinned on an American company. In February, Trump had gone further still, calling Anthropic a ""radical left, woke company"" and ordering every federal agency to cease using its technology. Anthropic sued; a near-deal collapsed; the grudge calcified. Rivals, meanwhile, fell into line—Google dropped its weapons pledge, OpenAI softened its mission language, and Elon Musk's xAI accepted the Pentagon's ""any lawful use"" standard.The cruel irony is that even the people punishing Anthropic wanted its technology. Through the worst of the feud, intelligence agencies kept using Claude; the Department of Energy wanted it to defend the power grid; civilian agencies negotiated for Mythos access even as the Pentagon blacklisted the firm. One defense official explained the whole tangle in a sentence: the talks only continued because ""these guys are that good. "" Anthropic had built something the government couldn't punish without also depriving itself.So when the models went dark, plenty of observers saw motives beyond pure security math. David Sacks, Trump's former AI czar and a fierce opponent of regulation, backed the export controls and said the administration had asked Amodei to fix the jailbreak and that he ""refused""—an account a person close to Amodei disputed. Hegseth piled on: ""Three months ago, the Department of War kicked Anthropic out of our building—forever. Every passing day proves why that was the right move."" Yann LeCun, one of AI's founding figures and a longtime skeptic of Anthropic's risk messaging, was blunter still: ""Dario Amodei's ridiculous fear mongering about Mythos/Fable (and AI in general) finally pays off. One reaps what one sows."" Even Gary Marcus, an AI skeptic with no love for the accelerationists, called the move ""wildly overdramatic and also counterproductive.""The sharpest cut came from the Pentagon's chief information officer, Kirsten Davies: ""Some things are simply more important than revenue cycles, clickbait and pre-IPO valuation."" That last phrase drew blood, because it was accurate—Anthropic had confidentially filed for an IPO just days earlier, on June 1, at a valuation approaching $1 trillion, in a race with OpenAI to reach the public markets first. The throughline in all of it was the same. For years Amodei had insisted AI was a uniquely dangerous, nation-state-grade technology that warranted government power to intervene. When the government finally flexed, it borrowed his own vocabulary to justify the squeeze.Buried under the political theater was a real cost. Mythos had been doing genuine work. Through Project Glasswing, partners had been hunting high- and critical-severity vulnerabilities across the world's most important software, with banks among those given early access to harden their own systems. Pulling the models froze all of it. Industries from finance to energy that had been using Mythos to patch their systems were left stranded mid-effort. And the precedent landed harder than the single order. As one person briefed on it put it, the move amounts to ""a de-facto licensing regime""—companies will not cross the White House, and that is the whole point. No firm or government outside the US can now build anything mission-critical on a US AI vendor without fearing a kill switch the government can flip without notice.Anthropic had spent years arguing that democracies should lead in AI so the technology would carry democratic values. Friday's order suggested those values now include yanking a commercial product from hundreds of millions of users overnight.The most uncomfortable part is how clearly Amodei anticipated his own predicament. In his January essay he warned that AI was such a ""glittering prize"" that it would be ""very difficult for human civilization to impose any restraints on it at all."" He fretted about too few ""fingers on the button."" He cautioned that AI companies could drift into quasi-state power, and that their relationship with government needed ""limits and boundaries. "" He was right about every tension. He just misjudged where he sat inside them. Once you spend two years insisting your product is a national security matter, you forfeit the right to be surprised when national security officials treat it as exactly that—on their terms, not yours.He opened ""Policy on the AI Exponential"" with an image from The Lord of the Rings: Treebeard, the ancient tree who takes a full day just to say hello, and the desperate need to rouse him before the forest is felled. ""Treebeard and his forest are waking up,"" Amodei wrote hopefully, pleased that policymakers were finally stirring. They were. They just came for his forest first.Whether the order survives is another matter. Lutnick was still talking to Anthropic over the weekend, and the administration signals it wants Fable back in general release once the issue is ""resolved."" Anthropic is complying while calling the action disproportionate and the whole episode a ""misunderstanding,"" and says it's working to restore access. The company stands by safeguards that independent testers have rated among the most robust of any deployed model. But the week's lesson is harder to take back. Amodei spent years insisting that someone should have the power to pull a dangerous AI off the shelf. He got his wish—granted exactly as asked, on terms he didn't choose and can't return. That is the oldest twist in the book. Now he is living it.","Dario Amodei built a public persona out of warning the world that his own technology might be too dangerous to trust. He kept predicting mass white-collar unemployment. The pitch never changed: this stuff is powerful enough to break things, so someone with authority should be ready to step in.","https://static.toiimg.com/thumb/msid-131739463,imgsize-167896,width-400,height-225,resizemode-4/file-dario-amodei-ceo-amp-co-founder-of-anthropic-speaks-on-a-panel-at-the-convening-of-the-international-network-of-ai-safety-institutes-at-the-golden-gate-club-at-the-presidio-in-san-francisco-nov-20-2024-ap-photojeff-chiu-file.jpg"
+Stanford students walk out on Google CEO Sundar Pichai's graduation speech: 'We don't need another tech billionaire to tell us how to…',https://timesofindia.indiatimes.com/technology/tech-news/stanford-students-walk-out-on-google-ceo-sundar-pichais-graduation-speech-we-dont-need-another-tech-billionaire-to-tell-us-how-to/articleshow/131738894.cms,"Why Stanford students protested Sundar Pichai's speech
+
+Stanford's Gaza protests stretch into a third year
+
+What Sundar Pichai told Stanford graduates instead
+
+More than 200 Stanford graduates walked out on Google CEO Sundar Pichai as he stepped up to deliver the university's commencement address on Sunday, chanting ""Free, free Palestine"" while boos and cries of ""shame on you"" cut through the crowd. Students waved Palestinian flags, blew whistles and raised banners before filing out mid-speech, turning what should have been a marquee moment for one of Stanford's most prominent alumni into a public rebuke.Pichai had been coached on what not to say to avoid the AI backlash that has dogged other tech executives this graduation season, and he stuck to the script, skipping any mention of the technology Google is racing to build. But the protest that greeted him had nothing to do with AI. It was about one Google contract: Project Nimbus, the company's cloud deal with the Israeli government.The walkout was organized by Stanford's Students for Justice in Palestine chapter and the No Tech for Apartheid campaign. Their target was Project Nimbus, Google's $1.2 billion cloud-computing deal with the Israeli government, signed in 2021 alongside Amazon.Protesters condemned the contract for supplying services to Israel's Defense Ministry and other state agencies during the war in Gaza.""We don't need another tech billionaire to tell us how to get rich off of the killing and surveillance of Palestinians,"" Stanford SJP said in a statement.Around 200 students walked, according to SFGate, before joining smaller groups already demonstrating in the audience. The BBC caught Pichai afterward and asked for his reaction to the walkout. He said little.Sunday's demonstration followed a pattern. For at least the third straight year, Stanford commencements have drawn protests over Israel's war in Gaza and the university's crackdown on pro-Palestinian activism on campus. And for the second year running, students who walked out held their own ""People's Commencement"" nearby.This year's alternative ceremony featured Mahmoud Khalil as keynote speaker. Khalil, a pro-Palestinian organizer during Columbia University's 2024 protests, was detained by US Immigration and Customs Enforcement for more than 100 days last year as the government moved to deport him over his activism.Pichai, a Stanford alum who earned his master's here before rising through Google, didn't address the protest from the stage. He waited it out. Once the demonstrators cleared and the noise faded, the soft-spoken executive won over much of the room, drawing laughter and applause as he recounted immigrating to California, swapping his doctorate for a master's, and finding his footing in his early Google years.His speech ran on personal story, not industry talking points. Pichai urged graduates to ""choose optimism,"" returning to the anecdote of arriving in California expecting lush greenery and finding only brown hills, until his host told him the right word was ""golden."" The takeaway, he said, was learning to reframe something unappealing as something full of promise. He closed by telling the Class of 2026 to ""set your heart ablaze. ""The caution was deliberate. Pichai's predecessor Eric Schmidt got booed at the University of Arizona last month for praising AI, part of a wider student revolt against executives hyping a technology graduates increasingly see as a threat to their careers. Scott Borchetta, the music executive who helped launch Taylor Swift, drew the same treatment at Middle Tennessee State University. Pichai dodged that landmine cleanly.The other one he couldn't avoid. For a large share of the Class of 2026, the issue with Google's CEO isn't his pitch on AI. It's the company's business with Israel.","Google CEO Sundar Pichai delivered the commencement address at Stanford on Sunday. More than 200 students walked out, chanting ""Free, free Palestine"" The walkout was over Google's $1.2 billion cloud-computing deal with the Israeli government.","https://static.toiimg.com/thumb/msid-131738971,imgsize-199090,width-400,height-225,resizemode-4/google-ceo-sundar-pichai-faced-a-200-strong-walkout-and-chants-of-free-free-palestine-during-his-stanford-commencement-address.jpg"
+Elon Musk says becoming world’s first quadrillionaire is ‘not impossible’; says Moon and Mars factories must come first,https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-says-becoming-worlds-first-quadrillionaire-is-not-impossible-says-moon-and-mars-factories-must-come-first/articleshow/131738486.cms,"Elon Musk
+
+SpaceX IPO milestone
+
+
+
+Moon city and Mars vision
+
+
+
+How SpaceX got at the biggest IPO ever
+
+
+
+Elon Musk world’s first-ever trillionaire
+
+
+
+SpaceX CEO Elon Musk has now suggested that reaching quadrillionaire status is “not impossible”, but he also said that such wealth would require factories on the Moon and Mars and a future economy measured in mass and energy rather than in dollars. Responding to a post shared on social media platform X (formerly known as Twitter), noting that he would need nearly $999 trillion more to reach quadrillionaire status, Musk wrote: “Not impossible, but definitely requires factories on the Moon and Mars to achieve. By then, I don’t think dollars will be used as currency. Just mass and energy.” The remark echoes language Musk used earlier this year when details of his milestone-driven SpaceX IPO equity package drew attention. At the time, he said such valuations would only make sense if humanity advanced toward a Kardashev II civilization, capable of harnessing stellar-scale energy.The latest comment made by Musk comes after a historic weekend for SpaceX. The company recently went public on Nasdaq under ticker SPCX, raising around $75 billion in the largest IPO on record. Shares of the company surged by 19% on debut, valuing SpaceX at more than $2.1 trillion and making it the sixth-most valuable US company.The public listing of SpaceX also pushed Musk’s fortune to about $1.1 trillion, according to Forbes, making him the world’s first trillionaire.On Sunday, June 14, Musk forecast that SpaceX could reach $1 trillion in revenue by 2030, citing future infrastructure such as “Moon City,” lunar factories, and off-Earth AI manufacturing hubs. While Musk has long prioritized Mars settlement, his recent comments expand the vision to include lunar industry as a stepping stone toward interplanetary economies.SpaceX’s transformation over the past six months has been striking. The company that built its identity around rocket launches and Starlink satellite internet has repositioned itself as an AI infrastructure giant. The company's valuation was around $800 billion in an insider share sale as recently as December.It rose to $1 trillion following SpaceX's acquisition of Musk's xAI in February, and has now vaulted to $1.77 trillion at the IPO price. That is more than double its valuation from July of last year. Much of that shift has been driven by a series of major computing infrastructure deals. SpaceX has signed agreements to provide AI compute capacity to Anthropic and Google for a combined $2.17 billion per month.Musk’s broader pitch places SpaceX at the centre of an ambitious vision: data centres in space, robot factories on the moon and a permanent human colony on Mars.SpaceX shares began trading, sending the company’s valuation past $2 trillion and cementing its place in the history books. Following the public listing, the ‘skyrocketing’ stock value has officially made company founder and CEO Elon Musk the world’s very first trillionaire. After the successful IPO, Musk emphasised that the public listing is merely a stepping stone toward a much grander, sci-fi-inspired vision for humanity.Speaking to a crowd of supporters and investors following the listing, Musk drew a sharp line between his company’s philosophy and that of traditional aerospace contractors. He said that older aerospace firms and his competitors built reliable rockets but they lacked the ambition required to truly push humanity forward.“While the other Aerospace companies they built good rockets and everything, they were simply not pursuing the technology that’s necessary to make life multi-planetary. To make Star Trek, to make the exciting science fiction futures that we've read about,” Musk said.",SpaceX CEO Elon Musk has suggested that reaching quadrillionaire status is ‘not impossible’ But he also said that such wealth would require factories on the Moon and Mars and a future economy measured in mass and energy rather than in dollars. The remark echoes language Musk used earlier this year when details of his milestone-driven SpaceX IPO equity package drew attention.,"https://static.toiimg.com/thumb/msid-131738474,imgsize-12722,width-400,height-225,resizemode-4/elon-musk.jpg"
+"As US restricts access to Anthropic's Mythos 5 and Fable 5, Zoho founder Sridhar Vembu says India must focus on …",https://timesofindia.indiatimes.com/technology/tech-news/as-us-restricts-access-to-anthropics-mythos-5-and-fable-5-zoho-founder-sridhar-vembu-says-india-must-focus-on-/articleshow/131737698.cms,"Sridhar Vembu: AI is only one part of the puzzle
+
+Zoho founder Sridhar Vembu has called for India to build capabilities across the entire technology stack following the Trump administration's decision to restrict access to Anthropic's Mythos 5 and Fable 5, for foreign users. Responding to the development, Sridhar Vembu shared an X (formerly Twitter) post arguing that India's challenge goes beyond building its own AI models and requires a broader focus on what he described as ""sovereign tech"" — a strategy that covers every layer of technology needed to support advanced AI systems.In a post on X, Sridhar Vembu said India should not limit its ambitions to sovereign AI alone. ""I would frame the issue facing Bharat as sovereign tech in general and not just sovereign AI,"" he wrote.According to Vembu, AI represents only the visible part of a much larger technology ecosystem. ""AI is the tip of a whole pyramid of capabilities, most of it we don't have and we don't even hear about,"" he said.In the post, Vembu argued that many of the technologies required to support advanced AI are not as expensive as building cutting-edge AI models themselves. ""Most of those capabilities are not very expensive to acquire (unlike AI itself) - they require time and talent, and far smaller amounts of money than AI,"" he wrote.To explain his point, Sridhar Vembu highlighted the role of lesser-known Japanese companies in the global technology supply chain.""As an example, Japanese firms we don't hear about have critical technologies that AI data centers need. Japanese play in many such critical sectors,"" he wrote.'We must not lose sight of the pyramid'. While supporting continued AI development efforts, Vembu warned against focusing exclusively on AI models.""I would recommend a broad national effort at every layer of the tech pyramid. We must do AI R&D but we must not lose sight of the pyramid,"" he said.","Zoho founder Sridhar Vembu has called for India to build capabilities across the entire technology stack. He argued that India's challenge goes beyond building its own AI models and requires a broader focus on what he described as ""sovereign tech"" The move follows the Trump administration's decision to restrict access to Anthropic's Mythos 5 and Fable 5, for foreign users.","https://static.toiimg.com/thumb/msid-131737689,imgsize-25354,width-400,height-225,resizemode-4/sridhar-vembu.jpg"
+Meet Pranjali Awasthi: The teen who built a Rs 100 crore AI startup in 1 year,https://timesofindia.indiatimes.com/technology/tech-news/meet-pranjali-awasthi-the-teen-who-built-a-rs-100-crore-ai-startup-in-1-year/articleshow/131737559.cms,"Pranjali Awasthi’s early childhood coding to Florida International University as an intern
+
+
+
+Inside Delv.AI: Built for extracting meaning from scattered research data
+
+
+
+A small team and early investment attention
+
+
+
+Born in India and later moving to Florida, Pranjali Awasthi’s early life sits in that familiar migration pattern of families shifting for work and study, yet her path diverges quickly from anything ordinary. While most children are still moving between school routines and hobbies, she was already spending time around code, guided by a father with a background in engineering who treated computers less like gadgets and more like tools to be understood. There is a tendency in startup storytelling to smooth these beginnings into something neatly linear, but here the timeline feels more fragmented.Early curiosity, a few structured lessons, then a steady drift into increasingly technical spaces that most teenagers never encounter at all. By the time she was still in early adolescence, she was already being pulled into environments shaped by research and experimentation rather than classrooms alone.Coding entered her life at around 7 years old, not as a hobby picked up from peers, but as something introduced at home. The environment mattered as much as the instruction itself. Instead of treating programming as an abstract skill, it was framed as something workable, almost practical, in the same way one might learn to build or repair things.Her LinkedIn profile reveals that, at 13, she was already with Florida International University as a Research Intern, engaging with machine learning work that placed her alongside students and academics significantly older.The period spent in university research labs did not resemble a traditional internship narrative. It was less about defined responsibilities and more about exposure to the mechanics of machine learning work as it is actually carried out. Data sets, formatting issues, and time lost in cleaning information rather than analysing it.Delv.AI emerged in January 2022, built around a problem that sits quietly inside academic and research work: information is abundant, but rarely organised in a way that allows quick extraction. Researchers often spend more time navigating documents than engaging with their actual content.The platform she built focuses on reducing that friction. It allows users to query across multiple documents, connect to cloud storage, and export structured outputs in formats like CSV. At its core, the system is aimed at making large bodies of text less cumbersome to handle, particularly for those working with PDFs and written datasets.It is not positioned as a broad consumer tool. The emphasis remains on research workflows, where the issue is not access to data but the time lost moving through it. Even within that narrow focus, the work reflects a broader shift in how machine learning tools are being applied: less about novelty, more about removing repetitive labour from information-heavy tasks.As reported by Business Insider, the company operates with a relatively small team based in Miami. In its early stages, it attracted funding from investors amounting to roughly $450,000 (approx. 4.2 crore). For an early-stage AI-focused startup, this level of backing places it within a crowded but still attentive segment of the market.By late 2023, valuation estimates placed the company at around $12 million (approx 113 crore). The scale of the team, reportedly under ten people, also suggests a fairly tight operational structure. Work at that size usually involves overlapping responsibilities rather than clearly separated roles, especially in technical development environments.","Pranjali Awasthi is the founder and CEO of Delv.AI, an AI-focused search platform. The company was founded in 2022 and has raised $450,000 in funding. By late 2023, valuation estimates placed the company at around $12 million (approx 113 crore)","https://static.toiimg.com/thumb/msid-131737633,imgsize-27324,width-400,height-225,resizemode-4/meet-pranjali-awasthi-the-teen-who-built-a-rs-100-crore-ai-startup-in-1-year.jpg"
+"Wozoyo launches air purifiers, chargers and laptop accessories globally",https://timesofindia.indiatimes.com/technology/tech-news/wozoyo-launches-air-purifiers-chargers-and-laptop-accessories-globally/articleshow/131737027.cms,"
+
+
+
+Wozoyo, a new global consumer technology brand headquartered in Hong Kong has officially launched globally with a focus on simplifying everyday technology experiences. The company said its products are designed to work seamlessly in the background, helping users avoid the frustrations that often come with managing multiple devices. The launch marks the debut of the brand's ""Live The Wozoyo Life"" philosophy and comes as consumers increasingly look for technology that is easier to use and better integrated into daily life. Wozoyo is initially launching in India and the United States, with plans to expand into additional international markets.Mohit Anand, Co-Founder & CEO, Wozoyo, said, “Over the years, technology has become an integral part of everyday life, but it has also created a growing need for simpler, more intuitive experiences. We identified a clear gap in the market for offerings that combine strong design and performance with accessibility observing how technology was becoming more powerful, yet often more complicated. Today’s consumers are looking for products that are easy to use, thoughtfully designed, and seamlessly integrated into their everyday lives. Wozoyo has been created to bring simplicity back to tech products that feel intuitive, purposeful, and integrate into the consumers’ everyday life seamlessly.As we launch globally, our vision is to build a brand that redefines how consumers interact with tech products.”Wozoyo's initial portfolio spans three main categories. These include air purifiers under its ""Air of Ease"" range, laptop accessories under ""Power of Connection,"" and charging products under ""Power Without Chaos.""The company said its offerings include air purifiers, docking stations, USB hubs, HDMI cables, GaN wall chargers and car chargers.According to Wozoyo, the products are designed to work together as part of a connected ecosystem across homes, offices and travel environments.The company said launches in India and the United States represent the first phase of its international expansion strategy. Wozoyo plans to enter additional markets, including the United Kingdom, Europe, the Middle East and Southeast Asia in the coming months.The brand also hinted at new product categories that will be unveiled in the future as it expands its portfolio. Wozoyo products will be available through e-commerce platforms, quick-commerce channels and retail stores, though availability may vary by market.","Wozoyo, a new global consumer technology brand headquartered in Hong Kong has officially launched globally with a focus on simplifying everyday technology experiences. The company said its products are designed to work seamlessly in the background, helping users avoid the frustrations that often come with managing multiple devices. The launch marks the debut of the brand's ""Live The Wozoya Life"" philosophy.","https://static.toiimg.com/thumb/msid-131737044,imgsize-15320,width-400,height-225,resizemode-4/wozoyo.jpg"
+"After US senator says Tesla benefited from government support, Elon Musk replies ‘many of these incentives …’",https://timesofindia.indiatimes.com/technology/tech-news/after-us-senator-says-tesla-benefited-from-government-support-elon-musk-replies-many-of-these-incentives-/articleshow/131735708.cms,"Here’s what Elon Musk said
+
+""The article is totally false btw. You can add up every government incentive my companies have ever received and they amount to less than 2% of the value of SpaceX and Tesla!
+
+And many of these incentives actually helped our competitors disproportionately to Tesla or SpaceX.
+
+For example, when President Trump removed the $7500 tax credit for electric vehicles, Tesla sales actually INCREASED, because more buyers shifted from other EV makers to Tesla.""
+
+
+
+Debate started with exchange between US senators
+
+Mike Lee defends Elon Musk
+
+Tesla CEO Elon Musk has pushed back against claims that his companies owe much of their success to government support, saying a recent article suggesting otherwise is ""totally false."" The comments came during an exchange on X (formerly Twitter) involving US Senators Mike Lee and Ed Markey over whether Musk's we alth was built with taxpayer help. In the post, Elon Musk argued that government incentives received by Tesla and SpaceX account for less than 2% of their value. He also claimed that Tesla's sales rose after President Donald Trump removed the federal $7,500 electric vehicle tax credit, saying the change actually helped the company gain market share.The discussion began when Senator Mike Lee posted on X: ""It's Elon’s money. He can use it as he pleases. It's not yours."" Senator Ed Markey responded by disagreeing and shared a link to an article that argued much of Musk's fortune was tied to government assistance.""Hate to break it to you, Mike. But it is our money,"" Markey wrote.The article linked by Markey carried the headline: ""How much of Musk's money comes from government help? Virtually all of it.""Lee later responded to Markey's criticism, arguing that government subsidies do not mean Musk's wealth belongs to taxpayers.""The fact that Congress has subsidized a whole bunch of things—against my strong opposition—still doesn't make Elon’s money yours or the government’s,"" Lee wrote.The exchange quickly gained attention online and eventually drew a response from Musk himself.Critics argue that companies such as Tesla benefited from tax credits, grants and other incentives during their early growth years. Supporters, however, say those programs were available to many companies and do not diminish the businesses' achievements.","US Senators Mike Lee and Ed Markey argued over whether Musk's fortune was built with taxpayer help. Musk responded, saying government incentives account for less than 2% of their value. He also claimed that Tesla's sales rose after President Donald Trump removed the federal $7,500 electric vehicle tax credit.","https://static.toiimg.com/thumb/msid-131735704,imgsize-27156,width-400,height-225,resizemode-4/elon-musk.jpg"
+"‘We are helping US government to ...’, says Sam Altman's OpenAI as it bans hundreds of ChatGPT accounts",https://timesofindia.indiatimes.com/technology/tech-news/we-are-helping-us-government-to-says-ceo-sam-altman-as-openai-bans-hundreds-of-chatgpt-accounts/articleshow/131674830.cms,"‘We are helping US government to ...’, says Sam Altman's OpenAI as it bans hundreds of ChatGPT accounts","Summarize: ‘We are helping US government to...’, says Sam Altman's OpenAI as it bans hundreds of ChatGPT accounts. Summarize is a blog by OpenAI, which was co- founded by Altman.","https://static.toiimg.com/thumb/msid-131674822,imgsize-513993,width-400,height-225,resizemode-4/we-are-helping-us-government-to-says-ceo-sam-altman-as-openai-bans-hundreds-of-chatgpt-accounts.jpg"
+Hack of the day: How to check crisis alerts on Google Maps before taking a route,https://timesofindia.indiatimes.com/technology/hack-of-day/hack-of-the-day-how-to-check-crisis-alerts-on-google-maps-before-taking-a-route/articleshow/131675588.cms,"Importance of Google Maps crisis alerts
+
+
+
+What Google Maps crisis alerts can show
+
+Earthquakes Floods Hurricanes or typhoons Tropical storms Wildfires
+
+Tip: Wildfire boundaries may not appear at all zoom levels
+
+How to check crisis alerts on Google Maps before travelling
+
+How to check more updates about an event
+
+Go to “About”
+
+Find a summary of the event and other event details.
+
+To share the event, select Share .
+
+To share the event’s location, select Share location.
+
+Under “Help and information”, find a list of related external resources.
+
+Check updates about the event
+
+Learn more about affected region
+
+Access emergency contacts
+
+Find related news reports
+
+Report road closures to help other travellers
+
+
+
+
+
+Are you planning a trip recently? Whether you are driving to work, heading on a holiday, or visiting a new city, checking for crisis alerts before you travel can help you avoid dangerous situations. Among others one feature that Google Maps offers is crisis-related alerts that can show active emergencies such as floods, wildfires, earthquakes, hurricanes, and tropical storms. These alerts help users understand and decide if they should continue with their planned route. The feature is especially useful during extreme weather events and natural disasters, when roads may be closed or situations may change rapidly.Natural disasters can disrupt travel without warning. Flooded roads, wildfire zones, earthquake damage, and severe storms can make a route unsafe. Google Maps making it easier for users to spot potential risks before entering an affected area by highlighting crisis information directly on the map.The alerts include information from local, national, and international authorities. Users may also find emergency phone numbers, official websites, updates, and news related to the event.As stated on a official Google help page, crisis-related alerts show up on your map if:You search for an area including a wildfire and are at the correct zoom levelYou select a navigation route that enters an area impacted by a crisisAlerts make emergency information from local, national or international authorities easily accessible during a crisis. You can find that information highlighted on Google Maps. Examples of crisis information include emergency phone numbers, websites or map visualisations for a detailed view.Google Maps shows alerts for these natural disasters:The steps are simple and take less than a minute.Step 1: Open Google Maps before you travel. Do this before you step out, not after you are already on the road.Step 2: Search the area or destination you are heading to.Step 3: Look for a crisis alert on the map view. If an active crisis exists in that area, an alert card will appear. Note: wildfire boundaries may not show at all zoom levels. Zoom in if you do not see details.Step 4: Tap the alert to read more. Tapping the crisis icon or alert card opens a full crisis sheet which may include safety updates, news articles, emergency phone numbers, and official websites.Step 5: Reroute if your path enters an affected area.To learn and share more about event:The crisis information sheet often provides more than just a warning. Users may be able to:","Natural disasters can disrupt travel without warning. Flooded roads, wildfire zones, earthquake damage, and severe storms can make a route unsafe. Google Maps makes it easier for users to spot potential risks before entering an affected area. Alerts make emergency information from local, national or international authorities easily accessible during a crisis.","https://static.toiimg.com/thumb/msid-131675656,imgsize-26542,width-400,height-225,resizemode-4/google-maps.jpg"
+"Anime Paradox codes February 2026: Earn in-game gems, stat chips, and know how to redeem active codes",https://timesofindia.indiatimes.com/technology/gaming/anime-paradox-codes-february-2026-earn-in-game-gems-stat-chips-and-know-how-to-redeem-active-codes/articleshow/127834840.cms,"What is Roblox Anime Paradox and its active codes
+
+
+
+Active Anime Paradox codes February 2026
+
+
+
+15KLIKES! gives 5,000 Gems, 20 Stat Chips, and 10 Super Stat Chips.
+
+1MVISITS! offers 3,500 Gems and 20 Trait Rerolls.
+
+10KCCU rewards 500 Gems and 5 Trait Rerolls.
+
+5KLIKES gives 500 Gems.
+
+2.5KLIKES grants 250 Gems.
+
+1KLIKES! adds another 250 Gems.
+
+RELEASE! unlocks 500 Gems.
+
+SORRYCODE is a big one, reportedly giving 15,000 Gems and 35 Trait Rerolls.
+
+GEMSBUFFED! includes 5,000 Gems and 25 Trait Rerolls.
+
+GIVEGEMSPLEASE hands out 7,000 Gems.
+
+Anime Paradox expired codes
+
+
+
+How to redeem Anime Paradox codes
+
+
+
+Launch Anime Paradox on Roblox.
+
+Look to the right side of the screen.
+
+Click the blue Codes button.
+
+Type or paste a working code into the grey box.
+
+Hit the green Redeem button.
+
+Anime-themed games on Roblox are everywhere right now. Some fade fast. Others stick around because they keep players coming back. Anime Paradox seems to fall into the second category. At first glance, it looks like another tower defence title with familiar anime faces and flashy attacks. But spend a little time with it, and the grind becomes obvious. Progress slows quickly, upgrades demand patience, and free rewards feel essential rather than optional for anyone hoping to stay competitive. Anime Paradox February codes let you redeem gems, stat chips, trait rerolls, and more.For players trying to build a decent team without sinking hours into farming, they matter.Below is the list of all working Anime Paradox codes in February 2026.Anime Paradox is a Roblox tower defence game where players summon and command powerful anime-style units to fend off waves of enemies and bosses as they defend a base. It blends classic tower defence mechanics with strategic placement and AI-controlled unit combat, so battles play out automatically once your units are deployed.Anime Paradox is built around summoning and upgrading units.That’s the loop. And like most Roblox games built this way, Gems sit at the centre of everything. It sounds simple, but the cost adds up quickly. Progress slows if you rely only on gameplay rewards. They give players a chance to catch up, try new units, or recover from a bad roll.As of the latest update, several Anime Paradox codes are still active.As per the recent updates, there are no expired Anime Paradox codes; however, this can change at any time.Redeeming codes in Anime Paradox is refreshingly simple. No hidden menus. No complicated steps.","Anime Paradox is a Roblox tower defence game. Players summon and command powerful anime-style units to fend off waves of enemies and bosses as they defend a base. It blends classic tower defence mechanics with strategic placement and AI-controlled unit combat, so battles play out automatically once your units are deployed.","https://static.toiimg.com/thumb/msid-127834907,imgsize-35490,width-400,resizemode-4/anime-paradox-codes-february-2026-earn-in-game-gems-stat-chips-and-know-how-to-redeem-active-codes.jpg"
+"OpenAI CEO Sam Altman postpones South Korea visit, meetings with Samsung, Naver and Kakao affected",https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-postpones-south-korea-visit-meetings-with-samsung-naver-and-kakao-affected/articleshow/131734592.cms,Tired of too many ads?,summarize: Tired of too many ads? Try this quiz to see if you can guess which ads are the most annoying. Try to guess which of these ads is the most irritating to you. Then try to guess the one that's the least annoying to watch.,"https://static.toiimg.com/thumb/msid-131734585,imgsize-11808,width-400,height-225,resizemode-4/sam-altman.jpg"
+"Canadian PM Mark Carney on US ban on Anthropic's new AI models for all countries: We will have done something wrong if we just accept this, don’t take ...",https://timesofindia.indiatimes.com/technology/tech-news/canadian-pm-mark-carney-on-us-ban-on-anthropics-new-ai-models-for-all-countries-we-will-have-done-something-wrong-if-we-just-accept-this-dont-take-/articleshow/131734382.cms,"Canadian PM Mark Carney
+
+Mark Carney’s push for diversification
+
+Ban on Fable 5: Anthropic received a call from the government
+
+
+
+
+
+Canadian Prime Minister Mark Carney said that Washington’s decision to restrict Anthropic’s newest AI models highlights the risks of depending too heavily on a small number of American providers. “Nobody has done anything wrong in the situation. But we will have done something wrong if we just accept this, don’t take the lesson, don’t build out and diversify,” Carney told Fortune. On June 12, Anthropic confirmed that it had taken its Fable 5 and Mythos 5 AI models offline to comply with a directive from the Trump administration. The order prevents the foreign nationals from accessing the company’s most advanced AI systems, making the US government’s most significant step yet in restricting frontier AI exports. Anthropic release Fable 5 widely last week, whereas Mythos 5 remained tightly controlled due to cybersecurity concerns. The AI giant described Mythos as “strikingly capable,” warning it could surpass human experts in identifying and exploiting computer vulnerabilities.Carney made his remarks in Ireland ahead of the G7 summit in Evian-les-Bains, France, where AI is expected to be a major topic of discussion.He linked the U.S. restrictions to Canada’s broader push to diversify trade and technology, noting that more than 70% of Canada’s exports currently go to the U.S. His government has set a goal of doubling non-US exports over the next decade. “You’ll hear me say this over and over again. It is never a good idea to have one option,” Carney said, adding that the AI ban should serve as a wake-up call for governments and businesses to broaden their technology partnerships.Carney has no bilateral meeting scheduled with President Trump at the G7, despite the USMCA trade agreement being up for renewal. Instead, discussions will take place among Canada’s trade negotiators and US officials in Evian. Carney emphasized that while no “mission accomplished banner” will emerge from the summit, the talks are critical given the complexity of AI governance and trade relations.On Friday, June 12, AI giant Anthropic was instructed to roll back the release of its most advanced AI models including Fable 5 and Mythos by the Trump administration. According to a report by Axios, the Trump administration asked Anthropic for the roll back after the officials cited a ‘national security threat’. As per the Axios report, Anthropic received a call at 1 pm ET giving just 90 minutes to comply before the new licensing controls would be imposed. Anthropic had already worked with the government on pre-release testing of Fable and received explicit approval to deploy the model. However, the sudden reversal left the executives scrambling. “We immediately sought to understand the specific nature of the threat so we could remediate it,” an Anthropic source said, though officials held firm on the demand.By 5.30 pm ET, the Commerce Department issued a letter imposing restrictions on where the models could be used and by whom.This move of the Trump administration underscores the government’s rapid response to warnings from Amazon and other companies about the capabilities of frontier AI systems.","Canadian PM Mark Carney said the U.S. decision to restrict Anthropic’s newest AI models highlights the risks of depending too heavily on a small number of American providers. Anthropic released Fable 5 widely last week, whereas Mythos 5 remained tightly controlled due to cybersecurity concerns.","https://static.toiimg.com/thumb/msid-131734347,imgsize-112676,width-400,height-225,resizemode-4/canadian-pm-mark-carney.jpg"
+Anthropic sends senior staff to Washington as Mythos 5 and Fable 5 ban dispute with Trump administration continues,https://timesofindia.indiatimes.com/technology/tech-news/anthropic-sends-senior-staff-to-washington-as-mythos-5-and-fable-5-ban-dispute-with-trump-administration-continues/articleshow/131734021.cms,"Anthropic seeks to resolve White House concerns
+
+
+
+Mythos 5 and Fable 5 remain at center of dispute
+
+
+
+
+
+Anthropic has sent senior technical staff to Washington to meet White House officials as the Claude-maker works to resolve a dispute that led to restrictions on its most advanced models, according to a report by Axios. The move comes days after the Trump administration restricted access of Anthropic's top AI models, Mythos 5 and Fable 5, citing national security concerns. The restrictions effectively forced the company to take the models offline for a broad range of users, including foreign customers and foreign nationals.According to Axios, senior members of Anthropic's technical team are now engaging directly with administration officials in an effort to address concerns and restore access to the models.The report said Anthropic has been holding discussions with White House officials since the administration first reached out to the company on Friday, June 12. While some administration officials have argued that Anthropic did not initially engage seriously with the government's concerns, sources familiar with the matter told Axios that the company has since held multiple virtual meetings with officials.The talks are focused on finding a solution that would satisfy national security concerns while allowing the company to continue offering its most powerful AI systems.The disagreement centers on Anthropic's Mythos and Fable models, which are among the company's most capable AI systems. The Trump administration recently placed the models under export restrictions, citing concerns about their advanced capabilities and potential national security risks.The action forced Anthropic to limit access to the models, affecting users both outside the United States and some foreign nationals within the country.Despite the tensions, Axios reported that sources on both sides of the dispute are eager to reach an agreement. Anthropic is said to be moving quickly to repair its relationship with the administration and address the concerns that triggered the restrictions.The White House, meanwhile, is continuing discussions with the company as officials evaluate the future of the models. For now, access to Mythos and Fable remains limited.","Anthropic has sent senior technical staff to Washington to meet White House officials. The move comes days after the Trump administration restricted access of Anthropic's top AI models, Mythos 5 and Fable 5, citing national security concerns. The restrictions effectively forced the company to take the models offline for a broad range of users.","https://static.toiimg.com/thumb/msid-131734017,imgsize-39064,width-400,height-225,resizemode-4/anthropic.jpg"
+American billionaire Mark Cuban warned: 'Elons of the world' may see their wealth wiped out if ...,https://timesofindia.indiatimes.com/technology/tech-news/american-billionaire-mark-cuban-warned-elons-of-the-world-may-see-their-wealth-wiped-out-if-/articleshow/131731279.cms,"Warning against wealth concentration
+
+
+
+Mark Cuban believes in financial discipline
+
+
+
+
+
+
+
+American billionaire and entrepreneur Mark Cuban has now cautioned that even the richest entrepreneurs could witness their fortunes vanish if the stock market crashes again. According to a report by Benzinga, speaking on the House of Haymakers podcast, the former Shark Tank judge said, “There’s still every good chance that all these, you know, the Elons of the world, etc. , the stock market could crater again.” Cuban revealed that there was a time when his net worth exceeded that of Elon Musk and Jeff Bezos combined. But he insisted he “didn’t care,” explaining that his focus was on winning with the Dallas Mavericks rather than maximising wealth. His comments underscore his long-standing philosophy of prioritising passion projects over financial rankings.Along with this, Cuban also raised concerns about the growing concentration of wealth, noting that while 10 to 15 companies have reached trillion-dollar valuations, thousands of others remain behind. “Over-concentration of wealth is a problem. Now, the question is, how do you respond to it?” he said.The American billionaire also recounted how he safeguarded his wealth after selling Broadcast.com to Yahoo in 1999 for $5.7 billion. Cuban revealed that he used the collar strategy which includes selling calls and buying puts. He noted that he protected his $1.4 billion stake from market downturns. The move is widely regarded as one of Wall Street’s most innovative trades.“It wasn’t just protecting it, I made more money, and that was the lucky part,” he said.Apart from investing, Cuban also often spoke about financial responsibility and he admitted the regret over not paying off his credit cards every 30 days earlier in life. He has also expressed concern about raising his children without entitlement despite his wealth. Today, Cuban remains active through Cost Plus Drugs, a healthcare company focused on lowering prescription drug prices, and continues investing in startups after leaving Shark Tank.According to Forbes, Cuban’s net worth stands at $6 billion, compared with Musk’s $982.6 billion and Bezos’s $251.5 billion.",Mark Cuban warns that even the richest entrepreneurs could witness their fortunes vanish if the stock market crashes again. He also raised concerns about the growing concentration of wealth. Cuban revealed that there was a time when his net worth exceeded that of Elon Musk and Jeff Bezos combined. His comments underscore his long-standing philosophy of prioritising passion projects over financial rankings.,"https://static.toiimg.com/thumb/msid-131731266,imgsize-200000,width-400,height-225,resizemode-4/mark-cuban.jpg"
+"Almost a year after giving engineers access to Claude and Cursor, Disney tells engineers: Minimise AI-coded products that ...",https://timesofindia.indiatimes.com/technology/tech-news/almost-a-year-after-giving-engineers-access-to-claude-and-cursor-disney-tells-engineers-minimise-ai-coded-products-that-/articleshow/131728705.cms,"Almost a year after giving engineers access to Claude and Cursor, Disney tells engineers: Minimise AI-coded products that ...","Disney tells engineers: Minimise AI-coded products that use artificial intelligence. Almost a year after giving engineers access to Claude and Cursor, Disney tells engineers to cut costs. Disney says it will cut costs by $1 billion over the next three years.","https://static.toiimg.com/thumb/msid-131728698,imgsize-43600,width-400,height-225,resizemode-4/almost-a-year-after-giving-engineers-access-to-claude-and-cursor-disney-tells-engineers-minimise-ai-coded-products-that-.jpg"
+"LTM launches AI 1000 to train 1,000-plus AI engineers",https://timesofindia.indiatimes.com/technology/tech-news/ltm-launches-ai-1000-to-train-1000-plus-ai-engineers/articleshow/131723362.cms,"Representative Image
+
+Four-stage talent model
+
+
+
+
+
+
+
+LTM Launches AI 1000 to Build Next Generation of Forward Deployed Engineers LTM has announced the launch of AI 1000, a major workforce transformation initiative anchored by a new Center of Excellence (CoE) in Bengaluru. The program aims to develop a pool of more than 1,000 AI-certified engineers, including Forward Deployed Engineers (FDEs), to help enterprises adopt, deploy, and scale AI solutions.The FDE role is among the fastest-growing in the AI ecosystem, combining technical expertise in large language models (LLMs) and domain-specific models (SLMs) with business acumen to deliver measurable ROI. LTM’s AI 1000 program is designed to build this talent at scale, providing structured training, platforms, and career frameworks to accelerate enterprise AI adoption.AI 1000 follows a four-stage model: Identify, Enable, Deploy, and Govern.* Identification begins with a proprietary AI Readiness Index to spot high-potential engineers.* Curated learning journeys focus on AI-native skills, validated through hackathons and real-world use cases.* Qualified engineers are deployed into AI programs.* A governance framework tracks performance, captures insights, and feeds learnings back into the system, creating a continuous cycle of capability building.Venu Lambu, CEO and Managing Director of LTM, said: “The role of the technology engineer is evolving rapidly. AI 1000 is built with the purpose of enhancing workforce productivity in creating tangible business outcomes. Through the AI 1000 CoE, we are building structured pathways to develop the combination of technical excellence and domain expertise to enable this purpose — and prepare our talent for the future. ”LTM has already logged 6.5 million learning hours, achieved 84% learning penetration, and secured 15,000+ external AI certifications alongside 24,000 AI-trained associates. AI 1000 formalizes these efforts into a structured, evidence-based program with defined role pathways, measurable milestones, and governed deployment frameworks. Success will be measured not by the number of employees trained, but by the business outcomes those engineers deliver.","LTM Launches AI 1000 to Build Next Generation of Forward Deployed Engineers. The program aims to develop a pool of more than 1,000 AI-certified engineers. LTM has already logged 6.5 million learning hours, achieved 84% learning penetration.","https://static.toiimg.com/thumb/msid-131723357,imgsize-45650,width-400,height-225,resizemode-4/ai.jpg"
+"Quote of the day by Jamie Dimon: You can compromise without violating your principles, but it is nearly impossible to compromise when...",https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-jamie-dimon-you-can-compromise-without-violating-your-principles-but-it-is-nearly-impossible-to-compromise-when-/articleshow/131721828.cms,"AI generated image for representation
+
+""You can compromise without violating your principles, but it is nearly impossible to compromise when you turn principles into ideology.""
+
+What Jamie Dimon's quote means
+
+
+
+A lesson in leadership and collaboration
+
+
+
+Why the quote matters still today
+
+
+
+
+
+
+
+JPMorgan Chase chairman and CEO Jamie Dimon believes that effective decision-making requires both strong principles and a willingness to consider different perspectives. In one of his notable quotes, the veteran banker explained why compromise becomes difficult when people allow their beliefs to harden into ideology.The full quote reads:At its core, the quote highlights the difference between principles and ideology. Principles are the values that guide a person's actions and decisions. They provide a foundation for judgment and help people stay consistent in what they believe is right.Dimon argues that it is possible to compromise without abandoning those values. People can work together, negotiate, and find common ground while remaining true to their core beliefs.The challenge arises when principles become ideology. In that situation, beliefs can become rigid and non-negotiable, leaving little room for discussion or alternative viewpoints. As a result, compromise becomes much more difficult because any concession may be viewed as a betrayal of those beliefs.The quote reflects Dimon's broader approach to leadership and problem-solving. Throughout his career, he has emphasised the importance of analysis, debate, and bringing the right people into the decision-making process.In another piece of advice, Dimon said: ""Most decisions are not binary, and there are usually better answers waiting to be found if you do the analysis and involve the right people.""The ideas suggest that successful leaders should not see issues in absolute terms. Rather, they must be open to new information and different points of view while staying grounded in their core principles.Dimon’s message is not just for business. In workplace disputes, political disputes, or personal relationships, discussion and compromise are often the way to resolve differences.This quote is a reminder that strong values don’t mean you can’t cooperate . By separating principles from ideology, people can more readily find practical solutions, build consensus and make progress even when opinions differ.","JPMorgan Chase chairman and CEO Jamie Dimon believes that effective decision- making requires both strong principles and a willingness to consider different perspectives. In one of his notable quotes, the veteran banker explained why compromise becomes difficult when people allow their beliefs to harden into ideology.","https://static.toiimg.com/thumb/msid-131721892,imgsize-1624187,width-400,height-225,resizemode-4/quote-of-the-day-by-jamie-dimon-you-can-compromise-without-violating-your-principles-but-it-is-nearly-impossible-to-compromise-when.jpg"
+FIFA World Cup 2026: How tech inside official match ball Trionda makes it ‘special’,https://timesofindia.indiatimes.com/technology/tech-news/fifa-world-cup-2026-how-tech-inside-official-match-ball-trionda-makes-it-special/articleshow/131720260.cms,"What is Trionda
+
+
+
+Chip system in Trionda and charging
+
+
+
+How this AI chip system helps the game
+
+
+
+Faster offside call:
+
+Touch recognition:
+
+Aerodynamics and exterior design
+
+
+
+
+
+
+
+The FIFA World Cup 2026 is underway across North America and the focus is not just on the players, but also on the equipment they are using, especially the official match ball. The tournament marked the debut of “Trionda” created by Adidas – the ball that represents a major shift in sports engineering, combining a symbolic design that honours the three host nations with a re-engineered internal tech system that directly assists referees.The name Trionda translates from Spanish as “three waves” – a reference to the joint hosting duties of Canada, Mexico and the US. Its appearance and physical structure are designed around this theme, but the defining feature of the ball is what sits underneath its outer layer. In previous tournament balls that featured tracking technology, the electronic sensor was suspended directly in the center of the ball using a system of tension chords.The Trionda changes this setup entirely as Adidas has introduced a side-mounted chip system. The tracking sensor now sits inside a specially manufactured layer within one of the ball's four main panels. Now those with football knowledge understand that this placement may make ball behave in an unusual pattern, but to ensure this off-center placement does not disrupt how the ball moves, counter-balances have been built into the other three panels.This design maintains the balance and flight stability of the ball when it is kicked, passed or crossed. Moreover, one of the most unusual things about Trionda is that since it has electronics inside, every Trionda ball must be charged before it is used in a match.The core of the ball’s technology is a 500Hz inertial measurement unit (IMU) motion sensor chip, developed in collaboration with tech firm Kinexon. The sensor measures the movement of the ball 500 times per second, capturing data on its speed, spin and direction.This data is transmitted in real time to the Video Assistant Referee (VAR) system. The technology helps match officials in two main ways:The ball data, combined with player-tracking cameras and processed by artificial intelligence (AI), identifies the exact millisecond the ball was kicked. This allows the VAR system to identify offside positions much more quickly than manual video reviews.”The sensor detects the exact moment the ball is touched. This makes it easier for referees to see who touched the ball individually, reducing time spent looking over contentious areas such as possible handballs or who last touched the ball before it left the line.The technology in the Trionda ball does not end with its internal chip system. The exterior of the ball consists of a new four-panel construction featuring fluid geometry. The panels connect to form a triangle at the center of the ball, symbolizing the union of the three host countries.The panels are thermally bonded, which reduces water absorption in wet weather, and improves aerodynamic flow. The four-panel layout has intentionally deep seams. These seams cause a certain amount of evenly distributed drag when the ball is flying through the air, which stabilizes the flight path and prevents unpredictable movement.The ball is covered with a polyurethane skin with a butyl bladder. It helps the ball retain air pressure and keep its shape over 90 minutes of play. The surface also has embossed icons. You can only see these icons when you look closely , but they give players additional grip when dribbling or kicking the ball in high humidity or rainy conditions .",FIFA World Cup 2026 is underway across North America. The tournament marked the debut of ‘Trionda’ created by Adidas. The ball combines a symbolic design that honours the three host nations with a re-engineered internal tech system that directly assists referees.,"https://static.toiimg.com/thumb/msid-131720314,imgsize-110122,width-400,height-225,resizemode-4/trionda-fifa-world-cup-2026-ball.jpg"
+MrBeast becomes first creator in YouTube history to hit 500 million subscribers: Inside his record-breaking rise to global fame,https://timesofindia.indiatimes.com/technology/tech-news/mrbeast-becomes-first-creator-in-youtube-history-to-hit-500-million-subscribers-inside-his-record-breaking-rise-to-global-fame/articleshow/131719548.cms,"PC: YouTube
+
+MrBeast became YouTube's first creator with 500 million subscribers
+
+
+
+How MrBeast built a YouTube empire through spectacle and scale
+
+
+
+MrBeast’s international reach behind 500 million YouTube subscribers
+
+
+
+Philanthropy as part of the channel's identity
+
+
+
+
+
+
+
+For years, YouTube's subscriber counts have served as a rough measure of influence, though the numbers themselves often tell only part of the story. Channels rise and fall, trends move quickly, and audiences rarely stay fixed for long. Yet every so often, a milestone appears that stands apart from the platform's usual cycle of records and rankings.As reported by the official YouTube blog, this week, Jimmy Donaldson, better known online as MrBeast, crossed the 500 million subscriber mark on YouTube. The figure places him in territory no individual creator has reached before. It is the latest chapter in a career that has transformed from a teenager experimenting with videos into one of the most recognisable names on the internet. The scale of the audience is difficult to picture. Half a billion subscribers represents a following larger than the populations of most countries, gathered around a channel that began with simple uploads and gradually evolved into some of the platform's most ambitious productions.The journey to this point was not marked by a single breakthrough moment. Instead, it unfolded over several years as MrBeast steadily expanded the scale of his content and the size of his audience.His channel gained momentum through increasingly elaborate challenge videos, large cash giveaways and projects that often resembled television productions in both scope and budget. As viewership grew, subscriber milestones arrived at an unusually rapid pace. By late 2022, he had become YouTube's most-subscribed individual creator. Less than two years later, he overtook every other channel on the platform. The latest figure pushes that lead even further and places him in a category of his own.Part of MrBeast's appeal has been his ability to make online videos feel like major events. Many creators build audiences around personalities or niche interests. His approach has often centred on spectacle.Over time, videos became larger, more expensive and more complicated to produce. Contest-based formats proved particularly successful, with participants competing for substantial prizes in carefully designed challenges. Some productions involved custom-built sets, large casts and months of planning before filming even began.Several projects blurred the line between traditional entertainment and digital content. Massive creator competitions featuring dozens of online personalities drew audiences from across different corners of YouTube, creating the sort of crossover appeal more commonly associated with mainstream broadcast events.Growth in subscribers on YouTube has taken an international route in recent years, and MrBeast’s development has taken into account the change. While the success was achieved using videos targeted at English-speaking audiences earlier on, there have been developments which ensure that the videos have gone to other regions of the world using translated versions of the content. Content that can be understood without necessarily knowing the language will reach more people. As such, the achievement does not just symbolize success in one particular market. It is success in multiple markets, and in several different languages too.While entertainment remains at the centre of the brand, charitable campaigns have become a recurring feature of MrBeast's public profile.One of the earliest large-scale efforts focused on tree planting. The initiative brought together creators, viewers and organisations around a fundraising target that eventually supported the planting of millions of trees. That project was followed by another environmental campaign aimed at removing waste from waterways and coastal areas. Both efforts attracted participation from communities well beyond MrBeast's own audience and demonstrated how creator-led campaigns could mobilise support on a global scale.Five hundred million subscribers is a number too large to feel real, which may be exactly why it matters less than what produced it. MrBeast did not build an audience by being famous. He built fame by making things people wanted to watch and then kept making them bigger until the audience ran out of reasons to leave.","Jimmy Donaldson, better known online as MrBeast, crossed the 500 million subscriber mark on YouTube. The figure places him in territory no individual creator has reached before. It is the latest chapter in a career that has transformed from a teenager experimenting with videos into one of the most recognisable names on the internet.","https://static.toiimg.com/thumb/msid-131719558,imgsize-15606,width-400,height-225,resizemode-4/mrbeast-becomes-first-creator-in-youtube-history-to-hit-500-million-subscribers-inside-his-record-breaking-rise-to-global-fame.jpg"
+"Iran says 4 banks hit by hacking, services disrupted: Report",https://timesofindia.indiatimes.com/technology/tech-news/iran-says-4-banks-hit-by-hacking-service-disrupted-report/articleshow/131719152.cms,"Representative Image
+
+US-Iran ‘digital war’
+
+
+
+
+
+
+
+A cyberattack has disrupted operations at four major Iranian banks, local media reported , adding that sensitive customer data remains safe. Citing state media reports, news agency Reuters said that Iran’s banking coordination council announced on Sunday (June 14) that a hacking incident successfully targeted a shared communications system used by the financial institutions.The disruption temporarily knocked out several banking services for customers across the country. The hit list included some of Iran's most prominent financial institutions, including Bank Melli, Bank Tejarat, Bank Saderat and The Export Development Bank of Iran.According to a post by London-based publication Iran International English, the technical team detected unusual signs and took necessary measures to isolate the attack.A limited cyberattack on shared communications infrastructure caused disruptions at four Iranian banks, the coordination council of banks said on Sunday.The council said the disruption affected Bank Melli Iran, Bank Tejarat, Bank Saderat Iran and the Export Development Bank of Iran.It said technical teams took protective measures after detecting unusual signs, adding that there had been no unauthorized access to customer data and no deletion of information.Earlier this year, the Trump administration issued a warning, saying that hackers backed by Iran’s Islamic Revolutionary Guards Corps had begun a series of cyberattacks on water and energy systems across the US. It was issued by the Cybersecurity and Infrastructure Security Agency (CISA), which did not name specific American facilities that had been struck or say whether any damage had been done.According to a report by The New York Times, CISA said that the attacks were focusing on equipment made by a major American producer of computer controllers, in an effort to make government agencies and utilities lock down their systems before the Iranian hackers can disrupt more systems.","The disruption temporarily knocked out several banking services for customers across the country. The hit list included some of Iran's most prominent financial institutions, including Bank Melli, Bank Tejarat, Bank Saderat and The Export Development Bank of Iran. The technical team detected unusual signs and took necessary measures to isolate the attack.","https://static.toiimg.com/thumb/msid-131719145,imgsize-61216,width-400,height-225,resizemode-4/cybersecurity.jpg"
+"Microsoft president Brad Smith has a message for students booing tech CEOs: I agree with you, but…",https://timesofindia.indiatimes.com/technology/tech-news/microsoft-president-brad-smith-has-a-message-for-students-booing-tech-ceos-i-agree-with-you-but/articleshow/131719017.cms,"""The reactions of this year's graduates are a powerful wake-up call for the tech sector,""
+
+""AI, jobs, and the next generation,""
+
+""Hopefully, leaders across our industry will listen and seek to learn from this reaction.""
+
+""100 percent cotton""
+
+""100 percent human.""
+
+Why a Microsoft executive is suddenly listening to college students
+
+
+
+""From today, painting is dead!""
+
+""When technology increases supply, human ambition often generates more demand,""
+
+""As humans, we don't plateau. We expand.""
+
+""Workers have been Microsoft's lifeblood from the start,""
+
+""If the world's people don't have jobs, then neither do we.""
+
+The part where the essay gets uncomfortable
+
+
+
+""perfect storm,
+
+""AI automation of tasks in current entry-level positions,""
+
+""corporate pressure to reduce headcount to help pay for AI's enormous capital expenditures.""
+
+What Smith tells graduates to actually do
+
+
+
+""Open to Work.""
+
+""jobs apocalypse,""
+
+""dehumanizing""
+
+""fully automated by an AI within the next 12 to 18 months,""
+
+""That does not necessarily mean that the role goes away at all,""
+
+""Decoder""
+
+""I have warned about job displacement in interviews and essays because I want both policymakers and the private sector to have the best chance to adapt and respond, not because I am trying to be a 'prophet of doom,'""
+
+""While it may feel unfair that the job market is so uncertain, you were made for this moment,""
+
+
+
+
+
+Microsoft president Brad Smith has spent four decades around computer scientists, and he says they keep making the same two mistakes. They overestimate how fast a new technology will spread, and they underestimate what people are capable of. The Microsoft president put both ideas at the center of a 3,000-word essay this week, written in response to a wave of graduating students who booed every mention of AI during their commencement speeches this spring. His read on those boos isn't that the kids got it wrong. It's that the tech sector did.Smith wrote in the post, titledpublished on Microsoft's blog on June 10.He started drafting it during a return visit to Princeton, his alma mater, over Memorial Day weekend, where graduating seniors had swapped out a beer jacket design after discovering it was made with AI. The replacement jackets readandThat detail tells you what Smith is responding to. Across US campuses this season, students didn't just sit quietly through AI cheerleading.Former Google CEO Eric Schmidt got booed at the University of Arizona. A real estate executive got the same treatment at the University of Central Florida. The pattern held often enough that Smith decided it was worth a long, careful answer rather than a one-line dismissal.Smith's argument leans on a piece of history. In 1838, the camera arrived, and the French painter Paul Delaroche reportedly took one look at an early photograph and declared,Painting, of course, did not die. It bent toward Impressionism, then Cubism, then Surrealism, as artists chased what a camera lens couldn't capture. Smith uses that arc to make his case: technology disrupts a field, people adapt, and new kinds of work appear that nobody saw coming.He stretches the same logic across his own industry's past. When word processors arrived, typists worried their work would vanish, and instead an entire knowledge economy grew up around the computer. When spreadsheets automated arithmetic, accountants didn't do less math; they built more elaborate financial models.Smith wrote.There's a business reason he wants you to believe that, and he says so plainly.he wrote.It's an unusually direct admission that Microsoft's fortunes depend on people staying employed and able to buy software. Machines, as Smith puts it, don't buy products. People do.What makes the post land harder than the usual executive optimism is that Smith doesn't pretend the job market is healthy. He calls the situation facing the class of 2026 a"" with the wind blowing from several directions at once. Graduates facehe wrote, plusLayer on geopolitical uncertainty, trade tensions, and a hangover from pandemic-era over-hiring, and you get the storm.Those aren't abstract worries. The tech industry shed more than 38,000 jobs in May alone, the worst month since 2024. The last six months brought heavy cuts at Oracle, Meta, and AWS. Meta laid off 8,000 people the same month Smith's essay went up, part of an AI restructuring. Standard Chartered said it would cut 7,800 back-office roles by 2030, the kind of entry-level banking jobs graduates have long used as a first rung. Goldman Sachs estimated in April that roughly 16,000 US jobs are vanishing to AI every month.And the timing of Smith's own company complicates the message. The same week the essay published, Microsoft CFO Amy Hood told investors that headcount had fallen year-over-year in the fiscal third quarter, and that she expects the trend to continue. Microsoft plans to spend around $80 billion on AI infrastructure in 2026. Critics have noticed the shape of that math: payroll shrinking while capital spending balloons, with the savings from one helping fund the other. Smith's essay, for all its length, came with no commitment to slow deployment, protect entry-level roles, or fund retraining at scale. That gap is exactly what some readers have seized on.Smith's prescription is built around a simple reframe borrowed from a new book by LinkedIn's Ryan Roslansky and Aneesh Raman,Stop thinking of your job as a title, he argues, and start thinking of it as a bundle of tasks. Sort those tasks into three buckets: what AI can do, what you can do with AI, and what only a human can do. If nearly everything falls into the first bucket, find a different line of work. For most people, he says, the bulk sits in the second, which is where AI becomes a tool rather than a threat.The skills he says will hold their value are the human ones, which he lists as five C's: curiosity, creativity, compassion, communications, and courage. Even when AI handles a stack of tasks, someone has to watch over its output, he argues, and that keeps human judgment in demand. His advice to students fretting over what to study is almost old-fashioned: pursue a field you're passionate about, master it, then add AI fluency on top so you can apply that expertise better than anyone could before.Smith isn't the only one softening the pitch. Across the industry, leaders who once warned of a white-collar wipeout are reaching for gentler language. OpenAI's Sam Altman recently said he no longer expects aand admitted his thinking shifted after he let AI draft his own emails and Slack messages, an experience he calledto watch. Microsoft AI chief Mustafa Suleyman, who in February told the Financial Times that most white-collar tasks would benow says he was misunderstood. He claims he meant tasks, like writing an email or building a slide deck, not whole jobs.Suleyman said on thepodcast.The shift in tone is hard to separate from the moment. OpenAI and Anthropic have both confirmed they're moving toward IPOs, and SpaceX made its Nasdaq debut last week. Public opinion has curdled, too: a May Economist-YouGov poll found 71% of Americans think AI is moving too fast, and cities like Seattle have started slapping moratoriums on new data centers. Suddenly the sunny framing has commercial value.The loudest voice on the other side remains Anthropic CEO Dario Amodei, who warned last year that AI could erase up to half of all entry-level white-collar jobs within one to five years. He hasn't backed off.Amodei wrote this month, while also predicting AI will let individuals build billion-dollar companies.Smith lands somewhere between the alarm and the cheerleading, and he closes by handing the moment back to the graduates.he wrote. Technology, he says, is second nature to their generation, and they don't have decades of habits to unlearn the way older workers do. He urges them to stand firmly for values he calls timeless: agency, ambition, dignity. Whether a generation that already did the math finds that convincing is another question.","Microsoft president Brad Smith wrote a 3,000-word essay in response to graduation boos. The tech industry has shed more than 38,000 jobs in May alone, the worst month since 2024. Smith: ""If the world's people don't have jobs, then neither do we""","https://static.toiimg.com/thumb/msid-131719067,imgsize-15352,width-400,height-225,resizemode-4/microsoft-president-brad-smith-has-a-message-for-students-booing-tech-ceos-i-agree-with-you-but.jpg"
+"Quote of the day by Google co-founder Larry Page: ""If we were motivated by money, we would have sold the company a long time ago and…”",https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-google-co-founder-larry-page-if-we-were-motivated-by-money-we-would-have-sold-the-company-a-long-time-ago-and/articleshow/131718367.cms,"Larry Page
+
+Quote of the day by Larry Page
+
+
+
+""If we were motivated by money, we would have sold the company a long time ago and ended up on a beach.""
+
+
+
+What is the meaning of ""If we were motivated by money""?
+
+
+
+Why this quote still matters today
+
+
+
+Lessons we can learn from this quote by Larry Page
+
+
+
+Lesson 1: money solves stability, not motivation
+
+Lesson 2: curiosity can outlast comfort
+
+Lesson 3: stopping is not always the natural endpoint
+
+
+
+Lesson 4: purpose often reshapes ambition
+
+About Larry Page
+
+
+
+Other famous quotes by Larry Page
+
+""Always deliver more than expected.""
+
+""If you're changing the world, you're working on important things. You're excited to get up in the morning.""
+
+""Lots of companies don't succeed over time. They miss the future.""
+
+""You never lose a dream. It just incubates as a hobby.""
+
+""Many companies don't succeed because they don't commit to innovation.""
+
+How to apply this quote in daily life
+
+
+
+Final thoughts on this quote
+
+
+
+
+
+
+
+There is a moment in many careers when the original goal quietly disappears.A salary target is reached. A promotion arrives earlier than expected. A business becomes stable enough to run without constant anxiety. From the outside, it looks like the finish line.Yet for some people, that is not how it feels at all. The work does not slow down. If anything, it becomes more intense. New ideas take shape, new problems appear worth solving, and old goals start to feel strangely small in comparison.This is a pattern often noticed in the world of technology, especially among the people who built the early internet companies. It is also where one of Larry Page ’s most quoted remarks finds its relevance. The Google co-founder once made a comment that cuts through the usual assumptions about ambition and wealth, and it still echoes in conversations about success, motivation, and work today.The sentence sounds simple, almost casual, but it carries a quiet challenge to the way success is usually measured.Most people assume that financial success naturally leads to exit. Build something valuable, sell it, step away, and enjoy the results. The image is familiar: a comfortable life, distance from pressure, and time finally freed from responsibility.Larry Page’s remark sits in contrast to that idea. It suggests that for some founders, money is not the endpoint.It is not even the main reason the work continues.By the time Google had already become a global force, its founders could have stepped back. They had the resources, the recognition, and the opportunity to walk away into exactly the kind of life the quote describes.They did not.The work continued because the problem was still interesting, and because stopping would have meant leaving unfinished questions behind.A retired investment banker once described the strange silence that followed the day he left his job.For years, every decision had been structured around numbers. Targets, bonuses, returns, and comparisons defined the rhythm of his work. The goal was always clear, even if the pressure was constant. When it ended, something unexpected happened. The absence of targets did not feel like freedom at first. It felt like emptiness.He eventually took up advisory work, not because he needed money, but because he wanted something to engage with again.That reaction is not unusual.Money is often a powerful motivator up to a point. It solves problems, removes stress, and creates stability. But beyond a certain level, it stops answering a different kind of question: why continue at all?Larry Page’s quote sits inside that gap.It reflects a situation where financial motivation is no longer the primary driver. What remains is interest in the work itself, the challenge it presents, and the possibility that something still better can be built.In Google’s early years, search engines were still imperfect tools. The internet was growing faster than most systems could organise it. The company’s founders were working on problems that did not have clear solutions yet.In that kind of environment, walking away early can feel less like completion and more like interruption.Work culture today is often shaped by visible outcomes. Salaries, funding rounds, valuations, and job titles dominate conversations. Social media reinforces this by turning career milestones into public signals.It creates a quiet assumption that success has a single direction: upward and outward, until financial independence allows everything to stop.Yet that is not how many careers actually unfold.A teacher who could retire continues teaching because the classroom still feels meaningful. A doctor who has already earned professional recognition keeps working through long shifts because the work remains important. A founder who no longer needs to worry about money still shows up to refine products, fix problems, or explore new ideas.The pattern repeats across very different fields.Larry Page’s remark matters because it challenges the idea that financial achievement automatically leads to disengagement. In many cases, it does not.Instead, work becomes tied to identity, curiosity, and long-term thinking. The question shifts from “How much is enough?” to “What else can be improved?”Financial security removes pressure, but it does not always create direction. Many people discover that once financial stress is gone, they need something else to focus on. Work that feels meaningful often fills that space.People do not always stop when life becomes comfortable. In some cases, comfort creates space for deeper thinking. That is often where curiosity becomes the main driver instead of money.In traditional thinking, success leads to exit. In practice, many people continue working because the process itself feels unfinished. The work becomes a continuation of interest rather than a path toward retirement.What begins as a financial goal can slowly turn into something else. Building, improving, and solving problems can become the real reward. Money remains important, but not always central.Larry Page is an American computer scientist and entrepreneur, best known as the co-founder of Google alongside Sergey Brin.He studied at Stanford University, where early research into search algorithms led to the development of a system that would later become the foundation of Google. What started as an academic project gradually evolved into one of the most influential companies in the modern digital world.Under his leadership, Google expanded beyond search into products and platforms that changed how people communicate, navigate, consume information, and interact with technology on a daily basis.Page later played a key role in the creation of Alphabet, a parent company designed to manage Google’s expanding range of ventures and long-term projects.His career is often associated with long-term thinking, experimentation, and a focus on building systems rather than short-term outcomes.Most people will not build global technology companies, but the underlying idea still applies at smaller scales.A person choosing a career path may benefit from looking beyond salary alone and considering whether the work itself feels engaging over time. Someone already employed may notice that the most satisfying tasks are often those that involve problem-solving rather than routine completion.Even outside work, the pattern appears in everyday life. People continue hobbies not because they are profitable, but because they are interesting. They volunteer, mentor, write, build, and learn for reasons that go beyond financial reward.Larry Page’s observation invites a simple reflection. If money were removed from the equation, what would still feel worth doing?The answer to that question often reveals more about motivation than any career plan.The image of “ending up on a beach” is easy to understand. It represents comfort, distance from pressure, and the idea of finally stepping away from work.Larry Page used that image to highlight a different reality. For some people, success does not automatically lead to exit. It leads to continuation.The work does not stop because the problem is still interesting, still unfinished, or still worth improving.That is what gives the quote its staying power.It quietly shifts the definition of success away from what is earned and toward what is built, explored, and left better than before.And for many people, that shift changes the entire meaning of why they work in the first place.","Google co-founder Larry Page once said: ""If we were motivated by money, we would have sold the company a long time ago and ended up on a beach"" The quote carries a quiet challenge to the way success is usually measured. Money is often a powerful motivator up to a point, but after that it stops answering a different kind of question: why continue at all?","https://static.toiimg.com/thumb/msid-131718410,imgsize-27366,width-400,height-225,resizemode-4/larry-page.jpg"
+Ban on Fable 5: On Friday Anthropic received a call from the government instructing them to ...,https://timesofindia.indiatimes.com/technology/tech-news/ban-on-fable-5-on-friday-anthropic-received-a-call-from-the-government-instructing-them-to-/articleshow/131717854.cms,"National security concerns
+
+
+
+Anthropic challenges US decision
+
+
+
+
+
+
+
+On Friday, June 12, AI giant Anthropic was instructed to roll back the release of its most advanced AI models including Fable 5 and Mythos by the Trump administration. According to a report by Axios, the Trump administration asked Anthropic for the roll back after the officials cited a ‘national security threat’. As per the Axios report, Anthropic received a call at 1 pm ET giving just 90 minutes to comply before the new licensing controls would be imposed. Anthropic had already worked with the government on pre-release testing of Fable and received explicit approval to deploy the model. However, the sudden reversal left the executives scrambling. “We immediately sought to understand the specific nature of the threat so we could remediate it,” an Anthropic source said, though officials held firm on the demand.By 5.30 pm ET, the Commerce Department issued a letter imposing restrictions on where the models could be used and by whom.This move of the Trump administration underscores the government’s rapid response to warnings from Amazon and other companies about the capabilities of frontier AI systems. Officials have grown increasingly concerned about how powerful models could be misused, prompting emergency measures even after prior approvals.Following the directive, Anthropic began the process of de-deploying the models. The incident highlights the tension between AI labs pushing forward with cutting-edge releases and regulators racing to establish safeguards.In a statement published after the Trump administration’s order to ban Mythos 5 and Fable 5, Anthropic said it disagrees with the government's decision, adding that the concerns appear to be linked to a ""jailbreak"" technique that allowed researchers to identify a small number of software vulnerabilities.According to a Wall Street Journal report, the jailbreak research was carried out by researchers at Amazon. Katie Moussouris, chief executive of cybersecurity firm Luta Security, said the researchers used a series of prompts to make Anthropic's model provide information about a handful of security vulnerabilities.Anthropic had reportedly shared a copy of the report with her, she said. The company has maintained that the vulnerabilities identified were already known and relatively minor.""We reviewed a demonstration of this specific technique being used to identify a small number of previously known, minor vulnerabilities,"" Anthropic said in a statement. The company argued that similar results can be achieved using other publicly available AI models and said the vulnerabilities involved were minor and already known.Anthropic has complied with the directive but said it hopes access to the models can be restored. The company has also warned that applying similar standards across the industry could slow the release of future advanced AI systems.",Anthropic was told to roll back the release of its most advanced AI models including Fable 5 and Mythos by the Trump administration. Officials cited a 'national security threat' Anthropic had already worked with the government on pre-release testing of Fable and received explicit approval to deploy the model.,"https://static.toiimg.com/thumb/msid-131717851,imgsize-101462,width-400,height-225,resizemode-4/nthropic-received-a-call-from-the-government-instructing-them-to-roll-back-fable-5.jpg"
 "As China races to solve 'jobs crisis' for graduates, its universities have cut 12,200 degrees calling them…",https://timesofindia.indiatimes.com/technology/tech-news/as-china-races-to-solve-jobs-crisis-for-graduates-its-universities-have-cut-12200-degrees-calling-them/articleshow/131717371.cms,"More than 30 per cent of China's university programmes were reshuffled in five years, with arts and languages making way for tech-focused fields. (Disclaimer: AI generated image)
 
 Why arts and humanities degrees are being cut first
@@ -140,92 +561,6 @@ KPMG has pulled its global report onafter major companies and organisations name
 
 
 Microsoft CEO Satya Nadella has said that the company has spent 25 years subsidising its Xbox gaming division instead of making a profit from it, signaling that the tech giant is looking for a major strategy shift. He revealed that other platforms are benefiting more from Xbox's success than Microsoft itself, noting that YouTube is currently making more money from Xbox games than his own company.Speaking on The New York Times’ “Hard Fork” podcast recently, Nadella said that the company has not been monetising that entertainment. He added: “In fact, there’s more monetization of Xbox games happening on YouTube than at Microsoft.”Nadella addressed the future of the company’s gaming wing after Xbox CEO Asha Sharma hinted at an upcoming financial reset. He said: “No one can accuse Microsoft of not having invested for the last 25 years. And now we have to turn this into a sustainable business.”Nadella explained that the gaming business is currently facing two major pressures, one is a global shortage of microchips and computer memory has driven up manufacturing costs across PCs, phones, and consoles.Nadella expressed confidence that Microsoft will weather this temporary storm.The second is a long-term business model issue which is figuring out how Xbox makes money in the future. When asked if games and consoles are simply going to get more expensive for players, Nadella didn't give specifics but emphasized the need for balance.“I think we have to find ways to deliver the games in which it’s economically relevant for the customer and for us,” he said.The admission follows a blunt internal memo sent to employees by newly appointed Xbox CEO Asha Sharma, who warned staff that Xbox’s massive spending and dropping revenues are unsustainable. According to the memo, Xbox is on track to finish the fiscal year with a razor-thin 3% profit margin. This comes after Microsoft poured more than $20 billion into the division over the last five years, even as annual gaming revenues declined.To curb the bleeding, the division is reportedly planning major layoffs, a report claimed recently.",Microsoft CEO Satya Nadella said the company has spent 25 years subsidising its Xbox gaming division instead of making a profit from it. He revealed that YouTube is currently making more money from Xbox games than his own company. The admission follows a blunt internal memo sent to employees by newly appointed Xbox CEO Asha Sharma.,"https://static.toiimg.com/thumb/msid-131712267,imgsize-27690,width-400,height-225,resizemode-4/microsoft-ceo-staya-nadella.jpg"
-Hack of the day: How to check crisis alerts on Google Maps before taking a route,https://timesofindia.indiatimes.com/technology/hack-of-day/hack-of-the-day-how-to-check-crisis-alerts-on-google-maps-before-taking-a-route/articleshow/131675588.cms,"Importance of Google Maps crisis alerts
-
-
-
-What Google Maps crisis alerts can show
-
-Earthquakes Floods Hurricanes or typhoons Tropical storms Wildfires
-
-Tip: Wildfire boundaries may not appear at all zoom levels
-
-How to check crisis alerts on Google Maps before travelling
-
-How to check more updates about an event
-
-Go to “About”
-
-Find a summary of the event and other event details.
-
-To share the event, select Share .
-
-To share the event’s location, select Share location.
-
-Under “Help and information”, find a list of related external resources.
-
-Check updates about the event
-
-Learn more about affected region
-
-Access emergency contacts
-
-Find related news reports
-
-Report road closures to help other travellers
-
-
-
-
-
-Are you planning a trip recently? Whether you are driving to work, heading on a holiday, or visiting a new city, checking for crisis alerts before you travel can help you avoid dangerous situations. Among others one feature that Google Maps offers is crisis-related alerts that can show active emergencies such as floods, wildfires, earthquakes, hurricanes, and tropical storms. These alerts help users understand and decide if they should continue with their planned route. The feature is especially useful during extreme weather events and natural disasters, when roads may be closed or situations may change rapidly.Natural disasters can disrupt travel without warning. Flooded roads, wildfire zones, earthquake damage, and severe storms can make a route unsafe. Google Maps making it easier for users to spot potential risks before entering an affected area by highlighting crisis information directly on the map.The alerts include information from local, national, and international authorities. Users may also find emergency phone numbers, official websites, updates, and news related to the event.As stated on a official Google help page, crisis-related alerts show up on your map if:You search for an area including a wildfire and are at the correct zoom levelYou select a navigation route that enters an area impacted by a crisisAlerts make emergency information from local, national or international authorities easily accessible during a crisis. You can find that information highlighted on Google Maps. Examples of crisis information include emergency phone numbers, websites or map visualisations for a detailed view.Google Maps shows alerts for these natural disasters:The steps are simple and take less than a minute.Step 1: Open Google Maps before you travel. Do this before you step out, not after you are already on the road.Step 2: Search the area or destination you are heading to.Step 3: Look for a crisis alert on the map view. If an active crisis exists in that area, an alert card will appear. Note: wildfire boundaries may not show at all zoom levels. Zoom in if you do not see details.Step 4: Tap the alert to read more. Tapping the crisis icon or alert card opens a full crisis sheet which may include safety updates, news articles, emergency phone numbers, and official websites.Step 5: Reroute if your path enters an affected area.To learn and share more about event:The crisis information sheet often provides more than just a warning. Users may be able to:","Natural disasters can disrupt travel without warning. Flooded roads, wildfire zones, earthquake damage, and severe storms can make a route unsafe. Google Maps makes it easier for users to spot potential risks before entering an affected area. Alerts make emergency information from local, national or international authorities easily accessible during a crisis.","https://static.toiimg.com/thumb/msid-131675656,imgsize-26542,width-400,height-225,resizemode-4/google-maps.jpg"
-"Anime Paradox codes February 2026: Earn in-game gems, stat chips, and know how to redeem active codes",https://timesofindia.indiatimes.com/technology/gaming/anime-paradox-codes-february-2026-earn-in-game-gems-stat-chips-and-know-how-to-redeem-active-codes/articleshow/127834840.cms,"What is Roblox Anime Paradox and its active codes
-
-
-
-Active Anime Paradox codes February 2026
-
-
-
-15KLIKES! gives 5,000 Gems, 20 Stat Chips, and 10 Super Stat Chips.
-
-1MVISITS! offers 3,500 Gems and 20 Trait Rerolls.
-
-10KCCU rewards 500 Gems and 5 Trait Rerolls.
-
-5KLIKES gives 500 Gems.
-
-2.5KLIKES grants 250 Gems.
-
-1KLIKES! adds another 250 Gems.
-
-RELEASE! unlocks 500 Gems.
-
-SORRYCODE is a big one, reportedly giving 15,000 Gems and 35 Trait Rerolls.
-
-GEMSBUFFED! includes 5,000 Gems and 25 Trait Rerolls.
-
-GIVEGEMSPLEASE hands out 7,000 Gems.
-
-Anime Paradox expired codes
-
-
-
-How to redeem Anime Paradox codes
-
-
-
-Launch Anime Paradox on Roblox.
-
-Look to the right side of the screen.
-
-Click the blue Codes button.
-
-Type or paste a working code into the grey box.
-
-Hit the green Redeem button.
-
-Anime-themed games on Roblox are everywhere right now. Some fade fast. Others stick around because they keep players coming back. Anime Paradox seems to fall into the second category. At first glance, it looks like another tower defence title with familiar anime faces and flashy attacks. But spend a little time with it, and the grind becomes obvious. Progress slows quickly, upgrades demand patience, and free rewards feel essential rather than optional for anyone hoping to stay competitive. Anime Paradox February codes let you redeem gems, stat chips, trait rerolls, and more.For players trying to build a decent team without sinking hours into farming, they matter.Below is the list of all working Anime Paradox codes in February 2026.Anime Paradox is a Roblox tower defence game where players summon and command powerful anime-style units to fend off waves of enemies and bosses as they defend a base. It blends classic tower defence mechanics with strategic placement and AI-controlled unit combat, so battles play out automatically once your units are deployed.Anime Paradox is built around summoning and upgrading units.That’s the loop. And like most Roblox games built this way, Gems sit at the centre of everything. It sounds simple, but the cost adds up quickly. Progress slows if you rely only on gameplay rewards. They give players a chance to catch up, try new units, or recover from a bad roll.As of the latest update, several Anime Paradox codes are still active.As per the recent updates, there are no expired Anime Paradox codes; however, this can change at any time.Redeeming codes in Anime Paradox is refreshingly simple. No hidden menus. No complicated steps.","Anime Paradox is a Roblox tower defence game. Players summon and command powerful anime-style units to fend off waves of enemies and bosses as they defend a base. It blends classic tower defence mechanics with strategic placement and AI-controlled unit combat, so battles play out automatically once your units are deployed.","https://static.toiimg.com/thumb/msid-127834907,imgsize-35490,width-400,resizemode-4/anime-paradox-codes-february-2026-earn-in-game-gems-stat-chips-and-know-how-to-redeem-active-codes.jpg"
 "Zoho founder Sridhar Vembu reacts to US restricting Anthropic’s Fable 5 model, says ‘why pay money to …’",https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-reacts-to-us-restricting-anthropics-fable-5-model-says-why-pay-money-to-/articleshow/131699687.cms,"
 
 Here’s what Sridhar Vembu said
@@ -366,614 +701,3 @@ Google cofounder Sergey Brin to everyone worrying about AI job losses: Computers
 
 
 At a time when job seekers and tech workers are increasingly anxious over artificial intelligence (AI) making everyday jobs obsolete, Google cofounder Sergey Brin is offering a reassuring counter-perspective. Speaking to a room of developers and tech enthusiasts recently, Brin argued that machines surpassing humans in specific skills doesn’t end human progress but actually supercharges it.During an unscripted fireside chat at the Google DeepMind Build Day hosted at AGI House, Brin rejected the doomsday narrative around AI automation. Instead of wiping out human capability, he explained, advanced technology serves as a powerful training partner that pushes people to achieve new heights.“The fact that computers can do things well has actually not stopped humans getting better and better at them, getting more and more recognition and enjoying those things,” Brin said, adding, “I think we're going to find AI can do a whole lot of pretty surprising things, but I think they also help advance people in doing it.”To prove his point, Brin pointed to the Go, an ancient, highly complex strategy game focused on capturing territory. A decade ago, the tech world was rocked when Google DeepMind's AI, AlphaGo, defeated legendary grandmasters Lee Sedol in 2016 and Ke Jie in 2017. At the time, many feared the breakthrough marked the death of human Go mastery. Instead, the exact opposite happened.“And by the way, since AlphaGo, the game of Go has advanced a lot.The players that played against it, Lee Sedol, became vastly better after, and Ke Jie after he played AlphaGo also. It has pushed the state of the art,” Brin explained.By studying how the AI played, human champions learned entirely new strategies, breaking rigid conventional wisdom to improve their own games. Brin believes this exact same evolution will unfold across modern workplaces.Brin is not alone in this. Other top tech executives, mainly founders are doubling down on the value of uniquely human traits. Leaders like Salesforce CEO Marc Benioff, Duolingo CEO Luis von Ahn, former Google engineering star Kelsey Hightower, and most recently Amazon founder Jeff Bezos, have all stated that AI will change the nature of jobs.They also flagged that crucial “soft skills” such as empathy, complex communication and relationship-building, remain entirely safe from being duplicated by AI.","Google cofounder Sergey Brin says machines surpassing humans in specific skills doesn’t end human progress but actually supercharges it. Instead of wiping out human capability, he explained, advanced technology serves as a powerful training partner that pushes people to achieve new heights.","https://static.toiimg.com/thumb/msid-131701444,imgsize-52656,width-400,height-225,resizemode-4/google-cofounder-sergey-brin.jpg"
-"As Elon Musk becomes world's first trillionaire, Zohran Mamdani, who once said he and Musk share 'one goal', says: Reason why we should tax rich is ...",https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-becomes-worlds-first-trillionaire-zohran-mamdani-who-once-said-he-and-musk-share-one-goal-says-reason-why-we-should-tax-rich-is-/articleshow/131700558.cms,"Zohran Mamdani proposed a tax on billionaires
-
-
-
-Zohran Mamdani has previously clashed with Musk
-
-
-
-Elon Musk world’s first-ever trillionaire
-
-
-
-
-
-
-
-SpaceX CEO Elon Musk became the world’s first trillionaire on June 12 after the blockbuster SpaceX IPO, which saw shares debut at $135 and surge to $150 in early trading. Already, the world’s richest man, Musk’s fortune has now surpassed that of Google co-founder Larry Page, whose wealth is estimated at just a quarter of Musk’s. Reacting on the Elon Musk’s trillionaire status, New York City Mayor , Zohran Mamdani seized on Musk’s milestone to reiterate his progressive stance on taxing the wealthy. In a post shared on social media platform X (formerly known as Twitter), Mamdani wrote, “Reason #1,000,000,000,000 why we should tax the rich.”The comment made by Mamdani reflects his long-standing campaign promise to increase taxes on multimillionaires and billionaires, including the city’s controversial pied-à-terre tax on luxury second homes worth over $5 million.Recently, Mamdani proposed a new tax targeting some of the most expensive homes in the city. This move of the New York City Mayor impact billionaires including Amazon founder Jeff Bezos and Dell CEO Michael Dell. The proposal is part of a broader state budget plan which focuses on luxury properties that are not used as primary homes. Officials are of the opinion that the main aim is to raise revenue and ensure that wealthy property owners contribute more, but critics argue it could discourage investment in the city.The tax, referred to as a “pied-à-terre tax,” would apply to homes worth over $5 million that are not the owner’s main residence, says a Business Insider report. It is expected to generate around $500 million annually, though details about how it will be calculated are still unclear.Mamdani has previously clashed with Musk, who backed his challenger, former Governor Andrew Cuomo, in last year’s mayoral race. Despite their differences, Mamdani once remarked that he and Musk share “one goal” — focusing on efficiency and eliminating waste. Last month, Mamdani announced the creation of a Commission on Government Efficiency, modeled in part on Musk’s DOGE office initiative at the White House.SpaceX shares began trading, sending the company’s valuation past $2 trillion and cementing its place in the history books. Following the public listing, the ‘skyrocketing’ stock value has officially made company founder and CEO Elon Musk the world’s very first trillionaire. After the successful IPO, Musk emphasised that the public listing is merely a stepping stone toward a much grander, sci-fi-inspired vision for humanity.Speaking to a crowd of supporters and investors following the listing, Musk drew a sharp line between his company’s philosophy and that of traditional aerospace contractors. He said that older aerospace firms and his competitors built reliable rockets but they lacked the ambition required to truly push humanity forward.“While the other Aerospace companies they built good rockets and everything, they were simply not pursuing the technology that’s necessary to make life multi-planetary. To make Star Trek, to make the exciting science fiction futures that we've read about,” Musk said.","SpaceX CEO Elon Musk became the world’s first trillionaire on June 12 after the blockbuster SpaceX IPO, which saw shares debut at $135 and surge to $150 in early trading. Mamdani has previously clashed with Musk, who backed his challenger, former Governor Andrew Cuomo, in last year's mayoral race. The comment reflects his long-standing campaign promise to increase taxes on multimillionaires and billionaires.","https://static.toiimg.com/thumb/msid-131700556,imgsize-179572,width-400,height-225,resizemode-4/zohran-mamdani.jpg"
-Canadian billionaire Kevin O'Leary says that the best career advice he ever got are the three things that Steve Jobs told me to do every day,https://timesofindia.indiatimes.com/technology/tech-news/canadian-billionaire-kevin-oleary-says-that-the-best-career-advice-he-ever-got-are-the-three-things-that-steve-jobs-told-me-to-do-every-day/articleshow/131699806.cms,"Steve Jobs’ philosophy of separating signal from noise
-
-
-
-Discipline and purpose
-
-
-
-
-
-
-
-Canadian billionaire and former Shark Tank investor Kevin O’Leary revealed the most important career advice he got from Apple founder Steve Jobs. While speaking in an interview with The School of Hard Knocks along with fellow investor Robert Herjavec, O’Leary said that the most valuable career advice he ever got came from Steve Jobs. O’Leary recalled Jobs’ blunt but brilliant guidance, “There’s only three things you have to get done every day. That’s called the signal. Everything else that stops you from getting the three things done is the noise.” O’Leary also admitted that he initially pushed back, calling Jobs’ ‘nasty’ and also questioned that why he should believe him. Jobs’ response was simple ‘Trust me’.Steve Jobs’ philosophy of separating signal from noise was central to his leadership at Apple. In a famous 1997 appearance ay the Apple Worldwide Developers Conference, Jobs also stressed that “focusing is about saying no.” He also cut numerous low-priority projects in order to concentrate on a few core categories, a decision that ultimately fuelled Apple’s turnaround in the personal computing space.For Canadian billionaire O’Leary, this principle of Jobs’ became a hallmarked of his own career. He co-founded SoftKey Software Products in 1986, later sold to Mattel for $4.2 billion in 1999, a deal that made him wealthy despite being disastrous for Mattel.Since then, O’Leary has built his brand as “Mr. Wonderful” on Shark Tank, where his blunt style has made him a household name.Herjavec, who joined O’Leary in the interview, agreed that focus and discipline are common traits among the wealthiest people. “I’ve never met somebody with great wealth who doesn’t have great purpose,” he said. O’Leary added: “Billionaires don’t care about money. They’re on a mission.”The idea of limiting daily priorities aligns with modern productivity research. UC Irvine professor Gloria Mark, in her book Attention Span, found it takes an average of 23 minutes to refocus after an interruption. O’Leary’s routine of picking three priorities and treating everything else as friction mirrors this science-backed approach to maintaining focus.Beyond Jobs’ anecdote, O’Leary and Herjavec urged younger audiences to learn AI and learn how to sell — two skills they believe will define future success.",Canadian billionaire Kevin O’Leary revealed the most important career advice he got from Apple founder Steve Jobs. Steve Jobs’ philosophy of separating signal from noise was central to his leadership at Apple. O'Leary and fellow investor Robert Herjavec urged younger audiences to learn AI and learn how to sell.,"https://static.toiimg.com/thumb/msid-131699788,imgsize-82320,width-400,height-225,resizemode-4/canadian-billionaire-kevin-o-leary.jpg"
-"Bill Gates isn't happy with US government taking stakes in Intel, IBM and other American companies; says 'rules of the game are…",https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-isnt-happy-with-us-government-taking-stakes-in-intel-ibm-and-other-american-companies-says-rules-of-the-game-are/articleshow/131699096.cms,"From Intel to IBM , Washington's shareholder list keeps growing
-
-
-
-AI companies are next on US government’s runway
-
-
-
-When the regulator owns the stock, who wins the contract?
-
-
-
-
-
-","summarize: From Intel to IBM, Washington's shareholder list keeps growing. Washington's share of the U.S. government's stock market is on the rise. Washington is trying to get a bigger stake in some of the world's biggest companies.","https://static.toiimg.com/thumb/msid-131699090,imgsize-24658,width-400,height-225,resizemode-4/bill-gates.jpg"
-"Almost a year after starting a talent war in tech industry that saw salaries cross $100 million, Mark Zuckerberg says: To make progress in AI, you don't need hundreds of AI researchers, but ...",https://timesofindia.indiatimes.com/technology/tech-news/almost-a-year-after-starting-a-talent-war-in-tech-industry-that-saw-salaries-cross-100-million-mark-zuckerberg-says-to-make-progress-in-ai-you-dont-need-hundreds-of-ai-researchers-but-/articleshow/131695721.cms,"""No Priors""
-
-""In order to make progress in AI, you don't need many hundreds of AI researchers or thousands or anything like that. I think you can really make progress with a very strong group of a dozen or a couple dozen people,”
-
-""giant offers""
-
-""$100 million signing bonuses and more than that [in] compensation per year.""
-
-Mark Zuckerberg says mission matters more for AI researchers
-
-
-
-""It's a very hot market for AI researchers. They're very in demand, and can work on the things that they want to work on,”
-
-""The AI researchers who work at Biohub could go work on language models or things at any of the main labs, but those labs don't have the frontier biology part attached to it, so I think that there's like also just a very large mission component of this, which is like there's an ability to do this unique work here that you just can't really do at the other places. If that's what your focus is, then I don't actually think that there's any other organisation in the world that's doing both the frontier biology and the frontier AI,”
-
-""It's a dynamic system. So, if you fix something, there will obviously be future things that you need to work on. So, I don't think that the current set of things that we're aware of are going to be the only things that need to get worked out. I think that the progress with AI is really, obviously, very exciting,”
-
-""In terms of what you decide to do next, I think this is like a pretty normal process of constraint management. I think every lab in every field across the world probably feels compute-constrained. I think that's probably true here, too,”
-
-""combination of invigorated and exhausted.""
-
-
-
-
-
-Meta CEO Mark Zuckerberg thinks that major advances in artificial intelligence (AI) can be made without large teams of researchers. This remark comes almost a year after Facebook 's parent company hired several AI researchers from rival companies by offering salaries exceeding $100 million, triggering a talent war in the tech industry. Speaking on a recent episode of thepodcast, Zuckerberg argued that a relatively small group of highly capable researchers can make significant progress in AI development, even as technology companies continue competing for top talent.Zuckerberg said.Last year, Meta made headlines for offering multi-million-dollar compensation packages to recruit AI researchers for its Superintelligence Labs division. The hiring drive reportedly targeted talent from companies including Google, Apple, and OpenAI.At that time, OpenAI CEO Sam Altman claimed that Meta had been makingto members of his team, with some packages includingDuring the discussion, Zuckerberg and his wife, Priscilla Chan, spoke about the work being carried out by Biohub, their nonprofit medical research organisation focused on combining artificial intelligence and biology. However, Zuckerberg acknowledged that competition for AI talent remains intense.the tech billionaire said. However, he argued that Biohub offers researchers opportunities that differ from those available at major AI companies.Zuckerberg explained.The Facebook founder also spoke about the role AI could play in accelerating scientific research, particularly in healthcare and disease management. Zuckerberg said recent advances in AI have made him more optimistic about Biohub's long-term goal of helping scientists cure, prevent, or manage diseases.he added.Despite the rapid pace of development, Zuckerberg noted that access to computing resources remains a challenge across the industry.he highlighted.Reflecting on the current state of the AI industry, Zuckerberg said the pace of change has left him feeling a","Mark Zuckerberg says mission matters more for AI researchers than money. Facebook founder says a small group of researchers can make significant progress in AI development. Zuckerberg and his wife, Priscilla Chan, spoke about the work being carried out by Biohub, their nonprofit medical research organisation focused on combining artificial intelligence and biology.","https://static.toiimg.com/thumb/msid-131695722,imgsize-9048,width-400,height-225,resizemode-4/almost-a-year-after-starting-a-talent-war-in-tech-industry-that-saw-salaries-cross-100-million-mark-zuckerberg-says-to-make-progress-in-ai-you-don39t-need-hundreds-of-ai-researchers-but-.jpg"
-"Apple's new Siri is ""100 percent not into"" being your AI romantic partner",https://timesofindia.indiatimes.com/technology/tech-news/apples-new-siri-is-100-percent-not-into-being-your-ai-romantic-partner/articleshow/131691980.cms,"People attend the annual World Wide Developers Conference at Apple's headquarters in Cupertino, Calif., Monday, June 8, 2026. (AP Photo/Noah Berger)
-
-Siri AI keeps the boundaries firm, sometimes brutally so
-
-iOS 27 puts privacy at the centre of Apple's Siri pitch
-
-
-
-","iOS 27 puts privacy at the centre of Apple's Siri pitch. Siri AI keeps the boundaries firm, sometimes brutally so. Apple's new Siri AI is designed to make it easier for people to control their smarts with their voice. Siri will be available on iOS 7 and iOS 8 in the coming months.","https://static.toiimg.com/thumb/msid-131691980,imgsize-388030,width-400,height-225,resizemode-4/131691980.jpg"
-Google may work with Samsung to make key component of next-gen Tensor chip: All details,https://timesofindia.indiatimes.com/technology/tech-news/google-may-work-with-samsung-to-make-key-component-of-next-gen-tensor-chip/articleshow/131691650.cms,"What it means for Google
-
-
-
-What it means for Samsung
-
-
-
-
-
-
-
-Google is reportedly in discussions with South Korean tech giant Samsung Electronics to manufacture a critical portion of its next-generation artificial intelligence (AI) processor. The Silicon Valley giant plans to split the production of its upcoming Tensor Processing Unit (TPU), codenamed “Icefish”, between two of the world's leading semiconductor manufacturers, a report has said.Citing two people familiar with the matter, The Information reported (via news agency Reuters), under the proposed multi-year strategy, Taiwan Semiconductor Manufacturing Company (TSMC) will remain responsible for building the main computing core of the “Icefish” processor. Meanwhile, Samsung is said to manufacture a specialised component that connects the main processor to its memory system. This part will be manufactured utilising its highly advanced 2-nanometer (2nm) production technology.The report also noted that Google is currently collaborating with chip design firm MediaTek on the blueprint for “Icefish.” The advanced AI chip is still in its early development phase, with mass production slated to begin as early as 2028.With this move, Google aims to reduce its reliance on TSMC, which remains the premier manufacturer for global tech hardware. However, the surge in AI demand has pushed the Taiwanese foundry’s capacity to its absolute limits, turning it into a potential supply-chain bottleneck for the entire tech sector.Google is diversifying its production lines to mitigate this risk. A few days ago, reports claimed that Google was also in separate talks with Intel to manufacture more than three million internal TPUs by 2028.This move is also important for Google because its custom, in-house AI chips have quickly emerged as one of the few viable alternatives to Nvidia’s highly dominant graphics processing units (GPUs). Sales of these proprietary TPUs have become a primary revenue driver for Google's cloud computing division.Earlier this year, Google expanded its silicon lineup by unveiling two new custom chips engineered specifically to handle heavy AI model training and data inference.Securing a manufacturing contract with Google would mark a victory for Samsung’s foundry business, which has been expanding its contract chip-manufacturing division to compete with market leader TSMC. Samsung’s 2nm manufacturing process allows engineers to pack significantly more transistors and computing power into smaller physical chips. This improves processing speeds, lowers energy consumption and supercharges underlying AI capabilities.In July 2025, Samsung locked in a massive $16.5 billion contract with Tesla to manufacture custom automotive AI chips using the same 2nm architecture.","Google is reportedly in discussions with Samsung to manufacture a critical portion of its next-generation artificial intelligence (AI) processor. The Silicon Valley giant plans to split the production of its upcoming Tensor Processing Unit (TPU), codenamed “Icefish”, between two of the world's leading semiconductor manufacturers.","https://static.toiimg.com/thumb/msid-131691641,imgsize-6090,width-400,height-225,resizemode-4/google-samsung.jpg"
-MacKenzie Scott reveals inspiration behind $26 billion donations: A college book that changed how she viewed wealth,https://timesofindia.indiatimes.com/technology/tech-news/mackenzie-scott-reveals-inspiration-behind-26-billion-donations-a-college-book-that-changed-how-she-viewed-wealth/articleshow/131688530.cms,"The college book that shaped MacKenzie Scott's approach to giving
-
-How MacKenzie Scott became one of the world's biggest philanthropists
-
-
-
-More than $26 billion donated in six years
-
-Education
-
-Public health
-
-Economic mobility
-
-Racial equity
-
-Community development
-
-Women's organisations
-
-Disaster relief initiatives
-
-Why MacKenzie Scott's philanthropy stands out
-
-
-
-The influence of Toni Morrison on MacKenzie Scott's life
-
-Supporting education and historically Black colleges
-
-Why her fortune remains enormous despite giving away billions
-
-A promise to keep giving
-
-
-
-
-
-MacKenzie Scott's story as one of the world's most generous philanthropists did not begin with a boardroom strategy, a foundation launch or a financial plan. Instead, the inspiration behind more than $26 billion in charitable donations can be traced back to a college book and a passage she had underlined years earlier. In her 2019 Giving Pledge letter, Scott revealed that she revisited a copy of Annie Dillard's The Writing Life, where a piece of advice about not saving one's best work for later resonated deeply. That lesson would go on to shape how she approached giving away one of the largest fortunes in modern history.Before committing to give away the majority of her wealth, Scott looked through a collection of books from her college years and came across a passage she had previously marked in The Writing Life, a 1989 book by acclaimed American author Annie Dillard.The passage encouraged writers to use their best ideas immediately rather than saving them for a future project. Dillard wrote that the impulse to save something valuable for later is often a signal that it should be used now.Scott later explained that the words stayed with her and influenced her thinking about generosity and wealth.In her Giving Pledge letter, Scott highlighted a passage she had ""underlined and starred"" as a student.""The impulse to save something good for a better place later is the signal to spend it now,"" Dillard wrote.For Scott, the advice extended beyond writing. She interpreted it as a reminder that resources should be put to use when they can have the greatest impact rather than being preserved indefinitely. The idea became a guiding principle as she began one of the most ambitious philanthropic efforts ever undertaken by an individual.Scott's philanthropic journey accelerated in 2019 following her divorce from Amazon founder Jeff Bezos. As part of the settlement, she received approximately 4% of Amazon's outstanding shares, instantly making her one of the wealthiest people in the world.Shortly afterwards, she signed the Giving Pledge, a commitment created by Bill Gates, Melinda French Gates and Warren Buffett that encourages billionaires to donate the majority of their wealth during their lifetimes or through their estates.Unlike many wealthy donors who establish large foundations with strict requirements, Scott adopted a different philosophy centred on speed, trust and flexibility.Since signing the Giving Pledge, Scott has donated more than $26 billion through her philanthropic organisation, Yield Giving.Her donations have reached thousands of organisations across a wide range of sectors, including:The scale of her giving has made her one of the most generous living philanthropists in the world. According to public estimates, she has donated nearly half of her post-divorce wealth while continuing to support new charitable causes each year.One of the defining characteristics of Scott's philanthropy is her trust-based approach.Many charitable organisations receiving her grants are not required to submit lengthy applications, provide regular progress reports or spend the money in narrowly defined ways. Instead, Scott often provides unrestricted funding, allowing recipients to decide how the resources can best serve their communities.The approach has been praised by nonprofit leaders, who argue that flexible funding often creates greater long-term impact than highly restricted grants.Scott has also maintained a relatively low public profile, rarely giving interviews or making public appearances related to her donations.Long before becoming known for philanthropy, Scott was a writer.She studied English and creative writing at Princeton University under Nobel Prize-winning author Toni Morrison. Morrison later described Scott as one of the strongest students she had taught and served as her thesis adviser.Scott also worked as Morrison's research assistant and went on to publish two novels of her own, including The Testing of Luther Albright, which won an American Book Award.Her literary background helps explain why a passage from a book would play such a significant role in shaping her philosophy on wealth and giving.Education has become one of the most important focuses of Scott's charitable efforts.Over the past several years, she has directed substantial funding towards colleges, universities and educational programmes across the US. Historically Black colleges and universities have been among the largest beneficiaries of her philanthropy, collectively receiving more than $1 billion in donations.Her support has also honoured her former mentor Toni Morrison. In 2022, a $3 million gift to Howard University helped establish the Toni Morrison Endowed Chair in Arts and Humanities.Despite donating more than $26 billion, Scott remains one of the world's wealthiest women.The primary reason is the continued growth in the value of her Amazon holdings. As Amazon's stock price increased over time, the appreciation of her remaining shares offset a significant portion of the money she gave away.As a result, her net worth has remained above $36 billion even after years of large-scale charitable contributions.Scott's Giving Pledge letter made clear that her philanthropy is far from finished.While she described her approach as thoughtful and deliberate, she also emphasised that she does not intend to wait indefinitely before putting her resources to work. The message echoed the lesson she took from Annie Dillard's writing advice decades earlier: valuable resources are most meaningful when they are used, not stored away.That philosophy, inspired by a marked-up college book and an underlined paragraph, has since guided one of the largest philanthropic campaigns in modern history.","MacKenzie Scott is one of the world's most generous philanthropists. She has donated more than $26 billion through her organisation, Yield Giving. Her philanthropic journey accelerated in 2019 following her divorce from Jeff Bezos. Historically Black colleges and universities have been among the largest beneficiaries of her donations.","https://static.toiimg.com/thumb/msid-131689437,imgsize-18660,width-400,height-225,resizemode-4/mackenzie-scott-reveals-inspiration-behind-26-billion-in-donations-a-college-book-that-changed-how-she-viewed-wealth.jpg"
-How to get insights about ICC Women’s T20 World Cup 2026 on YouTube,https://timesofindia.indiatimes.com/technology/tech-news/how-to-get-insights-about-icc-womens-t20-world-cup-2026-on-youtube/articleshow/131687583.cms,"What Indian cricket fans can watch on YouTube during ICC Women’s T20 World Cup 2026 tournament
-
-
-
-""ICC Women’s T20 World Cup 2026""
-
-“Through our collaboration with YouTube, we are making the tournament more accessible than ever before through live coverage, local language offerings, creator-led storytelling and enhanced discoverability across the platform.""
-
-
-
-","“Through our collaboration with YouTube, we are making the tournament more accessible than ever before through live coverage, local language offerings, creator-led storytelling and enhanced discoverability across the platform,"" says ICC. Click here for more details on the ICC Women's T20 World Cup.","https://static.toiimg.com/thumb/msid-131687569,imgsize-77484,width-400,height-225,resizemode-4/how-to-get-insights-about-icc-womens-t20-world-cup-2026-on-youtube.jpg"
-"9,000 fake websites, 2.5 million messages and more: Chinese hackers used Gemini AI to scam people, now Google is suing them",https://timesofindia.indiatimes.com/technology/tech-news/9000-fake-websites-2-5-million-messages-and-more-chinese-hackers-used-gemini-ai-to-scam-people-now-google-is-suing-them/articleshow/131688909.cms,"9,000 fake websites, 2.5 million messages and more: Chinese hackers used Gemini AI to scam people, now Google is suing them","Chinese hackers used Gemini AI to scam people, now Google is suing them. Google says it found 9,000 fake websites, 2.5 million messages. The company is suing the Chinese hackers for $1.2 billion. The case is expected to be settled out of court in the coming months.","https://static.toiimg.com/thumb/msid-131688904,imgsize-20978,width-400,height-225,resizemode-4/google-ai-gemini-scam.jpg"
-"Meta faces major outage as Facebook, Instagram and WhatsApp goes down for thousands of users globally",https://timesofindia.indiatimes.com/technology/tech-news/meta-faces-major-outage-as-facebook-instagram-and-whatsapp-goes-down-for-thousands-of-users-globally/articleshow/131688012.cms,"Facebook and Instagram see the highest number of user complaints
-
-
-
-(Developing story)
-
-
-
-
-
-Meta's social media platforms, including Facebook Instagram , WhatsApp and Messenger, are experiencing a widespread outage. This has left thousands of users across multiple countries unable to access key features on the services. According to the outage-tracking platform Downdetector, reports surged in both India and the United States, with users reporting issues ranging from app failures and login problems to website access disruptions. While WhatsApp also recorded a smaller increase in complaints, the majority of reports were concentrated on Facebook, Instagram and Messenger.Many users reported being unable to log in to their accounts, while others experienced problems accessing feeds, sending messages, or using the mobile apps. The outage appeared to affect both web and app users.Facebook recorded the highest number of outage reports in the US, peaking at 109,365 reports before falling to 5,958 at the time of writing. Among affected users, 56% reported app-related issues, 27% experienced login problems, and 10% reported website access issues.In India, Facebook outage reports peaked at 1,093 before declining to 410. About 49% of users reported problems with the app, while 30% faced login issues and 12% reported server connection problems.Instagram also saw a significant spike in complaints. In India, reports peaked at 8,582 before dropping to 4,716. Of those affected, 51% reported app issues, 36% experienced login problems, and 7% cited server connection issues.In the US, Instagram reports reached a peak of 8,868 before falling to 5,398. Around 57% of users reported app-related issues, 22% faced login problems, and 11% reported server connection issues.Messenger users also reported disruptions during the outage. In the US, reports peaked at 15,403 before declining to 2,960. Login problems accounted for 54% of reports, while 31% were related to the app and 14% involved messaging issues. In India, Messenger had 91 reports at the time of writing.WhatsApp appeared to be less affected compared to Meta's other services. In India, reports peaked at 216 before falling to 103. Around 37% of users reported app issues, 32% experienced login problems, and 27% reported website-related issues.In the US, WhatsApp reports peaked at 153 and stood at 148 at the time of writing. Website-related issues accounted for 42% of reports, followed by app problems at 26% and login issues at 20%.Meta has not yet publicly commented on the cause of the disruption. The company does not maintain a public status page for its consumer services, making it difficult to independently verify the exact scope of the outage.At the time of publication, outage reports on Downdetector were gradually declining, suggesting that some services may be recovering, though users continued to report issues across Facebook, Instagram and Messenger.","Facebook, Instagram, WhatsApp and Messenger are experiencing a widespread outage. Thousands of users across multiple countries are unable to access key features on the services. Users reported issues ranging from app failures and login problems to website access disruptions. The outage appeared to affect both web and app users.","https://static.toiimg.com/thumb/msid-131688006,imgsize-45298,width-400,height-225,resizemode-4/meta-faces-major-outage-as-facebook-instagram-and-whatsapp-goes-down-for-thousands-of-users-globally.jpg"
-"How Sergey Brin, Larry Ellison and other ultra-rich are turning a quiet Nevada town into ‘billionaire bunker’",https://timesofindia.indiatimes.com/technology/tech-news/how-sergey-brin-larry-ellison-and-other-ultra-rich-are-turning-a-quiet-nevada-town-into-billionaire-bunker/articleshow/131687183.cms,"Brin, who co-founded Google in 1998, stepped down from his leadership role in 2019 but remains actively involved, particularly in AI development
-
-Landing the ‘Whales’ of Silicon Valley
-
-
-
-Fleeing California’s looming ‘Billionaire Tax’
-
-
-
-
-
-
-
-Tech founders fleeing California appear to have found a new place for their ‘billionaire bunker’. Nestled along the scenic shores of Lake Tahoe, Incline Village has long been known as a picturesque mountain enclave of about 9,300 residents. Defined by alpine views and glimmering water, the quiet town is reportedly undergoing a transformation driven an influx of some of the world’s wealthiest people. Tech titans and ultra-wealthy elites like Google co-founder Sergey Brin and co-founder of software giant Oracle are settling in this Nevada town – just outside California.According to a report by Bloomberg, Incline Village has always been a holiday destination but it is currently witnessing a massive luxury real estate surge for a more strategic reason: securing a tax-friendly Nevada address as tech titans and ultra-wealthy elites opposing California tax are purchasing properties in the area.The report said that the local housing market is changing under the weight of these multi-million dollar acquisitions. Real estate data shows that single-family home sales in the area soared to roughly $232 million in the first quarter of 2026, compared with a mere $30.6 million during the exact same period in 2025.Larry Ellison reportedly owns a sprawling, wooded luxury estate in the area while Sergey Brin has been linked to a premium $42 million mansion.Steve Jurvetson, who is a prominent venture capitalist and SpaceX investor, is tied to a staggering $125 million compound that recently shattered regional real estate price records.Local real estate agents describe the sudden influx as a historic anomaly. Tim Lampe of Lakeshore Realty said: “I liken it to a school of fish swimming by... all of a sudden you get eight fish and then nothing for two years. Right now, we’re definitely on a high-end pulse. Except they’re not fish, they’re whales.”The primary catalyst for this migration is a fiscal battle happening right across the border. Nevada enforces a strict no-income-tax policy, making it the perfect escape route as California prepares to vote on its controversial 2026 Billionaire Tax Act this November.The proposed California measure would place a one-time 5% wealth tax on the state’s roughly 200 billionaires, which can be paid out in installments over five years. Drafted to plug a massive healthcare funding gap left by President Donald Trump’s federal cuts, the tax is projected to raise $100 billion.Google's Sergey Brin has poured $57 million into a nonprofit opposing the wealth tax and criticised the bill previously. “I fled socialism with my family in 1979 and know the devastating, oppressive society it created in the Soviet Union. I don’t want California to end up in the same place,” Brin said in a statement to The New York Times.","Google co-founder Sergey Brin and Oracle's Larry Ellison are among those buying properties in Incline Village, Nevada. Real estate agents describe the sudden influx as a historic anomaly. Nevada enforces a strict no-income-tax policy, making it the perfect escape route as California prepares to vote on its controversial 2026 Billionaire Tax Act this November.","https://static.toiimg.com/thumb/msid-131687175,imgsize-23300,width-400,height-225,resizemode-4/sergey-brin.jpg"
-"Apple iPhone 18 Pro expected to debut in September 2026: Leaked colours, design, camera upgrades, battery, price and more",https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-expected-to-debut-in-september-2026-leaked-colours-design-camera-upgrades-battery-price-and-more/articleshow/131684823.cms,"Representative image.
-
-iPhone 18 Pro expected launch date: When could Apple unveil it?
-
-Model
-
-
-
-Expected launch window
-
-
-
-iPhone 18 Pro
-
-
-
-September 2026
-
-
-
-iPhone 18 Pro Max
-
-
-
-September 2026
-
-
-
-iPhone 18
-
-
-
-Early 2027 (rumoured)
-
-
-
-
-
-iPhone 18 Pro design : Familiar look with subtle changes
-
-Smaller Dynamic Island
-
-Refined rear camera housing
-
-Improved glass and frame integration
-
-Premium aluminium construction
-
-Cleaner front display appearance
-
-iPhone 18 Pro colours: New premium finishes tipped
-
-iPhone 18 Pro display: Smaller Dynamic Island could arrive
-
-Expected iPhone 18 Pro display specifications
-
-Expected iPhone 18 Pro display specifications
-
-
-
-
-
-Feature
-
-
-
-Expected specification
-
-
-
-Display size
-
-
-
-6.3-inch OLED
-
-
-
-Refresh rate
-
-
-
-ProMotion 120Hz
-
-
-
-Technology
-
-
-
-LTPO+ OLED
-
-
-
-Dynamic Island
-
-
-
-Smaller than previous generation
-
-
-
-
-
-iPhone 18 Pro camera upgrades : Variable aperture could be the star feature
-
-Improved telephoto lens performance
-
-Better portrait photography
-
-Enhanced low-light image quality
-
-Reduced image noise
-
-Faster image processing
-
-Improved dynamic range
-
-Expected iPhone 18 Pro camera improvements
-
-Camera feature
-
-
-
-Rumoured upgrade
-
-
-
-
-
-
-
-Main camera
-
-
-
-Variable aperture
-
-
-
-Telephoto camera
-
-
-
-Larger aperture
-
-
-
-Low-light performance
-
-
-
-Improved
-
-
-
-Portrait mode
-
-
-
-Enhanced depth control
-
-
-
-Image processing
-
-
-
-Faster and more detailed
-
-
-
-
-
-
-
-
-
-iPhone 18 Pro expected price: What could it cost?
-
-Model
-
-
-
-Expected US price
-
-
-
-Expected India price
-
-
-
-iPhone 18 Pro
-
-
-
-Starting around $999 to $1,099
-
-
-
-₹1,40,000 to ₹1,50,000
-
-
-
-iPhone 18 Pro Max
-
-
-
-Starting around $1,199 to $1,299
-
-
-
-Above ₹1,50,000
-
-
-
-
-
-iPhone 18 Pro performance: A20 chip could be Apple's biggest leap in years
-
-Faster CPU performance
-
-Better graphics processing
-
-More advanced AI capabilities
-
-Improved battery efficiency
-
-Enhanced Apple Intelligence features
-
-Expected iPhone 18 Pro chipset details
-
-
-
-
-
-Feature
-
-Expected specification
-
-Processor
-
-A20 Pro
-
-Manufacturing process
-
-2nm
-
-AI performance
-
-Improved
-
-Power efficiency
-
-Higher than previous generation
-
-
-
-iPhone 18 Pro battery: Longer battery life expected
-
-iPhone 18 Pro: What remains uncertain?
-
-Whether under-display Face ID will debut
-
-Final battery capacities
-
-Official colour names
-
-Potential 8K video recording support
-
-Additional Apple Intelligence features
-
-Exact pricing and storage options
-
-
-
-",iPhone 18 Pro expected launch date: When could Apple unveil it? iPhone 18 Pro display: Smaller Dynamic Island could arrive. A20 chip: A20 could be Apple's biggest leap in years. New premium finishes tipped for September 2026.,"https://static.toiimg.com/thumb/msid-131685623,imgsize-988042,width-400,height-225,resizemode-4/apple-iphone-18-pro-expected-to-debut-in-september-2026-leaked-colours-design-camera-upgrades-battery-price-and-more.jpg"
-"One of America's largest premium investor services says: Warren Buffett would never buy SpaceX IPO, and instead do this",https://timesofindia.indiatimes.com/technology/tech-news/one-of-americas-largest-premium-investor-services-says-warren-buffett-would-never-buy-spacex-ipo-and-instead-do-this/articleshow/131684994.cms,"""While SpaceX has captured the imagination of investors globally, the company's financials are what truly matter. They are the core reason Buffett almost certainly will sit this one out,""
-
-Why Warren Buffett would likely stay away from Elon Musk’s SpaceX IPO
-
-
-
-""Buffett's first rule of investing is to only buy companies that you understand,""
-
-What Warren Buffett might do instead of buying SpaceX IPO
-
-
-
-""There are other ways to gain exposure to SpaceX without taking on extreme volatility and risk,""
-
-""This is an approach Buffett might prefer to participating in the IPO directl
-
-""Buffett sees companies for what they are and never let short-term noise cloud his decisions. Until SpaceX's financials make sense, you probably won't see Buffett touching the shares,”
-
-
-
-","""Buffett sees companies for what they are and never let short-term noise cloud his decisions,"" says one expert. ""Until SpaceX's financials make sense, you probably won't see Buffett touching the shares,"" says another. ""There are other ways to gain exposure to SpaceX without taking on extreme volatility and risk,"" says a third.","https://static.toiimg.com/thumb/msid-131685108,imgsize-30338,width-400,height-225,resizemode-4/one-of-america39s-largest-premium-investor-services-says-warren-buffett-would-never-buy-spacex-ipo-and-instead-do-this.jpg"
-"Microsoft is not the only company 'warning' about using Anthropic Claude Fable, other companies too are worried that…",https://timesofindia.indiatimes.com/technology/tech-news/microsoft-is-not-the-only-company-warning-about-using-anthropic-claude-fable-other-companies-too-are-worried-that/articleshow/131683402.cms,"Claude Fable 5 data retention rules spark enterprise backlash beyond Microsoft
-
-A retention policy Microsoft and other Anthropic clients can't switch off
-
-Why Anthropic says the 30-day window has to stay
-
-
-
-
-
-When Anthropic flipped the switch on Claude Fable 5—its first publicly available Mythos-class model— on June 9, the AI giant quietly rewrote a clause enterprises had been counting on. Every prompt and every output now sits on Anthropic's servers for 30 days. No opt-out. No Zero Data Retention carve-out, even for the enterprise customers who had specifically negotiated one. Microsoft was the first big name to flinch—but it isn't the only one.The Verge first reported this week that Microsoft has restricted Claude Fable 5 from the internal model picker its employees use inside GitHub Copilot, even as the company rolled out the same model to its Copilot and Foundry customers. The reason, per sources cited by The Verge: Microsoft's legal teams are still evaluating whether the new retention rules sit comfortably with the company's customer data and confidentiality obligations.But Microsoft isn't the only company pumping the brakes. A new report from The Information says several AI legal firms are warning that the policy could create problems for attorney-client privilege—the rule that shields communications between lawyers and their clients from disclosure.Etay Maor, vice president of threat intelligence at security firm Cato Networks, told The Information that Anthropic's approach looks unusual from a security architecture standpoint. Maor said the safeguards will stop some attackers but introduce tradeoffs enterprises need to weigh, noting that data retention ""is typically configurable and controlled by the client, not the provider.""That's the crux of the discomfort. Every other Claude model in the API—Opus 4.8, Sonnet 4.6, Haiku 4.5—can still run under Zero Data Retention agreements. Fable 5 cannot. Any existing ZDR contract does not apply to Fable 5 traffic, which means law firms, healthcare providers, and regulated enterprises now have to think twice before piping sensitive prompts through the model.Anthropic's own support page lays out the logic. Mythos-class models are powerful enough—particularly in cyber and bio domains—that the company wants to watch for patterns of abuse that only surface across multiple requests. Best-of-N jailbreaks. State-sponsored espionage campaigns. Data extortion attempts. Retained prompts and outputs get analysed for misuse signals, and most are deleted after 30 days. Flagged content, however, can be held for up to two years.For general counsels at the world's biggest companies, that's the math they're now being asked to sign off on—and many, going by the Microsoft precedent, are not yet ready to do so.",Anthropic's Claude Fable 5 data retention rules spark enterprise backlash beyond Microsoft. Every prompt and every output now sits on Anthropic's servers for 30 days. Microsoft was the first big name to flinch—but it isn't the only one.,"https://static.toiimg.com/thumb/msid-131683402,imgsize-15740,width-400,height-225,resizemode-4/131683402.jpg"
-Billionaire Kevin O'Leary admits making mistakes after huge protests over his giant data center project; says: That’s not the way I do ...,https://timesofindia.indiatimes.com/technology/tech-news/billionaire-kevin-oleary-admits-making-mistakes-after-huge-protests-over-his-giant-data-center-project-says-thats-not-the-way-i-do-/articleshow/131683373.cms,"After push back, Kevin O’Leary promised scaling down data center project
-
-
-
-
-
-
-
-Billionaire Kevin O'Leary's $100 billion data center project is facing a massive backlash in the northwestern corner of Utah. According to locals and scientists the Stratos Project, backed by celebrity Canadian investor Kevin O’Leary stands out not just for the way in which it was approved, but also for its size. ""Shark Tank"" fame O'Leary has boasted that it would be one of the biggest data centers in the world.As the protests against the project intensify, Kevin O'Leary has admitted that he needed to work in a more transparent way. The Canadian billionaire to a local ABC affiliate, ABC4.com.After agreeing to scale down the Stratos Project data center, Kevin O’Leary is admitting that he ‘screwed up’ the initial rollout of the plans. He has agreed that he should have addressed environmental concerns from the beginning.In an interview to the publication, he said, ""Here’s what I think now at this point, I think the two of us [O’Leary and Adams] really screwed this up initially,” O’Leary said. “That’s what I think. I think we made huge mistakes. We made some assumptions that were just not right.""Leary said that he was not expecting this kind of intense blowback from the public, in fact thought that people would be excited about him investing $15 billion in the local economy.“We really screwed it up,” he said. “We pissed off a lot of people, and that’s not the way I do business. That’s not.”“I care about the people of Box Elder. I mean, they’re my partners in this because I want to employ a bunch of them, thousands of them, and there’s 66,000 people there, and I want to pay taxes there,” he said. “And I want to be a contributor to the community there and build something I’m very proud of, and I want them to be proud of it too, so the only way to do that is for me to communicate the process transparently.”In a letter sent to Utah Senate President J Stuart Adams earlier this month, O’Leary agreed to remove 19,430 acres in and around the Locomotive Springs area in recognition of the Locomotive Springs Waterfowl Management Area. His response came days after Adams sent a letter calling Leary for a 75% area reduction for the data center project. “The practical effect is that the project’s built industrial and data-center footprint is brought in line with the scale your letter contemplates while the broader expansion area remains available to anchor advanced manufacturing and defense-industrial uses over a 30-year horizon,” O’Leary said, responding to the issues raised in Adam’s letter.“We are aligned with the standards you have set.” O’Leary described the “industry-leading water-use technology” and is committed to dedicating any excess water to the Great Salt Lake.","Kevin O'Leary's $100 billion data center project is facing a massive backlash in the northwestern corner of Utah. The Canadian billionaire has admitted that he'screwed up' the initial rollout of the plans. He has agreed to remove 19,430 acres in and around the Locomotive Springs area.","https://static.toiimg.com/thumb/msid-131683350,imgsize-1038327,width-400,height-225,resizemode-4/kevin-o39leary.jpg"
-Amazon expands Smartchoice feature to 10 product categories,https://timesofindia.indiatimes.com/technology/tech-news/amazon-expands-smartchoice-feature-to-10-product-categories/articleshow/131682984.cms,"Laptops: Everyday, student, AI-enabled, business, casual gaming, mainstream gaming, enthusiast gaming
-
-Tablets: Productivity, entertainment, creativity, gaming
-
-Gaming: Accessories: For coders, FPS, MMO and RPG players
-
-Wearables: Fitness tracking, health monitoring
-
-TWS Audio: Study, fitness, premium listening
-
-Soundbars: Optimized for different room sizes
-
-Cameras: Travel, vlogging, professional photography
-
-Monitors: Portable, office, ultra-wide, esports, gaming, content creation
-
-Air Conditioners: Room-size and efficiency-based picks
-
-Refrigerators: Family-size and feature-based picks
-
-Washing Machines: Load-size and feature-based picks
-
-How Amazon’s Smartchoice works
-
-Amazon Smartchoice Days
-
-Some of the deals include:
-
-Laptops such as the ASUS Chromebook CX1405 for Rs 36,990 and the Dell 15 Smart Choice 13th Gen Laptop for Rs 70,490
-
-Tablets such as Samsung Galaxy Tab A11+ at Rs 25,390 and Lenovo Idea Tab Pro (Smartchoice) at Rs 37,499
-
-ACs like Godrej 2 Ton 3 Star Inverter Split AC for Rs 40,900 and Hitachi 1.5 Ton 5 Star, Xpandable+ Inverter Split AC for Rs 44,690
-
-Monitors such as Lenovo Legion Smartchoice Gaming Monitor at Rs 16,421, Samsung 32"" (80cm) M5 Smart Monitor at Rs 17,499
-
-Washing Machines such as Bosch 9 kg 5 Star Front Load Fully-Automatic Washing Machine at Rs 42,900 and Samsung Smart Choice 10 Kg, 5 Star, AI Wash Fully-Automatic Top Load Washing Machine at Rs 25,990
-
-Smart wearables such as sekyo Carepal Pro (Smartchoice) 4G Kids Smart Watch at Rs 5,880, Redmi Watch 5 Lite, 1.96"" Amoled at Rs 3,499, Noise Newly Launched Endeavour Rugged Design 1.46"" AMOLED Display Smart Watch at Rs 3,499
-
-Canon EOS R50 V Smartchoice Mirrorless Camera Kit at Rs 68,990 and Canon EOS R6 Mark II Smartchoice 24.2 MP Mirrorless Camera-Body Only at Rs 65,740
-
-Audio devices like Boat Nirvana 751 ANC Wireless Headphones with Mic at Rs 2,999 and Sony WH-1000XM6 Wireless Noise Canceling Headphones at Rs 39,990
-
-Soundbars such as Boat Aavante 2.1 1600D Home Theatre Soundbar at Rs 6,499, Boat Aavante 5.2.4 Prime 6250DA Bluetooth Soundbar at Rs 17,999
-
-Gaming Accessories like Ant Esports Diamondback 55 Smartchoice Wireless Gaming Mouse at Rs 1999, HP GK400Y Mechanical Gaming Keyboard at Rs 1,599 and Razer Barracuda X 2022 Smartchoice Wireless Gaming Headset at Rs 9,596
-
-
-
-","Some of the deals include:. Laptops such as the ASUS Chromebook CX1405 for Rs 36,990 and the Dell 15 Smart Choice 13th Gen. Laptop for Rs 70,490Tablets such as Samsung Galaxy Tab A11+ at Rs 25,390 and Lenovo Idea Tab Pro (Smartchoice) at Rs 37,499ACs like Godrej 2 Ton 3 Star Inverter Split AC for Rs 40,900 and Hitachi 1.5 Ton 5 Star, Xpandable+ Inverters for Rs 44,690. Smart wearables such as sekyo","https://static.toiimg.com/thumb/msid-131683302,imgsize-22574,width-400,height-225,resizemode-4/amazon.jpg"
-"Anthropic's Claude Fable 5 is the smartest AI model, but why that's not the same as being the best one",https://timesofindia.indiatimes.com/technology/tech-news/anthropics-claude-fable-5-is-the-smartest-ai-model-but-why-thats-not-the-same-as-being-the-best-one/articleshow/131681150.cms,"Endurance is what Fable sells. Endurance is what most people don't need
-
-Claude Fable 5 leads every benchmark Anthropic published, beating Claude Opus 4.8, GPT-5.5 and Gemini 3.1 Pro across coding, knowledge work, vision, legal reasoning and health. The widest gaps show up on the hardest tasks.
-
-UC Berkeley's Agents' Last Exam ranks the top AI agents on 1,490 real professional tasks across 55 industries. OpenAI's GPT-5.5 through the Codex harness came first. Claude Fable 5 finished third.
-
-Most working developers are no longer relying on a single AI model. The routine that has settled in across teams uses GPT-5.5 for daily work, Fable for the hardest problems, Opus when Fable's price stops making sense, and cheaper open-source models for routine, high-volume tasks.
-
-Opus is the Claude Anthropic isn't selling you
-
-Claude Fable 5 is the most expensive frontier AI model on the market, at $10 per million input tokens and $50 per million output. Anthropic's own Claude Opus 4.8 costs half that. DeepSeek's V4 Pro runs at under $1.50 combined.
-
-A day of typical business AI work—roughly a million words processed in mixed input and output—priced across the frontier. Output quality is broadly comparable on this kind of workload.
-
-Everyone else is running a different race
-
-​The four major frontier AI labs have stopped competing on the same axis. Anthropic is selling raw intelligence, OpenAI is selling reliability, Google is selling multimodal breadth, and the open-source flank is selling price.
-
-Nobody picks just one anymore
-
-
-
-
-
-Claude Fable 5 is, by most reasonable measures, the most capable AI model anyone can buy right now. It is the public-facing version of Claude Mythos 5, an even more powerful model that Anthropic refuses to release. The naming is deliberate—both words mean a story, but a fable is the safer, tamer version of the kind of tale a myth carries. Mythos sits behind closed doors, available to a handful of cybersecurity partners and, soon, a small group of biology researchers. Fable is the same underlying brain wrapped in a layer of safety filters. Ask it about cybersecurity, biology, or building competing AI, and the answer quietly comes from Claude Opus 4.8 instead, Anthropic's previous flagship. What everyone else gets is the leashed version, and even leashed, it is the strongest AI model on general sale.Fable thinks for longer than anything else on the market. It holds a complicated problem in its head from beginning to end without losing the thread. Stripe handed it a fifty-million-line code overhaul and it finished the job in a day. Hex, the data company, said it was the first AI to clear ninety percent on its hardest analytics test.Crosby Legal put its contract markups in front of lawyers and they couldn't tell which edits came from Fable and which came from the model they already used in court. If you were picking an AI model on the basis of those numbers, you'd pick Fable. And you would, fairly often, be making a mistake.This is the strange thing about the state of the frontier right now. The smartest model and the most useful model have come apart. They aren't the same thing anymore, and a week of actually using Fable next to its rivals makes that clearer than any chart. The case for Fable is real. It's also narrower than the company's marketing suggests, and the cost of getting that wrong is the kind of money that adds up fast.Start with what Fable actually does well. The strength is endurance, not raw intelligence. On a quick problem, Fable, GPT-5.5, Gemini and Anthropic's own older Opus all land in roughly the same place. The gap opens up over time. By hour three of an agentic task, the others have drifted; Fable hasn't. This is why every customer story Anthropic ran involves long, gnarly, multi-day projects and not, say, writing a clean email.Endurance is genuinely new, and it's genuinely valuable for the small number of problems shaped that way. The trouble is that most problems aren't shaped that way.Most real work is a list, not a marathon. Reply to this email, then update that spreadsheet, then check this calendar, then write that summary. Researchers at the University of California, Berkeley recently put this exact thing to the test with a benchmark called Agents' Last Exam—1,490 real professional tasks across 55 industries, graded strictly. GPT-5.5 came first. Fable came third.The gap on the scoreboard was small. The reason behind it wasn't. Berkeley's test punishes AI models that lose track of instructions across many small steps, and that's been the long-standing complaint about Claude: brilliant on one big problem, forgetful when given fifteen things to do in sequence.This matters because it's a more honest snapshot of what working with AI actually looks like for most people most days. GPT-5.5 plods through a list the way a careful junior employee would. It's about half the price of Fable, runs faster, hits rate limits less often, and follows instructions more reliably. Developers have quietly settled into a routine where they leave GPT-5.5 open as a default and switch to Fable only when something gets genuinely hard.That isn't the picture the Anthropic is painting. It's the picture the actual usage is settling into.Then there's the question of cost, which the benchmarks don't show and which decides a surprising number of these arguments in practice. Fable runs at ten dollars per million words of input and fifty per million for output—the most expensive model from any major lab. Opus 4.8, Anthropic's own previous flagship, runs at half that, at five dollars and twenty-five. GPT-5.5 sits in the same range as Opus. Gemini 3.1 Pro comes in at roughly a fifth of Fable's input price. DeepSeek's V4 Pro runs at under a dollar fifty per million words combined.On the hardest problems, none of those cheaper models touches Fable. On most work, the difference in their output isn't large enough to justify the difference in their bills.The quietest casualty of Fable's arrival is Anthropic's own Opus. Until recently it was the company's top model. Now it's a backup—the model Fable routes to when its safety filters trip on cybersecurity or biology questions, and the cheaper Claude when Fable's price stops making sense. Opus still beats GPT-5.5 on most of the benchmarks Anthropic published. For work that doesn't sit at the absolute top of the difficulty curve, it's the smarter default inside Anthropic's lineup. Anthropic isn't going to advertise that. The arithmetic does.What makes Fable particularly easy to misuse is that it's marketed for the moments it's actually built for: the unusually hard problem, the migration that would otherwise take months, the analytical task where the difference between a good answer and a great one matters more than the difference in cost. For those moments, it earns its price and then some.For the rest of the week, paying Fable rates for work a cheaper model would handle just as well is the kind of decision a finance team eventually asks questions about.The competition isn't even really trying to win the fight Fable just won. GPT-5.5 is built for the steady, unglamorous reliability that most working hours actually demand, and developers have quietly noticed. Gemini is built for the documents, scans and slide decks where the world's real paperwork lives, and on that ground nothing else comes close. The cheaper open-source models below them aren't chasing intelligence at all, just doing the simpler work that fills most of an AI bill at a price that keeps the argument short. None of them is trying to be the smartest. All of them are winning the parts of the market they aimed for.What that leaves Anthropic with is a strange kind of victory, the kind that comes from holding a trophy nobody else turned up to compete for. Being the smartest still matters when smartness is what the customer needs, but the customers who need it on a Tuesday afternoon also need a dozen other things the rest of the week, and the rivals have quietly spent the last year making sure they're the ones who get reached for in those other moments. Fable is the model nobody else built. It's also, increasingly, the model nobody else needed to.Underneath all of this, the shape of the market has changed in a way that no one has quite captured. A year ago, picking an AI model was a single decision: the smartest one, if you could afford it. Now most serious teams are using two or three models in the same week. GPT-5.5 for daily work. Fable when something is hard. Opus when Fable's price doesn't earn its keep. Cheaper models for the long tail of small jobs. There is no longer a single right answer, and the big AI labs would prefer that this didn't catch on, because their premium pricing depends on the old idea that customers will pick a flagship and stay loyal to it.Fable, for what it's worth, is genuinely impressive. The endurance is new. The capability is real. The customer stories are not invented. It is also the newest model in this whole comparison, with rivals that have been out for months and update on a cycle Anthropic doesn't, which means whatever lead it holds today is the kind a competitor can take back. But the gap between what Fable does best and what most people need on a Tuesday afternoon is wide enough to walk through, and the cost of pretending otherwise is steeper than the Anthropic made it sound.The smartest AI model in the world is not the same thing as the best AI model for your work. That distinction used to be academic. With Fable on the market at the price Anthropic is charging, it has stopped being academic at all.","Claude Fable 5 is the most expensive frontier AI model on the market, at $10 per million input tokens and $50 per million output. The four major frontier AI labs have stopped competing on the same axis. Fable is the public-facing version of Claude Mythos 5, an even more powerful model that Anthropic refuses to release.","https://static.toiimg.com/thumb/msid-131682866,imgsize-79732,width-400,height-225,resizemode-4/anthropics-claude-fable-5-is-the-smartest-ai-model-on-sale-right-now.jpg"
-"Quote of the day by Melinda French Gates: If you are successful it is because somewhere, sometime, someone gave you a life or an idea that started you in the right direction",https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-melinda-french-gates-if-you-are-successful-it-is-because-somewhere-sometime-someone-gave-you-a-life-or-an-idea-that-started-you-in-the-right-direction/articleshow/131682235.cms,"What Melinda French Gates' quote means
-
-A message reflected in her work
-
-
-
-
-
-Melinda French Gates believes success is rarely achieved alone. In a quote from a speech she delivered at her high school graduation in 1982, the philanthropist highlighted the importance of recognizing the people who help shape our lives. Decades later, Gates revisited the message and said she still stands by it. The quote reads: ""If you are successful it is because somewhere, sometime, someone gave you a life or an idea that started you in the right direction. Remember, also, that you are indebted to life until you help some less fortunate person, just as you were helped.""At its core, the quote is about acknowledging that success is often built on support from others. The ""life or an idea"" mentioned by Gates can mean many things. It could be advice from a teacher, encouragement from a parent, a chance given by an employer or inspiration from a mentor.People often benefit from opportunities, guidance and support along the way. Gates also highlights a second message. She says that people who achieve success have a responsibility to help others, especially those who may not have the same opportunities.""Remember, also, that you are indebted to life until you help some less fortunate person, just as you were helped,"" she said.The quote has become closely associated with Gates' approach to philanthropy. Along with Microsoft co-founder Bill Gates, she helped establish the Bill & Melinda Gates Foundation in 2000. The foundation has invested billions of dollars in global health, education and poverty reduction programs.Over the years, Melinda French Gates has been vocal about creating opportunities for others and ensuring that more people have access to the resources they need to succeed. She has also encouraged young people to trust themselves and pursue their goals.In another piece of advice shared with students, Gates said: ""Trust yourself. You probably know more than you think you do.""","Melinda French Gates says success is often built on support from others. The quote is from a speech she gave at her high school graduation in 1982. She says people who achieve success have a responsibility to help others. Along with Bill Gates, she helped establish the Bill & Melinda Gates Foundation.","https://static.toiimg.com/thumb/msid-131682229,imgsize-1701059,width-400,height-225,resizemode-4/melinda-french-gates.jpg"
-"After China's deadline, Meta starts 'unwinding' deal with Chinese-origin AI company Manus that it spent $2 billion on",https://timesofindia.indiatimes.com/technology/tech-news/after-chinas-deadline-meta-starts-unwinding-deal-with-chinese-origin-ai-company-manus-that-it-spent-2-billion-on/articleshow/131681825.cms,"
-
-Meta asks employees to stop using Manus tools
-
-Why China ordered Meta to unwind Manus deal
-
-
-
-China tightens controls on AI
-
-
-
-
-
-Mark Zuckerberg-owned Meta has started dismantling its $2 billion acquisition of AI startup Manus after Chinese regulators ordered the deal to be reversed, according to a Bloomberg report. Meta “has completed an operational split from Manus and halted data sharing between the two companies, taking a pivotal step toward unwinding a $2 billion acquisition opposed by Beijing,” the Bloomberg report stated. The development comes after China gave a two-week deadline to Meta as the country tightens its control over technology, data, talent and overseas investments amid growing competition with the United States in AI.According to Bloomberg, Meta has ordered employees to stop using Manus tools for internal projects. The report also said that Manus staff have been blocked from accessing Meta's internal data systems beginning this month.The operational split is part of a broader effort to reverse the acquisition that Meta announced in December last year. To recall, Chinese regulators directed the deal to be unwound in April under the country's foreign investment security review process.Legal experts told Bloomberg that the decision was unprecedented and has turned the Meta-Manus transaction into a major test case for China's technology controls.Manus moved its headquarters and core teams to Singapore last year before agreeing to be acquired by Meta. However, Chinese authorities reportedly viewed the transaction as involving sensitive technology and talent.""Chinese-origin AI now carries a kind of reversibility risk that no clever deal structure can price out,"" Matthias Hendrichs, a Singapore-based adviser to global AI companies, told Bloomberg.""Once another company's engineers have been inside your stack, you can delete the repository, but you can't make them unsee what they've seen,"" he added.As per the Bloomberg report, Beijing has recently introduced new rules that give authorities greater power over overseas transactions involving Chinese investors, technology, data and national security concerns. The rules are scheduled to take effect on July 1.The framework will reportedly allow China to intervene not only in future transactions but also in completed deals.","Mark Zuckerberg-owned Meta has started dismantling its $2 billion acquisition of AI startup Manus after Chinese regulators ordered the deal to be reversed. The development comes after China gave a two-week deadline to Meta as the country tightens its control over technology, data, talent and overseas investments. Meta has ordered employees to stop using Manus tools for internal projects.","https://static.toiimg.com/thumb/msid-131681862,imgsize-299220,width-400,height-225,resizemode-4/after-china39s-deadline-meta-starts-39unwinding39-deal-with-chinese-origin-ai-company-manus-that-it-spent-2-billion-on.jpg"
-"Fight over Donald Trump’s $100,000 H-1B visa fee continues as Justice Department warns all tech companies",https://timesofindia.indiatimes.com/technology/tech-news/fight-over-donald-trumps-100000-h-1b-visa-fee-continues-as-justice-department-warns-all-tech-companies/articleshow/131681726.cms,"H-1B visa
-
-What the Justice Department said
-
-
-
-A squeeze on Silicon Valley
-
-
-
-
-
-
-
-The legal battle over the Trump administration’s immigration policies has escalated as the government announced it will formally appeal a federal court ruling that blocked its $100,000 H-1B visa application fee. Alongside the appeal notice, the Department of Justice (DOJ) warned to technology firms and corporate employers nationwide to not exploit the visa system.According to a report by CNBC, the legal response comes just three days after US District Judge Leo Sorokin in Boston delivered a blow to the White House by striking down the fee. Judge Sorokin ruled that President Donald Trump had exceeded his executive authority, and that the massive financial hike looked and functioned like a tax, which legally requires approval from Congress.The Justice Department fired back, signaling that it has no intention of backing down from the administration’s broader crackdown on foreign skilled labor.“The Department of Justice is committed to protecting American workers and fully supports President Trump’s America First agenda,” a DOJ spokesperson told CNBC in a statement, adding, “Another court has already ruled in the Administration’s favor on this issue, and we will continue to hold companies accountable when they unlawfully exploit American workers and fail to use the H-1B program as intended.”The H-1B visa program, originally created by Congress in 1990, allows American employers to hire high-skilled foreign workers in specialized occupations, such as software engineering, data science and technology research, for up to six years. Over the decades, this system has become the primary talent pipeline that allowed the US tech giants to bring in top-tier international professionals.Before President Trump took aim at the program, corporate application fees for an H-1B visa ranged from $2,000 to $5,000 per applicant.However, last September, Trump issued an executive order that altered the cost structure by raising the fee to $100,000. The administration justified the massive spike by arguing that corporations were abusing the visa program to hoard cheap foreign labor and replace qualified American workers.","US District Judge Leo Sorokin in Boston struck down the White House's $100,000 H-1B visa application fee. Judge Sorokin ruled that President Donald Trump had exceeded his executive authority. Alongside the appeal notice, the Department of Justice warned to technology firms and corporate employers nationwide to not exploit the visa system.","https://static.toiimg.com/thumb/msid-131681704,imgsize-62118,width-400,height-225,resizemode-4/h-1b-visa.jpg"
-IndiaAI-backed Varya bets on efficiency over size in video AI race,https://timesofindia.indiatimes.com/technology/tech-news/indiaai-backed-varya-bets-on-efficiency-over-size-in-video-ai-race/articleshow/131681660.cms,"Representative Image
-
-
-
-
-
-New Delhi: Avataar.ai on Friday launched Varya, an indigenous video-generation AI model developed with support from the IndiaAI Mission, claiming it can generate videos at a fraction of the cost of several leading global models.The company said Varya uses a machine-learning technique called distillation to reduce the number of computational steps required to generate a video from more than 50 to four, lowering computing costs while delivering similar output quality.The model was unveiled in New Delhi in the presence of MeitY secretary S Krishnan. Avataar was among the companies selected under the IndiaAI Mission to develop indigenous AI capabilities using subsidised national computing infrastructure.Several technology companies have recently launched AI systems capable of generating videos from text prompts or images, but the computing cost involved remains high. Avataar said Varya can generate video at about ₹0.48 per second and is up to ten times more cost-efficient than several international models, based on its internal benchmarks.The company said distillation allows a smaller AI model to produce results similar to those of a much larger model while using far less computing power.According to Avataar, conventional video-generation systems typically require more than 50 iterative steps to produce a final output, whereas Varya completes the process in four steps.The company said the model was trained to generate visuals reflecting Indian settings, including festivals, clothing, food, public spaces and regional contexts. It said the technology could be used by teachers to create visual lessons, by small businesses to develop advertisements and by government agencies to communicate information through videos.Krishnan said, ""The launch of one of the foundational models supported under the IndiaAI Mission marks a significant milestone in India's AI journey.""He said the initiative reflected the government's commitment to building indigenous AI capabilities and supporting innovation through foundational AI models.Avataar CEO and co-founder Sravanth Aluru said India's AI opportunity would be shaped not only by the largest models but also by AI models that can be used widely at lower cost.""For a country of 1.4 billion people, affordability is not a feature, it is a prerequisite,"" he said.Users can enter a text prompt or upload an image to generate a video and extend it through additional clips. The company said the technology could be applied to lessons, advertisements, informational content and other forms of visual storytelling.Avataar said it would publish a technical report detailing Varya's architecture, distillation methodology and performance benchmarks.Varya is among the first AI foundation models announced under the IndiaAI Mission support programme, which aims to encourage the development of indigenous AI technologies and applications tailored to Indian requirements.",Varya is an indigenous video-generation AI model developed with support from the IndiaAI Mission. Avataar claims it can generate videos at a fraction of the cost of several leading global models. The model was unveiled in New Delhi in the presence of MeitY secretary S Krishnan.,"https://static.toiimg.com/thumb/msid-131681693,imgsize-41426,width-400,height-225,resizemode-4/indiaai-backed-varya-bets-on-efficiency-over-size-in-video-ai-race.jpg"
